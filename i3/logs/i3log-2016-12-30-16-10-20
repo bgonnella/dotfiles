@@ -1,0 +1,147 @@
+12/30/2016 04:10:20 PM - i3 4.13-non-git starting
+12/30/2016 04:10:20 PM - Parsing configfile /home/bryan/.config/i3/config
+12/30/2016 04:10:20 PM - deciding for version 4 due to this line: # i3 config file (v4)
+12/30/2016 04:10:20 PM - [libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+12/30/2016 04:10:20 PM - [libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+12/30/2016 04:10:20 PM - Initializing first assigned workspace "1" for output "DP-4"
+12/30/2016 04:10:20 PM - Creating new workspace "1"
+12/30/2016 04:10:20 PM - got output 0x1a16b70 with content 0x1a18290
+12/30/2016 04:10:20 PM - num = 1
+12/30/2016 04:10:20 PM - focused now = 0x1a1ccf0 / 1
+12/30/2016 04:10:20 PM - workspace visible? fs = 0x1a1ccf0, ws = 0x1a1ccf0
+12/30/2016 04:10:20 PM - workspace visible? fs = 0x1a150c0, ws = 0x1a150c0
+12/30/2016 04:10:20 PM - Initializing first assigned workspace "2" for output "HDMI-0"
+12/30/2016 04:10:20 PM - Creating new workspace "2"
+12/30/2016 04:10:20 PM - got output 0x1a19ac0 with content 0x1a1b3a0
+12/30/2016 04:10:20 PM - num = 2
+12/30/2016 04:10:20 PM - focused now = 0x1a1d930 / 2
+12/30/2016 04:10:20 PM - workspace visible? fs = 0x1a1d930, ws = 0x1a1d930
+12/30/2016 04:10:20 PM - workspace visible? fs = 0x1a1ccf0, ws = 0x1a1ccf0
+12/30/2016 04:10:20 PM - workspace visible? fs = 0x1a150c0, ws = 0x1a150c0
+12/30/2016 04:10:20 PM - This is not an in-place restart, copying root window contents to a pixmap
+12/30/2016 04:10:20 PM - auto-starting compton -f
+12/30/2016 04:10:20 PM - startup id = i3/compton/453-0-powerhaus.bnet_TIME0
+12/30/2016 04:10:20 PM - executing: compton -f
+12/30/2016 04:10:20 PM - auto-starting nitrogen --restore
+12/30/2016 04:10:20 PM - executing: nitrogen --restore
+12/30/2016 04:10:20 PM - auto-starting ~/.config/i3/lock/lock.sh
+12/30/2016 04:10:20 PM - startup id = i3/~|.config|i3|lock|lock.sh/453-1-powerhaus.bnet_TIME0
+12/30/2016 04:10:20 PM - executing: ~/.config/i3/lock/lock.sh
+12/30/2016 04:10:20 PM - auto-starting xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+12/30/2016 04:10:20 PM - startup id = i3/xautolock/453-2-powerhaus.bnet_TIME0
+12/30/2016 04:10:20 PM - executing: xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+12/30/2016 04:10:20 PM - auto-starting google-chrome-stable --app=https://listen.tidal.com/ &
+12/30/2016 04:10:20 PM - startup id = i3/google-chrome-stable/453-3-powerhaus.bnet_TIME0
+12/30/2016 04:10:20 PM - executing: google-chrome-stable --app=https://listen.tidal.com/ &
+12/30/2016 04:10:20 PM - Starting bar process: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.453"
+12/30/2016 04:10:20 PM - executing: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.453"
+12/30/2016 04:10:20 PM - Not a managed window, ignoring UnmapNotify event
+12/30/2016 04:10:20 PM - Not a managed window, ignoring UnmapNotify event
+12/30/2016 04:10:20 PM - Not a managed window, ignoring UnmapNotify event
+12/30/2016 04:10:20 PM - Not a managed window, ignoring UnmapNotify event
+12/30/2016 04:10:20 PM - IPC: looking for config for bar ID "bar-0"
+12/30/2016 04:10:20 PM - workspace visible? fs = 0x1a1d930, ws = 0x1a1d930
+12/30/2016 04:10:20 PM - workspace visible? fs = 0x1a1ccf0, ws = 0x1a1ccf0
+12/30/2016 04:10:20 PM - WM_CLASS changed to i3bar (instance), i3bar (class)
+12/30/2016 04:10:20 PM - WM_NAME changed to "i3bar for output HDMI-0"
+12/30/2016 04:10:20 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/30/2016 04:10:20 PM - This window is of type dock
+12/30/2016 04:10:20 PM - Checking window 0x00e00006 (class i3bar)
+12/30/2016 04:10:20 PM - dock status does not match
+12/30/2016 04:10:20 PM - Checking window 0x00e00006 (class i3bar)
+12/30/2016 04:10:20 PM - dock status matches
+12/30/2016 04:10:20 PM - Checking window 0x00e00006 (class i3bar)
+12/30/2016 04:10:20 PM - Regular expression "Google-chrome" does not match "i3bar"
+12/30/2016 04:10:20 PM - workspace visible? fs = 0x1a1ccf0, ws = 0x1a1ccf0
+12/30/2016 04:10:20 PM - workspace visible? fs = 0x1a1d930, ws = 0x1a1d930
+12/30/2016 04:10:20 PM - workspace visible? fs = 0x1a150c0, ws = 0x1a150c0
+12/30/2016 04:10:20 PM - ClientMessage for window 0x000001ef
+12/30/2016 04:10:20 PM - WM_CLASS changed to i3bar (instance), i3bar (class)
+12/30/2016 04:10:20 PM - WM_NAME changed to "i3bar for output DP-4"
+12/30/2016 04:10:20 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/30/2016 04:10:20 PM - This window is of type dock
+12/30/2016 04:10:20 PM - Checking window 0x00e0000d (class i3bar)
+12/30/2016 04:10:20 PM - dock status does not match
+12/30/2016 04:10:20 PM - Checking window 0x00e0000d (class i3bar)
+12/30/2016 04:10:20 PM - dock status matches
+12/30/2016 04:10:20 PM - Checking window 0x00e0000d (class i3bar)
+12/30/2016 04:10:20 PM - Regular expression "Google-chrome" does not match "i3bar"
+12/30/2016 04:10:20 PM - workspace visible? fs = 0x1a1ccf0, ws = 0x1a1ccf0
+12/30/2016 04:10:20 PM - workspace visible? fs = 0x1a1d930, ws = 0x1a1d930
+12/30/2016 04:10:20 PM - workspace visible? fs = 0x1a150c0, ws = 0x1a150c0
+done
+12/30/2016 04:10:28 PM - WM_CLASS changed to listen.tidal.com (instance), Google-chrome (class)
+12/30/2016 04:10:28 PM - WM_NAME changed to "Untitled"
+12/30/2016 04:10:28 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/30/2016 04:10:28 PM - _NET_WM_NAME changed to "Untitled"
+12/30/2016 04:10:28 PM - WM_WINDOW_ROLE changed to "pop-up"
+12/30/2016 04:10:28 PM - Checking window 0x01600002 (class Google-chrome)
+12/30/2016 04:10:28 PM - dock status does not match
+12/30/2016 04:10:28 PM - Checking window 0x01600002 (class Google-chrome)
+12/30/2016 04:10:28 PM - dock status does not match
+12/30/2016 04:10:28 PM - Checking window 0x01600002 (class Google-chrome)
+12/30/2016 04:10:28 PM - dock status does not match
+12/30/2016 04:10:28 PM - Checking window 0x01600002 (class Google-chrome)
+12/30/2016 04:10:28 PM - dock status does not match
+12/30/2016 04:10:28 PM - Checking window 0x01600002 (class Google-chrome)
+12/30/2016 04:10:28 PM - Regular expression "Google-chrome" matches "Google-chrome"
+12/30/2016 04:10:28 PM - window class matches (Google-chrome)
+12/30/2016 04:10:28 PM - dock status matches
+12/30/2016 04:10:28 PM - Creating new workspace "10 "
+12/30/2016 04:10:28 PM - got output 0x1a19ac0 with content 0x1a1b3a0
+12/30/2016 04:10:28 PM - num = 10
+12/30/2016 04:10:28 PM - workspace visible? fs = 0x1a1d930, ws = 0x1a242b0
+12/30/2016 04:10:28 PM - workspace visible? fs = 0x1a1d930, ws = 0x1a242b0
+12/30/2016 04:10:28 PM - Checking window 0x01600002 (class Google-chrome)
+12/30/2016 04:10:28 PM - Regular expression "Google-chrome" matches "Google-chrome"
+12/30/2016 04:10:28 PM - window class matches (Google-chrome)
+12/30/2016 04:10:28 PM - dock status matches
+12/30/2016 04:10:28 PM - workspace visible? fs = 0x1a1d930, ws = 0x1a242b0
+12/30/2016 04:10:28 PM - Urgency flag changed to 1
+12/30/2016 04:10:28 PM - workspace visible? fs = 0x1a1ccf0, ws = 0x1a1ccf0
+12/30/2016 04:10:28 PM - workspace visible? fs = 0x1a1d930, ws = 0x1a1d930
+12/30/2016 04:10:28 PM - workspace visible? fs = 0x1a150c0, ws = 0x1a150c0
+12/30/2016 04:10:28 PM - workspace visible? fs = 0x1a1d930, ws = 0x1a1d930
+12/30/2016 04:10:28 PM - workspace visible? fs = 0x1a1d930, ws = 0x1a242b0
+12/30/2016 04:10:28 PM - workspace visible? fs = 0x1a1ccf0, ws = 0x1a1ccf0
+12/30/2016 04:10:28 PM - workspace visible? fs = 0x1a1d930, ws = 0x1a1d930
+12/30/2016 04:10:28 PM - workspace visible? fs = 0x1a1d930, ws = 0x1a242b0
+12/30/2016 04:10:28 PM - workspace visible? fs = 0x1a1ccf0, ws = 0x1a1ccf0
+12/30/2016 04:10:43 PM - startup id = i3/i3-sensible-terminal/453-4-powerhaus.bnet_TIME33779
+12/30/2016 04:10:43 PM - executing: i3-sensible-terminal
+12/30/2016 04:10:43 PM - Not a managed window, ignoring UnmapNotify event
+12/30/2016 04:10:44 PM - ClientMessage for window 0x01000004
+12/30/2016 04:10:44 PM - WM_CLASS changed to terminator (instance), Terminator (class)
+12/30/2016 04:10:44 PM - WM_NAME changed to "None"
+12/30/2016 04:10:44 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/30/2016 04:10:44 PM - _NET_WM_NAME changed to "None"
+12/30/2016 04:10:44 PM - WM_HINTS.input changed to "1"
+12/30/2016 04:10:44 PM - Checking window 0x01000004 (class Terminator)
+12/30/2016 04:10:44 PM - dock status does not match
+12/30/2016 04:10:44 PM - Checking window 0x01000004 (class Terminator)
+12/30/2016 04:10:44 PM - dock status does not match
+12/30/2016 04:10:44 PM - Checking window 0x01000004 (class Terminator)
+12/30/2016 04:10:44 PM - dock status does not match
+12/30/2016 04:10:44 PM - Checking window 0x01000004 (class Terminator)
+12/30/2016 04:10:44 PM - dock status does not match
+12/30/2016 04:10:44 PM - Checking window 0x01000004 (class Terminator)
+12/30/2016 04:10:44 PM - Regular expression "Google-chrome" does not match "Terminator"
+12/30/2016 04:10:44 PM - workspace visible? fs = 0x1a1ccf0, ws = 0x1a1ccf0
+12/30/2016 04:10:44 PM - Checking window 0x01000004 (class Terminator)
+12/30/2016 04:10:44 PM - Regular expression "Google-chrome" does not match "Terminator"
+12/30/2016 04:10:44 PM - workspace visible? fs = 0x1a1ccf0, ws = 0x1a1ccf0
+12/30/2016 04:10:44 PM - workspace visible? fs = 0x1a1ccf0, ws = 0x1a1ccf0
+12/30/2016 04:10:44 PM - workspace visible? fs = 0x1a1d930, ws = 0x1a1d930
+12/30/2016 04:10:44 PM - workspace visible? fs = 0x1a150c0, ws = 0x1a150c0
+12/30/2016 04:10:44 PM - _NET_WM_NAME changed to "None"
+12/30/2016 04:10:44 PM - Checking window 0x01000004 (class Terminator)
+12/30/2016 04:10:44 PM - Regular expression "Google-chrome" does not match "Terminator"
+12/30/2016 04:10:44 PM - _NET_WM_NAME changed to "/bin/bash"
+12/30/2016 04:10:44 PM - Checking window 0x01000004 (class Terminator)
+12/30/2016 04:10:44 PM - Regular expression "Google-chrome" does not match "Terminator"
+12/30/2016 04:10:44 PM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+12/30/2016 04:10:44 PM - Checking window 0x01000004 (class Terminator)
+12/30/2016 04:10:44 PM - Regular expression "Google-chrome" does not match "Terminator"
+[../../i3-4.13/i3bar/src/child.c:361] ERROR: stdin: received EOF
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI

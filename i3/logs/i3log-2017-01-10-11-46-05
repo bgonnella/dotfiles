@@ -1,0 +1,284 @@
+01/10/2017 11:46:05 AM - i3 4.13-non-git starting
+01/10/2017 11:46:05 AM - Parsing configfile /home/bryan/.config/i3/config
+01/10/2017 11:46:05 AM - deciding for version 4 due to this line: # i3 config file (v4)
+01/10/2017 11:46:05 AM - [libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+01/10/2017 11:46:05 AM - [libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+01/10/2017 11:46:05 AM - Initializing first assigned workspace "1" for output "DP-4"
+01/10/2017 11:46:05 AM - Creating new workspace "1"
+01/10/2017 11:46:05 AM - got output 0xa96c20 with content 0xa98340
+01/10/2017 11:46:05 AM - num = 1
+01/10/2017 11:46:05 AM - focused now = 0xa9cd90 / 1
+01/10/2017 11:46:05 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:46:05 AM - workspace visible? fs = 0xa95170, ws = 0xa95170
+01/10/2017 11:46:05 AM - Initializing first assigned workspace "2" for output "HDMI-0"
+01/10/2017 11:46:05 AM - Creating new workspace "2"
+01/10/2017 11:46:05 AM - got output 0xa99b70 with content 0xa9b450
+01/10/2017 11:46:05 AM - num = 2
+01/10/2017 11:46:05 AM - focused now = 0xa9d9d0 / 2
+01/10/2017 11:46:05 AM - workspace visible? fs = 0xa9d9d0, ws = 0xa9d9d0
+01/10/2017 11:46:05 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:46:05 AM - workspace visible? fs = 0xa95170, ws = 0xa95170
+01/10/2017 11:46:05 AM - This is not an in-place restart, copying root window contents to a pixmap
+01/10/2017 11:46:05 AM - auto-starting compton -f
+01/10/2017 11:46:05 AM - startup id = i3/compton/521-0-powerhaus.bnet_TIME0
+01/10/2017 11:46:05 AM - executing: compton -f
+01/10/2017 11:46:05 AM - auto-starting nitrogen --restore
+01/10/2017 11:46:05 AM - executing: nitrogen --restore
+01/10/2017 11:46:05 AM - auto-starting ~/.config/i3/lock/lock.sh
+01/10/2017 11:46:05 AM - startup id = i3/~|.config|i3|lock|lock.sh/521-1-powerhaus.bnet_TIME0
+01/10/2017 11:46:05 AM - executing: ~/.config/i3/lock/lock.sh
+01/10/2017 11:46:05 AM - auto-starting xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+01/10/2017 11:46:05 AM - startup id = i3/xautolock/521-2-powerhaus.bnet_TIME0
+01/10/2017 11:46:05 AM - executing: xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+01/10/2017 11:46:05 AM - auto-starting dunst
+01/10/2017 11:46:05 AM - executing: dunst
+01/10/2017 11:46:05 AM - auto-starting google-chrome-stable --app=https://listen.tidal.com/ &
+01/10/2017 11:46:05 AM - startup id = i3/google-chrome-stable/521-3-powerhaus.bnet_TIME0
+01/10/2017 11:46:05 AM - executing: google-chrome-stable --app=https://listen.tidal.com/ &
+01/10/2017 11:46:05 AM - Starting bar process: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.521"
+01/10/2017 11:46:05 AM - executing: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.521"
+01/10/2017 11:46:05 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:46:05 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:46:05 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:46:05 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:46:05 AM - IPC: looking for config for bar ID "bar-0"
+01/10/2017 11:46:05 AM - workspace visible? fs = 0xa9d9d0, ws = 0xa9d9d0
+01/10/2017 11:46:05 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:46:05 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+01/10/2017 11:46:05 AM - WM_NAME changed to "i3bar for output HDMI-0"
+01/10/2017 11:46:05 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/10/2017 11:46:05 AM - This window is of type dock
+01/10/2017 11:46:05 AM - Checking window 0x00c00006 (class i3bar)
+01/10/2017 11:46:05 AM - dock status does not match
+01/10/2017 11:46:05 AM - Checking window 0x00c00006 (class i3bar)
+01/10/2017 11:46:05 AM - dock status matches
+01/10/2017 11:46:05 AM - Checking window 0x00c00006 (class i3bar)
+01/10/2017 11:46:05 AM - Regular expression "Google-chrome" does not match "i3bar"
+01/10/2017 11:46:05 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:46:05 AM - workspace visible? fs = 0xa9d9d0, ws = 0xa9d9d0
+01/10/2017 11:46:05 AM - workspace visible? fs = 0xa95170, ws = 0xa95170
+01/10/2017 11:46:05 AM - ClientMessage for window 0x000001ef
+01/10/2017 11:46:05 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+01/10/2017 11:46:05 AM - WM_NAME changed to "i3bar for output DP-4"
+01/10/2017 11:46:05 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/10/2017 11:46:05 AM - This window is of type dock
+01/10/2017 11:46:05 AM - Checking window 0x00c0000d (class i3bar)
+01/10/2017 11:46:05 AM - dock status does not match
+01/10/2017 11:46:05 AM - Checking window 0x00c0000d (class i3bar)
+01/10/2017 11:46:05 AM - dock status matches
+01/10/2017 11:46:05 AM - Checking window 0x00c0000d (class i3bar)
+01/10/2017 11:46:05 AM - Regular expression "Google-chrome" does not match "i3bar"
+01/10/2017 11:46:05 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:46:05 AM - workspace visible? fs = 0xa9d9d0, ws = 0xa9d9d0
+01/10/2017 11:46:05 AM - workspace visible? fs = 0xa95170, ws = 0xa95170
+done
+01/10/2017 11:46:14 AM - WM_CLASS changed to listen.tidal.com (instance), Google-chrome (class)
+01/10/2017 11:46:14 AM - WM_NAME changed to "Untitled"
+01/10/2017 11:46:14 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/10/2017 11:46:14 AM - _NET_WM_NAME changed to "Untitled"
+01/10/2017 11:46:14 AM - WM_WINDOW_ROLE changed to "pop-up"
+01/10/2017 11:46:14 AM - Checking window 0x01800002 (class Google-chrome)
+01/10/2017 11:46:14 AM - dock status does not match
+01/10/2017 11:46:14 AM - Checking window 0x01800002 (class Google-chrome)
+01/10/2017 11:46:14 AM - dock status does not match
+01/10/2017 11:46:14 AM - Checking window 0x01800002 (class Google-chrome)
+01/10/2017 11:46:14 AM - dock status does not match
+01/10/2017 11:46:14 AM - Checking window 0x01800002 (class Google-chrome)
+01/10/2017 11:46:14 AM - dock status does not match
+01/10/2017 11:46:14 AM - Checking window 0x01800002 (class Google-chrome)
+01/10/2017 11:46:14 AM - Regular expression "Google-chrome" matches "Google-chrome"
+01/10/2017 11:46:14 AM - window class matches (Google-chrome)
+01/10/2017 11:46:14 AM - dock status matches
+01/10/2017 11:46:14 AM - Creating new workspace "10 "
+01/10/2017 11:46:14 AM - got output 0xa99b70 with content 0xa9b450
+01/10/2017 11:46:14 AM - num = 10
+01/10/2017 11:46:14 AM - workspace visible? fs = 0xa9d9d0, ws = 0xaa4350
+01/10/2017 11:46:14 AM - workspace visible? fs = 0xa9d9d0, ws = 0xaa4350
+01/10/2017 11:46:14 AM - Checking window 0x01800002 (class Google-chrome)
+01/10/2017 11:46:14 AM - Regular expression "Google-chrome" matches "Google-chrome"
+01/10/2017 11:46:14 AM - window class matches (Google-chrome)
+01/10/2017 11:46:14 AM - dock status matches
+01/10/2017 11:46:14 AM - workspace visible? fs = 0xa9d9d0, ws = 0xaa4350
+01/10/2017 11:46:14 AM - Urgency flag changed to 1
+01/10/2017 11:46:14 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:46:14 AM - workspace visible? fs = 0xa9d9d0, ws = 0xa9d9d0
+01/10/2017 11:46:14 AM - workspace visible? fs = 0xa95170, ws = 0xa95170
+01/10/2017 11:46:14 AM - workspace visible? fs = 0xa9d9d0, ws = 0xa9d9d0
+01/10/2017 11:46:14 AM - workspace visible? fs = 0xa9d9d0, ws = 0xaa4350
+01/10/2017 11:46:14 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:46:14 AM - workspace visible? fs = 0xa9d9d0, ws = 0xa9d9d0
+01/10/2017 11:46:14 AM - workspace visible? fs = 0xa9d9d0, ws = 0xaa4350
+01/10/2017 11:46:14 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:47:05 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:47:05 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:47:05 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:47:05 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:54:57 AM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu -i'
+01/10/2017 11:54:57 AM - IPC: received: *exec  "chromium --force-device-scale-factor=1 "*
+01/10/2017 11:54:57 AM - startup id = i3/chromium/521-4-powerhaus.bnet_TIME541969
+01/10/2017 11:54:57 AM - executing: chromium --force-device-scale-factor=1 
+[{"success":true}]
+01/10/2017 11:54:57 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:54:58 AM - WM_CLASS changed to chromium (instance), Chromium (class)
+01/10/2017 11:54:58 AM - WM_NAME changed to "Untitled - Chromium"
+01/10/2017 11:54:58 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/10/2017 11:54:58 AM - _NET_WM_NAME changed to "Untitled - Chromium"
+01/10/2017 11:54:58 AM - WM_WINDOW_ROLE changed to "browser"
+01/10/2017 11:54:58 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:54:58 AM - dock status does not match
+01/10/2017 11:54:58 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:54:58 AM - dock status does not match
+01/10/2017 11:54:58 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:54:58 AM - dock status does not match
+01/10/2017 11:54:58 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:54:58 AM - dock status does not match
+01/10/2017 11:54:58 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:54:58 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:54:58 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:54:58 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:54:58 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:54:58 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:54:58 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:54:58 AM - workspace visible? fs = 0xa9d9d0, ws = 0xa9d9d0
+01/10/2017 11:54:58 AM - workspace visible? fs = 0xa95170, ws = 0xa95170
+01/10/2017 11:54:59 AM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Chromium"
+01/10/2017 11:54:59 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:54:59 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:55:00 AM - WM_CLASS changed to chromium (instance), Chromium (class)
+01/10/2017 11:55:00 AM - WM_NAME changed to "New Tab - Chromium"
+01/10/2017 11:55:00 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/10/2017 11:55:00 AM - _NET_WM_NAME changed to "New Tab - Chromium"
+01/10/2017 11:55:00 AM - WM_WINDOW_ROLE changed to "browser"
+01/10/2017 11:55:00 AM - Checking window 0x01e00040 (class Chromium)
+01/10/2017 11:55:00 AM - dock status does not match
+01/10/2017 11:55:00 AM - Checking window 0x01e00040 (class Chromium)
+01/10/2017 11:55:00 AM - dock status does not match
+01/10/2017 11:55:00 AM - Checking window 0x01e00040 (class Chromium)
+01/10/2017 11:55:00 AM - dock status does not match
+01/10/2017 11:55:00 AM - Checking window 0x01e00040 (class Chromium)
+01/10/2017 11:55:00 AM - dock status does not match
+01/10/2017 11:55:00 AM - Checking window 0x01e00040 (class Chromium)
+01/10/2017 11:55:00 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:55:00 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:55:00 AM - Checking window 0x01e00040 (class Chromium)
+01/10/2017 11:55:00 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:55:00 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:55:00 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:55:00 AM - workspace visible? fs = 0xa9d9d0, ws = 0xa9d9d0
+01/10/2017 11:55:00 AM - workspace visible? fs = 0xa95170, ws = 0xa95170
+01/10/2017 11:55:01 AM - Sending WM_DELETE to the client
+01/10/2017 11:55:01 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:55:01 AM - expose event for unknown window, ignoring
+01/10/2017 11:55:01 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:55:01 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:55:01 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:55:01 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:55:02 AM - _NET_WM_NAME changed to "New Tab - Chromium"
+01/10/2017 11:55:02 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:55:02 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:55:07 AM - _NET_WM_NAME changed to "PizzaHut - Chromium"
+01/10/2017 11:55:07 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:55:07 AM - Regular expression "Google-chrome" does not match "Chromium"
+A Parser-blocking, cross-origin script, https://ecn.dev.virtualearth.net/mapcontrol/v7.0/7.0.20160525132934.57/js/en-us/veapicore.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://ecn.dev.virtualearth.net/mapcontrol/v7.0/7.0.20160525132934.57/js/en-us/veapicore.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+01/10/2017 11:55:08 AM - _NET_WM_NAME changed to "New Tab - Chromium"
+01/10/2017 11:55:08 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:55:08 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:55:11 AM - _NET_WM_NAME changed to "PizzaHut - Chromium"
+01/10/2017 11:55:11 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:55:11 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:55:25 AM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Chromium"
+01/10/2017 11:55:25 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:55:25 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:55:26 AM - _NET_WM_NAME changed to "PizzaHut - Chromium"
+01/10/2017 11:55:26 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:55:26 AM - Regular expression "Google-chrome" does not match "Chromium"
+A Parser-blocking, cross-origin script, https://ecn.dev.virtualearth.net/mapcontrol/v7.0/7.0.20160525132934.57/js/en-us/veapicore.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross-origin script, https://ecn.dev.virtualearth.net/mapcontrol/v7.0/7.0.20160525132934.57/js/en-us/veapicore.js, is invoked via document.write. This may be blocked by the browser if the device has poor network connectivity. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+01/10/2017 11:55:57 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:57:52 AM - _NET_WM_NAME changed to "New Tab - Chromium"
+01/10/2017 11:57:52 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:57:52 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:57:55 AM - _NET_WM_NAME changed to "Google Hangouts - Chromium"
+01/10/2017 11:57:55 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:57:55 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:57:58 AM - _NET_WM_NAME changed to "PizzaHut - Chromium"
+01/10/2017 11:57:58 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:57:58 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:58:08 AM - _NET_WM_NAME changed to "Google Hangouts - Chromium"
+01/10/2017 11:58:08 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:58:08 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:58:20 AM - _NET_WM_NAME changed to "PizzaHut - Chromium"
+01/10/2017 11:58:20 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:58:20 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:58:28 AM - _NET_WM_NAME changed to "Google Hangouts - Chromium"
+01/10/2017 11:58:28 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:58:28 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:58:37 AM - _NET_WM_NAME changed to "New Tab - Chromium"
+01/10/2017 11:58:37 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:58:37 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:58:42 AM - _NET_WM_NAME changed to "pizzahut half price - Google Search - Chromium"
+01/10/2017 11:58:42 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:58:42 AM - Regular expression "Google-chrome" does not match "Chromium"
+[927:5871:0110/115843:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+01/10/2017 11:58:44 AM - _NET_WM_NAME changed to "pizza hut half price - Google Search - Chromium"
+01/10/2017 11:58:44 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:58:44 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:59:24 AM - Sending WM_DELETE to the client
+01/10/2017 11:59:24 AM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Chromium"
+01/10/2017 11:59:24 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:59:24 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:59:24 AM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Chromium"
+01/10/2017 11:59:24 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:59:24 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:59:24 AM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Chromium"
+01/10/2017 11:59:24 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 11:59:24 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 11:59:24 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:59:24 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:59:24 AM - expose event for unknown window, ignoring
+01/10/2017 11:59:24 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:59:24 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:59:24 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:59:24 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:59:27 AM - startup id = i3/i3-sensible-terminal/521-5-powerhaus.bnet_TIME812070
+01/10/2017 11:59:27 AM - executing: i3-sensible-terminal
+01/10/2017 11:59:27 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 11:59:28 AM - ClientMessage for window 0x01200007
+01/10/2017 11:59:28 AM - WM_CLASS changed to terminator (instance), Terminator (class)
+01/10/2017 11:59:28 AM - WM_NAME changed to "None"
+01/10/2017 11:59:28 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/10/2017 11:59:28 AM - _NET_WM_NAME changed to "None"
+01/10/2017 11:59:28 AM - WM_HINTS.input changed to "1"
+01/10/2017 11:59:28 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 11:59:28 AM - dock status does not match
+01/10/2017 11:59:28 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 11:59:28 AM - dock status does not match
+01/10/2017 11:59:28 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 11:59:28 AM - dock status does not match
+01/10/2017 11:59:28 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 11:59:28 AM - dock status does not match
+01/10/2017 11:59:28 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 11:59:28 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/10/2017 11:59:28 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:59:28 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 11:59:28 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/10/2017 11:59:28 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:59:28 AM - workspace visible? fs = 0xa9cd90, ws = 0xa9cd90
+01/10/2017 11:59:28 AM - workspace visible? fs = 0xa9d9d0, ws = 0xa9d9d0
+01/10/2017 11:59:28 AM - workspace visible? fs = 0xa95170, ws = 0xa95170
+01/10/2017 11:59:28 AM - _NET_WM_NAME changed to "None"
+01/10/2017 11:59:28 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 11:59:28 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/10/2017 11:59:28 AM - _NET_WM_NAME changed to "/bin/bash"
+01/10/2017 11:59:28 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 11:59:28 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/10/2017 11:59:28 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/10/2017 11:59:28 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 11:59:28 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/10/2017 11:59:31 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/10/2017 11:59:31 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 11:59:31 AM - Regular expression "Google-chrome" does not match "Terminator"
+Name Lost. Is Another notification daemon running?
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI

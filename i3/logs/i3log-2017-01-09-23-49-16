@@ -1,0 +1,514 @@
+01/09/2017 11:49:16 PM - i3 4.13-non-git starting
+01/09/2017 11:49:16 PM - Parsing configfile /home/bryan/.config/i3/config
+01/09/2017 11:49:16 PM - deciding for version 4 due to this line: # i3 config file (v4)
+01/09/2017 11:49:16 PM - [libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+01/09/2017 11:49:16 PM - [libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+01/09/2017 11:49:17 PM - Initializing first assigned workspace "1" for output "DP-4"
+01/09/2017 11:49:17 PM - Creating new workspace "1"
+01/09/2017 11:49:17 PM - got output 0x1f16c40 with content 0x1f18360
+01/09/2017 11:49:17 PM - num = 1
+01/09/2017 11:49:17 PM - focused now = 0x1f1cdb0 / 1
+01/09/2017 11:49:17 PM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/09/2017 11:49:17 PM - workspace visible? fs = 0x1f15190, ws = 0x1f15190
+01/09/2017 11:49:17 PM - Initializing first assigned workspace "2" for output "HDMI-0"
+01/09/2017 11:49:17 PM - Creating new workspace "2"
+01/09/2017 11:49:17 PM - got output 0x1f19b90 with content 0x1f1b470
+01/09/2017 11:49:17 PM - num = 2
+01/09/2017 11:49:17 PM - focused now = 0x1f1d9f0 / 2
+01/09/2017 11:49:17 PM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/09/2017 11:49:17 PM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/09/2017 11:49:17 PM - workspace visible? fs = 0x1f15190, ws = 0x1f15190
+01/09/2017 11:49:17 PM - This is not an in-place restart, copying root window contents to a pixmap
+01/09/2017 11:49:17 PM - auto-starting compton -f
+01/09/2017 11:49:17 PM - startup id = i3/compton/506-0-powerhaus.bnet_TIME0
+01/09/2017 11:49:17 PM - executing: compton -f
+01/09/2017 11:49:17 PM - auto-starting nitrogen --restore
+01/09/2017 11:49:17 PM - executing: nitrogen --restore
+01/09/2017 11:49:17 PM - auto-starting ~/.config/i3/lock/lock.sh
+01/09/2017 11:49:17 PM - startup id = i3/~|.config|i3|lock|lock.sh/506-1-powerhaus.bnet_TIME0
+01/09/2017 11:49:17 PM - executing: ~/.config/i3/lock/lock.sh
+01/09/2017 11:49:17 PM - auto-starting xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+01/09/2017 11:49:17 PM - startup id = i3/xautolock/506-2-powerhaus.bnet_TIME0
+01/09/2017 11:49:17 PM - executing: xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+01/09/2017 11:49:17 PM - auto-starting dunst
+01/09/2017 11:49:17 PM - executing: dunst
+01/09/2017 11:49:17 PM - auto-starting google-chrome-stable --app=https://listen.tidal.com/ &
+01/09/2017 11:49:17 PM - startup id = i3/google-chrome-stable/506-3-powerhaus.bnet_TIME0
+01/09/2017 11:49:17 PM - executing: google-chrome-stable --app=https://listen.tidal.com/ &
+01/09/2017 11:49:17 PM - Starting bar process: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.506"
+01/09/2017 11:49:17 PM - executing: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.506"
+01/09/2017 11:49:17 PM - Not a managed window, ignoring UnmapNotify event
+01/09/2017 11:49:17 PM - Not a managed window, ignoring UnmapNotify event
+01/09/2017 11:49:17 PM - Not a managed window, ignoring UnmapNotify event
+01/09/2017 11:49:17 PM - Not a managed window, ignoring UnmapNotify event
+01/09/2017 11:49:17 PM - IPC: looking for config for bar ID "bar-0"
+01/09/2017 11:49:17 PM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/09/2017 11:49:17 PM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/09/2017 11:49:17 PM - WM_CLASS changed to i3bar (instance), i3bar (class)
+01/09/2017 11:49:17 PM - WM_NAME changed to "i3bar for output HDMI-0"
+01/09/2017 11:49:17 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/09/2017 11:49:17 PM - This window is of type dock
+01/09/2017 11:49:17 PM - Checking window 0x00c00006 (class i3bar)
+01/09/2017 11:49:17 PM - dock status does not match
+01/09/2017 11:49:17 PM - Checking window 0x00c00006 (class i3bar)
+01/09/2017 11:49:17 PM - dock status matches
+01/09/2017 11:49:17 PM - Checking window 0x00c00006 (class i3bar)
+01/09/2017 11:49:17 PM - Regular expression "Google-chrome" does not match "i3bar"
+01/09/2017 11:49:17 PM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/09/2017 11:49:17 PM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/09/2017 11:49:17 PM - workspace visible? fs = 0x1f15190, ws = 0x1f15190
+01/09/2017 11:49:17 PM - ClientMessage for window 0x000001ef
+01/09/2017 11:49:17 PM - WM_CLASS changed to i3bar (instance), i3bar (class)
+01/09/2017 11:49:17 PM - WM_NAME changed to "i3bar for output DP-4"
+01/09/2017 11:49:17 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/09/2017 11:49:17 PM - This window is of type dock
+01/09/2017 11:49:17 PM - Checking window 0x00c0000d (class i3bar)
+01/09/2017 11:49:17 PM - dock status does not match
+01/09/2017 11:49:17 PM - Checking window 0x00c0000d (class i3bar)
+01/09/2017 11:49:17 PM - dock status matches
+01/09/2017 11:49:17 PM - Checking window 0x00c0000d (class i3bar)
+01/09/2017 11:49:17 PM - Regular expression "Google-chrome" does not match "i3bar"
+01/09/2017 11:49:17 PM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/09/2017 11:49:17 PM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/09/2017 11:49:17 PM - workspace visible? fs = 0x1f15190, ws = 0x1f15190
+done
+01/09/2017 11:49:25 PM - WM_CLASS changed to listen.tidal.com (instance), Google-chrome (class)
+01/09/2017 11:49:25 PM - WM_NAME changed to "Untitled"
+01/09/2017 11:49:25 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/09/2017 11:49:25 PM - _NET_WM_NAME changed to "Untitled"
+01/09/2017 11:49:25 PM - WM_WINDOW_ROLE changed to "pop-up"
+01/09/2017 11:49:25 PM - Checking window 0x01800002 (class Google-chrome)
+01/09/2017 11:49:25 PM - dock status does not match
+01/09/2017 11:49:25 PM - Checking window 0x01800002 (class Google-chrome)
+01/09/2017 11:49:25 PM - dock status does not match
+01/09/2017 11:49:25 PM - Checking window 0x01800002 (class Google-chrome)
+01/09/2017 11:49:25 PM - dock status does not match
+01/09/2017 11:49:25 PM - Checking window 0x01800002 (class Google-chrome)
+01/09/2017 11:49:25 PM - dock status does not match
+01/09/2017 11:49:25 PM - Checking window 0x01800002 (class Google-chrome)
+01/09/2017 11:49:25 PM - Regular expression "Google-chrome" matches "Google-chrome"
+01/09/2017 11:49:25 PM - window class matches (Google-chrome)
+01/09/2017 11:49:25 PM - dock status matches
+01/09/2017 11:49:25 PM - Creating new workspace "10 "
+01/09/2017 11:49:25 PM - got output 0x1f19b90 with content 0x1f1b470
+01/09/2017 11:49:25 PM - num = 10
+01/09/2017 11:49:25 PM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f243e0
+01/09/2017 11:49:25 PM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f243e0
+01/09/2017 11:49:25 PM - Checking window 0x01800002 (class Google-chrome)
+01/09/2017 11:49:25 PM - Regular expression "Google-chrome" matches "Google-chrome"
+01/09/2017 11:49:25 PM - window class matches (Google-chrome)
+01/09/2017 11:49:25 PM - dock status matches
+01/09/2017 11:49:25 PM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f243e0
+01/09/2017 11:49:25 PM - Urgency flag changed to 1
+01/09/2017 11:49:25 PM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/09/2017 11:49:25 PM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/09/2017 11:49:25 PM - workspace visible? fs = 0x1f15190, ws = 0x1f15190
+01/09/2017 11:49:25 PM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/09/2017 11:49:25 PM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f243e0
+01/09/2017 11:49:25 PM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/09/2017 11:49:25 PM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/09/2017 11:49:25 PM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f243e0
+01/09/2017 11:49:25 PM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:49:54 AM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu -i'
+01/10/2017 07:49:55 AM - IPC: received: *exec  "chromium --force-device-scale-factor=1 "*
+01/10/2017 07:49:55 AM - startup id = i3/chromium/506-4-powerhaus.bnet_TIME48191
+01/10/2017 07:49:55 AM - executing: chromium --force-device-scale-factor=1 
+[{"success":true}]
+01/10/2017 07:49:55 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 07:49:55 AM - WM_CLASS changed to chromium (instance), Chromium (class)
+01/10/2017 07:49:55 AM - WM_NAME changed to "Untitled - Chromium"
+01/10/2017 07:49:55 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/10/2017 07:49:55 AM - _NET_WM_NAME changed to "Untitled - Chromium"
+01/10/2017 07:49:55 AM - WM_WINDOW_ROLE changed to "browser"
+01/10/2017 07:49:55 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:49:55 AM - dock status does not match
+01/10/2017 07:49:55 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:49:55 AM - dock status does not match
+01/10/2017 07:49:55 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:49:55 AM - dock status does not match
+01/10/2017 07:49:55 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:49:55 AM - dock status does not match
+01/10/2017 07:49:55 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:49:55 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 07:49:55 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:49:55 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:49:55 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 07:49:55 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:49:55 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:49:55 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:49:55 AM - workspace visible? fs = 0x1f15190, ws = 0x1f15190
+01/10/2017 07:49:56 AM - startup id = i3/|home|bryan|.local|share|scripts|paswitch|switcher.sh/506-5-powerhaus.bnet_TIME49098
+01/10/2017 07:49:56 AM - executing: /home/bryan/.local/share/scripts/paswitch/switcher.sh && exec pkill -SIGRTMIN+10 i3blocks
+01/10/2017 07:49:56 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 07:49:56 AM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Chromium"
+01/10/2017 07:49:56 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:49:56 AM - Regular expression "Google-chrome" does not match "Chromium"
+Current device is alsa_output.pci-0000_01_00.1.hdmi-stereo-extra2
+Switching to alsa_output.usb-Schiit_Audio_USB_Modi_Device-00.iec958-stereo
+01/10/2017 07:49:57 AM - startup id = i3/|home|bryan|.local|share|scripts|paswitch|switcher.sh/506-6-powerhaus.bnet_TIME50481
+01/10/2017 07:49:57 AM - executing: /home/bryan/.local/share/scripts/paswitch/switcher.sh && exec pkill -SIGRTMIN+10 i3blocks
+01/10/2017 07:49:57 AM - Not a managed window, ignoring UnmapNotify event
+Current device is alsa_output.usb-Schiit_Audio_USB_Modi_Device-00.iec958-stereo
+Switching to alsa_output.pci-0000_01_00.1.hdmi-stereo-extra2
+01/10/2017 07:50:04 AM - _NET_WM_NAME changed to "https://www.reddit.com - Chromium"
+01/10/2017 07:50:04 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:50:04 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 07:50:05 AM - _NET_WM_NAME changed to "reddit: the front page of the internet - Chromium"
+01/10/2017 07:50:05 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:50:05 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 07:50:11 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 07:50:11 AM - ClientMessage for window 0x01e00002
+01/10/2017 07:50:11 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:50:12 AM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Chromium"
+01/10/2017 07:50:12 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:50:12 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 07:50:16 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 07:50:16 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 07:50:16 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 07:50:16 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 07:50:20 AM - _NET_WM_NAME changed to "overview for time_for_butt_stuff - Chromium"
+01/10/2017 07:50:20 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:50:20 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 07:50:28 AM - _NET_WM_NAME changed to "https://www.reddit.com/user/time_for_butt_stuff/saved#links - Chromium"
+01/10/2017 07:50:28 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:50:28 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 07:50:29 AM - _NET_WM_NAME changed to "saved by time_for_butt_stuff - Chromium"
+01/10/2017 07:50:29 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:50:29 AM - Regular expression "Google-chrome" does not match "Chromium"
+[5796:7485:0110/075044:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[5796:7485:0110/075044:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+01/10/2017 07:50:55 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 07:50:56 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 07:50:57 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 07:50:57 AM - ClientMessage for window 0x01e00002
+01/10/2017 07:51:01 AM - ClientMessage for window 0x01e00002
+01/10/2017 07:51:09 AM - ClientMessage for window 0x01e00002
+01/10/2017 07:51:10 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:51:10 AM - focused now = 0x1f1d9f0 / 2
+01/10/2017 07:51:10 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:51:10 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:51:10 AM - workspace visible? fs = 0x1f15190, ws = 0x1f15190
+01/10/2017 07:51:10 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:51:10 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f243e0
+01/10/2017 07:51:10 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:51:15 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" +5% && exec pkill -SIGRTMIN+10 i3blocks #increase sound volume
+01/10/2017 07:51:16 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" +5% && exec pkill -SIGRTMIN+10 i3blocks #increase sound volume
+01/10/2017 07:51:16 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" +5% && exec pkill -SIGRTMIN+10 i3blocks #increase sound volume
+01/10/2017 07:54:28 AM - focused now = 0x1eab0e0 / (null)
+01/10/2017 07:54:28 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:54:28 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:54:28 AM - workspace visible? fs = 0x1f15190, ws = 0x1f15190
+01/10/2017 07:54:28 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:54:28 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f243e0
+01/10/2017 07:54:28 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:54:28 AM - ClientMessage for window 0x01e00002
+01/10/2017 07:54:59 AM - _NET_WM_NAME changed to "https://www.reddit.com - Chromium"
+01/10/2017 07:54:59 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:54:59 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 07:54:59 AM - _NET_WM_NAME changed to "reddit: the front page of the internet - Chromium"
+01/10/2017 07:54:59 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:54:59 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 07:54:59 AM - WM_CLASS changed to chromium (instance), Chromium (class)
+01/10/2017 07:54:59 AM - WM_NAME changed to "New Tab - Chromium"
+01/10/2017 07:54:59 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/10/2017 07:54:59 AM - _NET_WM_NAME changed to "New Tab - Chromium"
+01/10/2017 07:54:59 AM - WM_WINDOW_ROLE changed to "browser"
+01/10/2017 07:54:59 AM - Checking window 0x01e00049 (class Chromium)
+01/10/2017 07:54:59 AM - dock status does not match
+01/10/2017 07:54:59 AM - Checking window 0x01e00049 (class Chromium)
+01/10/2017 07:54:59 AM - dock status does not match
+01/10/2017 07:54:59 AM - Checking window 0x01e00049 (class Chromium)
+01/10/2017 07:54:59 AM - dock status does not match
+01/10/2017 07:54:59 AM - Checking window 0x01e00049 (class Chromium)
+01/10/2017 07:54:59 AM - dock status does not match
+01/10/2017 07:54:59 AM - Checking window 0x01e00049 (class Chromium)
+01/10/2017 07:54:59 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 07:54:59 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:54:59 AM - Checking window 0x01e00049 (class Chromium)
+01/10/2017 07:54:59 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 07:54:59 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:54:59 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:54:59 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:54:59 AM - workspace visible? fs = 0x1f15190, ws = 0x1f15190
+01/10/2017 07:55:14 AM - _NET_WM_NAME changed to "overwatch does dva not get booped as afr - Google Search - Chromium"
+01/10/2017 07:55:14 AM - Checking window 0x01e00049 (class Chromium)
+01/10/2017 07:55:14 AM - Regular expression "Google-chrome" does not match "Chromium"
+[5796:13068:0110/075515:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+01/10/2017 07:55:16 AM - _NET_WM_NAME changed to "overwatch does dva not get booked as afr - Google Search - Chromium"
+01/10/2017 07:55:16 AM - Checking window 0x01e00049 (class Chromium)
+01/10/2017 07:55:16 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 07:55:29 AM - ClientMessage for window 0x01e00049
+01/10/2017 07:55:29 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:55:30 AM - _NET_WM_NAME changed to "Does Dva have a counter? - Overwatch Forums - Chromium"
+01/10/2017 07:55:30 AM - Checking window 0x01e00049 (class Chromium)
+01/10/2017 07:55:30 AM - Regular expression "Google-chrome" does not match "Chromium"
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+01/10/2017 07:55:35 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:55:35 AM - focused now = 0x1f1d9f0 / 2
+01/10/2017 07:55:35 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:55:35 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:55:35 AM - workspace visible? fs = 0x1f15190, ws = 0x1f15190
+01/10/2017 07:55:35 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:55:35 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f243e0
+01/10/2017 07:55:35 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:55:35 AM - focused now = 0x1f20ae0 / (null)
+01/10/2017 07:55:35 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:55:35 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:55:35 AM - workspace visible? fs = 0x1f15190, ws = 0x1f15190
+01/10/2017 07:55:35 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:55:35 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f243e0
+01/10/2017 07:55:35 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:56:37 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:56:37 AM - focused now = 0x1f1d9f0 / 2
+01/10/2017 07:56:37 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:56:37 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:56:37 AM - workspace visible? fs = 0x1f15190, ws = 0x1f15190
+01/10/2017 07:56:37 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:56:37 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f243e0
+01/10/2017 07:56:37 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:56:37 AM - focused now = 0x1f20ae0 / (null)
+01/10/2017 07:56:37 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:56:37 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:56:37 AM - workspace visible? fs = 0x1f15190, ws = 0x1f15190
+01/10/2017 07:56:37 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 07:56:37 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f243e0
+01/10/2017 07:56:37 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+01/10/2017 07:56:49 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 07:56:49 AM - ClientMessage for window 0x01e00002
+01/10/2017 07:56:49 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:56:50 AM - _NET_WM_NAME changed to "Never_Been_On_Reddit comments on Edgy 15 y/o Profile Picture Starter Pack - Chromium"
+01/10/2017 07:56:50 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:56:50 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 07:57:06 AM - Not a managed window, ignoring UnmapNotify event
+[5796:7485:0110/075715:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[5796:7485:0110/075715:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+01/10/2017 07:57:39 AM - _NET_WM_NAME changed to "reddit: the front page of the internet - Chromium"
+01/10/2017 07:57:39 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:57:39 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 07:58:55 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 07:58:55 AM - ClientMessage for window 0x01e00002
+01/10/2017 07:58:55 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 07:58:56 AM - _NET_WM_NAME changed to "Genevieve loves when I clean out the hair from my brush. Today he wanted to wear it on his own head. I call this photo, "Trumpavieve." : StuffOnCats - Chromium"
+01/10/2017 07:58:56 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:58:56 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 07:59:01 AM - _NET_WM_NAME changed to "reddit: the front page of the internet - Chromium"
+01/10/2017 07:59:01 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 07:59:01 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 08:06:22 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:06:22 AM - ClientMessage for window 0x01e00002
+01/10/2017 08:06:22 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 08:06:35 AM - _NET_WM_NAME changed to "Get baited meit : Overwatch - Chromium"
+01/10/2017 08:06:35 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 08:06:35 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 08:06:49 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:07:02 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:07:13 AM - _NET_WM_NAME changed to "reddit: the front page of the internet - Chromium"
+01/10/2017 08:07:13 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 08:07:13 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 08:07:38 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:07:38 AM - ClientMessage for window 0x01e00002
+01/10/2017 08:07:38 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 08:07:40 AM - _NET_WM_NAME changed to "Which profession is full of people with bloated egos? : ProgrammerHumor - Chromium"
+01/10/2017 08:07:40 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 08:07:40 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 08:08:13 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:08:16 AM - _NET_WM_NAME changed to "reddit: the front page of the internet - Chromium"
+01/10/2017 08:08:16 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 08:08:16 AM - Regular expression "Google-chrome" does not match "Chromium"
+[5796:7485:0110/080907:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[5796:7485:0110/080907:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+01/10/2017 08:09:23 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:09:45 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" -5% && exec pkill -SIGRTMIN+10 i3blocks #decrease sound volume
+01/10/2017 08:09:45 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" -5% && exec pkill -SIGRTMIN+10 i3blocks #decrease sound volume
+01/10/2017 08:09:45 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" -5% && exec pkill -SIGRTMIN+10 i3blocks #decrease sound volume
+01/10/2017 08:09:46 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" -5% && exec pkill -SIGRTMIN+10 i3blocks #decrease sound volume
+01/10/2017 08:09:55 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:09:55 AM - ClientMessage for window 0x01e00002
+01/10/2017 08:09:55 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 08:10:03 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:10:03 AM - _NET_WM_NAME changed to "We are Number One but it's a robo monk teaching a flying Egyptian and two Japanese bros on how to get on objectives : Overwatch - Chromium"
+01/10/2017 08:10:03 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 08:10:03 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 08:10:06 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:10:08 AM - _NET_WM_NAME changed to "reddit: the front page of the internet - Chromium"
+01/10/2017 08:10:08 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 08:10:08 AM - Regular expression "Google-chrome" does not match "Chromium"
+[5796:7485:0110/081008:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[5796:7485:0110/081008:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+01/10/2017 08:10:10 AM - ClientMessage for window 0x01e00002
+01/10/2017 08:10:51 AM - ClientMessage for window 0x01e00002
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+01/10/2017 08:12:15 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:12:15 AM - ClientMessage for window 0x01e00002
+01/10/2017 08:12:15 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 08:12:26 AM - _NET_WM_NAME changed to "Widowmaker opens up Oasis with 100% accuracy : Overwatch - Chromium"
+01/10/2017 08:12:26 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 08:12:26 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 08:13:45 AM - _NET_WM_NAME changed to "reddit: the front page of the internet - Chromium"
+01/10/2017 08:13:45 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 08:13:45 AM - Regular expression "Google-chrome" does not match "Chromium"
+[5796:7485:0110/081345:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[5796:7485:0110/081345:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+01/10/2017 08:14:10 AM - _NET_WM_NAME changed to "Widowmaker opens up Oasis with 100% accuracy : Overwatch - Chromium"
+01/10/2017 08:14:10 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 08:14:10 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 08:14:10 AM - _NET_WM_NAME changed to "reddit: the front page of the internet - Chromium"
+01/10/2017 08:14:10 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 08:14:10 AM - Regular expression "Google-chrome" does not match "Chromium"
+[5796:5796:0110/081414:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 14
+01/10/2017 08:14:44 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:14:44 AM - ClientMessage for window 0x01e00002
+01/10/2017 08:14:44 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 08:14:47 AM - _NET_WM_NAME changed to "Guy tries to rob a gun store - doesn't go well : WTF - Chromium"
+01/10/2017 08:14:47 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 08:14:47 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 08:18:15 AM - _NET_WM_NAME changed to "reddit: the front page of the internet - Chromium"
+01/10/2017 08:18:15 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 08:18:15 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 08:18:53 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:18:53 AM - ClientMessage for window 0x01e00002
+01/10/2017 08:18:53 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 08:18:54 AM - _NET_WM_NAME changed to "Corner drawer : interestingasfuck - Chromium"
+01/10/2017 08:18:54 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 08:18:54 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 08:19:31 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:19:38 AM - _NET_WM_NAME changed to "reddit: the front page of the internet - Chromium"
+01/10/2017 08:19:38 AM - Checking window 0x01e00002 (class Chromium)
+01/10/2017 08:19:38 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 08:20:24 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:20:24 AM - ClientMessage for window 0x01e00002
+01/10/2017 08:20:24 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 08:20:49 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:21:09 AM - Sending WM_DELETE to the client
+01/10/2017 08:21:09 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:21:09 AM - expose event for unknown window, ignoring
+01/10/2017 08:21:09 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:21:09 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:21:09 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:21:09 AM - Not a managed window, ignoring UnmapNotify event
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+01/10/2017 08:21:09 AM - Sending WM_DELETE to the client
+01/10/2017 08:21:09 AM - _NET_WM_NAME changed to "overwatch does dva not get booked as afr - Google Search - Chromium"
+01/10/2017 08:21:09 AM - Checking window 0x01e00049 (class Chromium)
+01/10/2017 08:21:09 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/10/2017 08:21:09 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 08:21:09 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:21:09 AM - expose event for unknown window, ignoring
+01/10/2017 08:21:09 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:21:09 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:21:09 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:21:09 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:21:14 AM - startup id = i3/i3-sensible-terminal/506-7-powerhaus.bnet_TIME1927048
+01/10/2017 08:21:14 AM - executing: i3-sensible-terminal
+01/10/2017 08:21:14 AM - Not a managed window, ignoring UnmapNotify event
+01/10/2017 08:21:14 AM - ClientMessage for window 0x01200007
+01/10/2017 08:21:14 AM - WM_CLASS changed to terminator (instance), Terminator (class)
+01/10/2017 08:21:14 AM - WM_NAME changed to "None"
+01/10/2017 08:21:14 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/10/2017 08:21:14 AM - _NET_WM_NAME changed to "None"
+01/10/2017 08:21:14 AM - WM_HINTS.input changed to "1"
+01/10/2017 08:21:14 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 08:21:14 AM - dock status does not match
+01/10/2017 08:21:14 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 08:21:14 AM - dock status does not match
+01/10/2017 08:21:14 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 08:21:14 AM - dock status does not match
+01/10/2017 08:21:14 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 08:21:14 AM - dock status does not match
+01/10/2017 08:21:14 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 08:21:14 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/10/2017 08:21:14 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 08:21:14 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 08:21:14 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/10/2017 08:21:14 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 08:21:14 AM - workspace visible? fs = 0x1f1cdb0, ws = 0x1f1cdb0
+01/10/2017 08:21:14 AM - workspace visible? fs = 0x1f1d9f0, ws = 0x1f1d9f0
+01/10/2017 08:21:14 AM - workspace visible? fs = 0x1f15190, ws = 0x1f15190
+01/10/2017 08:21:14 AM - _NET_WM_NAME changed to "None"
+01/10/2017 08:21:14 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 08:21:14 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/10/2017 08:21:14 AM - _NET_WM_NAME changed to "/bin/bash"
+01/10/2017 08:21:14 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 08:21:14 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/10/2017 08:21:14 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/10/2017 08:21:14 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 08:21:14 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/10/2017 08:21:16 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/10/2017 08:21:16 AM - Checking window 0x01200007 (class Terminator)
+01/10/2017 08:21:16 AM - Regular expression "Google-chrome" does not match "Terminator"
+[../../i3-4.13/i3bar/src/child.c:361] ERROR: stdin: received EOF
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI

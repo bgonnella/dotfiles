@@ -1,0 +1,2035 @@
+12/26/2016 10:23:47 AM - i3 4.13-non-git starting
+12/26/2016 10:23:47 AM - Parsing configfile /home/bryan/.config/i3/config
+12/26/2016 10:23:47 AM - deciding for version 4 due to this line: # i3 config file (v4)
+12/26/2016 10:23:47 AM - [libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+12/26/2016 10:23:47 AM - [libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+12/26/2016 10:23:47 AM - Initializing first assigned workspace "1" for output "DP-4"
+12/26/2016 10:23:47 AM - Creating new workspace "1"
+12/26/2016 10:23:47 AM - got output 0x13bbae0 with content 0x13bd200
+12/26/2016 10:23:47 AM - num = 1
+12/26/2016 10:23:47 AM - focused now = 0x13c1c60 / 1
+12/26/2016 10:23:47 AM - workspace visible? fs = 0x13c1c60, ws = 0x13c1c60
+12/26/2016 10:23:47 AM - workspace visible? fs = 0x13ba030, ws = 0x13ba030
+12/26/2016 10:23:47 AM - Initializing first assigned workspace "2" for output "HDMI-0"
+12/26/2016 10:23:47 AM - Creating new workspace "2"
+12/26/2016 10:23:47 AM - got output 0x13bea30 with content 0x13c0310
+12/26/2016 10:23:47 AM - num = 2
+12/26/2016 10:23:47 AM - focused now = 0x13c28a0 / 2
+12/26/2016 10:23:47 AM - workspace visible? fs = 0x13c28a0, ws = 0x13c28a0
+12/26/2016 10:23:47 AM - workspace visible? fs = 0x13c1c60, ws = 0x13c1c60
+12/26/2016 10:23:47 AM - workspace visible? fs = 0x13ba030, ws = 0x13ba030
+12/26/2016 10:23:47 AM - This is not an in-place restart, copying root window contents to a pixmap
+12/26/2016 10:23:47 AM - auto-starting compton -f
+12/26/2016 10:23:47 AM - startup id = i3/compton/2956-0-powerhaus.bnet_TIME0
+12/26/2016 10:23:47 AM - executing: compton -f
+12/26/2016 10:23:47 AM - auto-starting nitrogen --restore
+12/26/2016 10:23:47 AM - executing: nitrogen --restore
+12/26/2016 10:23:47 AM - auto-starting xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+12/26/2016 10:23:47 AM - startup id = i3/xautolock/2956-1-powerhaus.bnet_TIME0
+12/26/2016 10:23:47 AM - executing: xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+12/26/2016 10:23:47 AM - auto-starting google-chrome-stable --app=https://listen.tidal.com/ &
+12/26/2016 10:23:47 AM - startup id = i3/google-chrome-stable/2956-2-powerhaus.bnet_TIME0
+12/26/2016 10:23:47 AM - executing: google-chrome-stable --app=https://listen.tidal.com/ &
+12/26/2016 10:23:47 AM - Starting bar process: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.2956"
+12/26/2016 10:23:47 AM - executing: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.2956"
+12/26/2016 10:23:47 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:23:47 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:23:47 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:23:47 AM - IPC: looking for config for bar ID "bar-0"
+12/26/2016 10:23:47 AM - workspace visible? fs = 0x13c28a0, ws = 0x13c28a0
+12/26/2016 10:23:47 AM - workspace visible? fs = 0x13c1c60, ws = 0x13c1c60
+12/26/2016 10:23:47 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+12/26/2016 10:23:47 AM - WM_NAME changed to "i3bar for output HDMI-0"
+12/26/2016 10:23:47 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/26/2016 10:23:47 AM - This window is of type dock
+12/26/2016 10:23:47 AM - Checking window 0x00c00006 (class i3bar)
+12/26/2016 10:23:47 AM - dock status does not match
+12/26/2016 10:23:47 AM - Checking window 0x00c00006 (class i3bar)
+12/26/2016 10:23:47 AM - dock status matches
+12/26/2016 10:23:47 AM - Checking window 0x00c00006 (class i3bar)
+12/26/2016 10:23:47 AM - Regular expression "Google-chrome" does not match "i3bar"
+12/26/2016 10:23:47 AM - workspace visible? fs = 0x13c1c60, ws = 0x13c1c60
+12/26/2016 10:23:47 AM - workspace visible? fs = 0x13c28a0, ws = 0x13c28a0
+12/26/2016 10:23:47 AM - workspace visible? fs = 0x13ba030, ws = 0x13ba030
+12/26/2016 10:23:47 AM - ClientMessage for window 0x000001ef
+12/26/2016 10:23:47 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+12/26/2016 10:23:47 AM - WM_NAME changed to "i3bar for output DP-4"
+12/26/2016 10:23:47 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/26/2016 10:23:47 AM - This window is of type dock
+12/26/2016 10:23:47 AM - Checking window 0x00c0000d (class i3bar)
+12/26/2016 10:23:47 AM - dock status does not match
+12/26/2016 10:23:47 AM - Checking window 0x00c0000d (class i3bar)
+12/26/2016 10:23:47 AM - dock status matches
+12/26/2016 10:23:47 AM - Checking window 0x00c0000d (class i3bar)
+12/26/2016 10:23:47 AM - Regular expression "Google-chrome" does not match "i3bar"
+12/26/2016 10:23:47 AM - workspace visible? fs = 0x13c1c60, ws = 0x13c1c60
+12/26/2016 10:23:47 AM - workspace visible? fs = 0x13c28a0, ws = 0x13c28a0
+12/26/2016 10:23:47 AM - workspace visible? fs = 0x13ba030, ws = 0x13ba030
+12/26/2016 10:23:56 AM - WM_CLASS changed to listen.tidal.com (instance), Google-chrome (class)
+12/26/2016 10:23:56 AM - WM_NAME changed to "Untitled"
+12/26/2016 10:23:56 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/26/2016 10:23:56 AM - _NET_WM_NAME changed to "Untitled"
+12/26/2016 10:23:56 AM - WM_WINDOW_ROLE changed to "pop-up"
+12/26/2016 10:23:56 AM - Checking window 0x01400002 (class Google-chrome)
+12/26/2016 10:23:56 AM - dock status does not match
+12/26/2016 10:23:56 AM - Checking window 0x01400002 (class Google-chrome)
+12/26/2016 10:23:56 AM - dock status does not match
+12/26/2016 10:23:56 AM - Checking window 0x01400002 (class Google-chrome)
+12/26/2016 10:23:56 AM - dock status does not match
+12/26/2016 10:23:56 AM - Checking window 0x01400002 (class Google-chrome)
+12/26/2016 10:23:56 AM - dock status does not match
+12/26/2016 10:23:56 AM - Checking window 0x01400002 (class Google-chrome)
+12/26/2016 10:23:56 AM - Regular expression "Google-chrome" matches "Google-chrome"
+12/26/2016 10:23:56 AM - window class matches (Google-chrome)
+12/26/2016 10:23:56 AM - dock status matches
+12/26/2016 10:23:56 AM - Creating new workspace "10 "
+12/26/2016 10:23:56 AM - got output 0x13bea30 with content 0x13c0310
+12/26/2016 10:23:56 AM - num = 10
+12/26/2016 10:23:56 AM - workspace visible? fs = 0x13c28a0, ws = 0x13c9110
+12/26/2016 10:23:56 AM - workspace visible? fs = 0x13c28a0, ws = 0x13c9110
+12/26/2016 10:23:56 AM - Checking window 0x01400002 (class Google-chrome)
+12/26/2016 10:23:56 AM - Regular expression "Google-chrome" matches "Google-chrome"
+12/26/2016 10:23:56 AM - window class matches (Google-chrome)
+12/26/2016 10:23:56 AM - dock status matches
+12/26/2016 10:23:56 AM - workspace visible? fs = 0x13c28a0, ws = 0x13c9110
+12/26/2016 10:23:56 AM - Urgency flag changed to 1
+12/26/2016 10:23:56 AM - workspace visible? fs = 0x13c1c60, ws = 0x13c1c60
+12/26/2016 10:23:56 AM - workspace visible? fs = 0x13c28a0, ws = 0x13c28a0
+12/26/2016 10:23:56 AM - workspace visible? fs = 0x13ba030, ws = 0x13ba030
+12/26/2016 10:23:56 AM - workspace visible? fs = 0x13c28a0, ws = 0x13c28a0
+12/26/2016 10:23:56 AM - workspace visible? fs = 0x13c28a0, ws = 0x13c9110
+12/26/2016 10:23:56 AM - workspace visible? fs = 0x13c1c60, ws = 0x13c1c60
+12/26/2016 10:23:56 AM - workspace visible? fs = 0x13c28a0, ws = 0x13c28a0
+12/26/2016 10:23:56 AM - workspace visible? fs = 0x13c28a0, ws = 0x13c9110
+12/26/2016 10:23:56 AM - workspace visible? fs = 0x13c1c60, ws = 0x13c1c60
+12/26/2016 10:24:15 AM - startup id = i3/i3-sensible-terminal/2956-3-powerhaus.bnet_TIME38675
+12/26/2016 10:24:15 AM - executing: i3-sensible-terminal
+12/26/2016 10:24:15 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:24:16 AM - ClientMessage for window 0x00e00004
+12/26/2016 10:24:16 AM - WM_CLASS changed to terminator (instance), Terminator (class)
+12/26/2016 10:24:16 AM - WM_NAME changed to "None"
+12/26/2016 10:24:16 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/26/2016 10:24:16 AM - _NET_WM_NAME changed to "None"
+12/26/2016 10:24:16 AM - WM_HINTS.input changed to "1"
+12/26/2016 10:24:16 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:24:16 AM - dock status does not match
+12/26/2016 10:24:16 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:24:16 AM - dock status does not match
+12/26/2016 10:24:16 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:24:16 AM - dock status does not match
+12/26/2016 10:24:16 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:24:16 AM - dock status does not match
+12/26/2016 10:24:16 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:24:16 AM - Regular expression "Google-chrome" does not match "Terminator"
+12/26/2016 10:24:16 AM - workspace visible? fs = 0x13c1c60, ws = 0x13c1c60
+12/26/2016 10:24:16 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:24:16 AM - Regular expression "Google-chrome" does not match "Terminator"
+12/26/2016 10:24:16 AM - workspace visible? fs = 0x13c1c60, ws = 0x13c1c60
+12/26/2016 10:24:16 AM - workspace visible? fs = 0x13c1c60, ws = 0x13c1c60
+12/26/2016 10:24:16 AM - workspace visible? fs = 0x13c28a0, ws = 0x13c28a0
+12/26/2016 10:24:16 AM - workspace visible? fs = 0x13ba030, ws = 0x13ba030
+12/26/2016 10:24:16 AM - _NET_WM_NAME changed to "None"
+12/26/2016 10:24:16 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:24:16 AM - Regular expression "Google-chrome" does not match "Terminator"
+12/26/2016 10:24:16 AM - _NET_WM_NAME changed to "/bin/bash"
+12/26/2016 10:24:16 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:24:16 AM - Regular expression "Google-chrome" does not match "Terminator"
+12/26/2016 10:24:16 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+12/26/2016 10:24:16 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:24:16 AM - Regular expression "Google-chrome" does not match "Terminator"
+12/26/2016 10:24:47 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:24:47 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:24:47 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:24:49 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+12/26/2016 10:24:49 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:24:49 AM - Regular expression "Google-chrome" does not match "Terminator"
+12/26/2016 10:25:17 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+12/26/2016 10:25:17 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:25:17 AM - Regular expression "Google-chrome" does not match "Terminator"
+12/26/2016 10:25:20 AM - restarting i3
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+12/26/2016 10:25:20 AM - restarting "i3"...
+12/26/2016 10:25:20 AM - Autostart disabled using -a
+12/26/2016 10:25:20 AM - i3 4.13-non-git starting
+12/26/2016 10:25:20 AM - Parsing configfile /home/bryan/.config/i3/config
+12/26/2016 10:25:20 AM - deciding for version 4 due to this line: # i3 config file (v4)
+12/26/2016 10:25:20 AM - [libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+12/26/2016 10:25:20 AM - [libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+12/26/2016 10:25:20 AM - Trying to restore the layout from "/run/user/1000/i3/restart-state.2956".
+12/26/2016 10:25:20 AM - start of map, last_key = (null)
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20601920 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: root for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: horizontal for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 0 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: splith for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splith for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int -1 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 4520 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 1920 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: root for key name
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - start of map, last_key = nodes
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20678624 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: output for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: none for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - double 0.333333 for key percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 0 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: output for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splith for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int -1 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 92880 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 5760 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: __i3 for key name
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - start of map, last_key = nodes
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20681712 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: con for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: horizontal for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 0 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: output
+12/26/2016 10:25:20 AM - string: __i3 for key output
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: splith for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splith for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int -1 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: content for key name
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - start of map, last_key = nodes
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20684848 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: workspace for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: none for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 0 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: output
+12/26/2016 10:25:20 AM - string: __i3 for key output
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: splith for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splith for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int -1 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: __i3_scratch for key name
+12/26/2016 10:25:20 AM - key: num
+12/26/2016 10:25:20 AM - int -1 for key num
+12/26/2016 10:25:20 AM - key: gaps
+12/26/2016 10:25:20 AM - start of map, last_key = gaps
+12/26/2016 10:25:20 AM - key: inner
+12/26/2016 10:25:20 AM - int 0 for key inner
+12/26/2016 10:25:20 AM - key: outer
+12/26/2016 10:25:20 AM - int 0 for key outer
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 1 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - int 20684848 for key focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - focus (reverse) 20684848
+12/26/2016 10:25:20 AM - got it! 0x1dec7e0
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 0 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - int 20681712 for key focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - focus (reverse) 20681712
+12/26/2016 10:25:20 AM - got it! 0x1dec5f0
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 0 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - start of map, last_key = swallows
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20703792 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: output for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: none for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - double 0.333333 for key percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 0 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: output for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splith for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int -1 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 3440 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 1080 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 1920 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: HDMI-0 for key name
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - start of map, last_key = nodes
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20706880 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: dockarea for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: none for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 0 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: output
+12/26/2016 10:25:20 AM - string: HDMI-0 for key output
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: dockarea for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splith for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int -1 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 3440 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 1080 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: topdock for key name
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 0 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - start of map, last_key = swallows
+12/26/2016 10:25:20 AM - creating new swallow
+12/26/2016 10:25:20 AM - key: dock
+12/26/2016 10:25:20 AM - int 2 for key dock
+12/26/2016 10:25:20 AM - key: insert_where
+12/26/2016 10:25:20 AM - int 2 for key insert_where
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - start of map, last_key = insert_where
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20710160 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: con for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: horizontal for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 0 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: output
+12/26/2016 10:25:20 AM - string: HDMI-0 for key output
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: splith for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splith for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int -1 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 3440 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 1080 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 1892 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: content for key name
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - start of map, last_key = nodes
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20719776 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: workspace for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: none for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 0 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: output
+12/26/2016 10:25:20 AM - string: HDMI-0 for key output
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: splitv for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splitv for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int -1 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 3440 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 1080 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 1892 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: 2 for key name
+12/26/2016 10:25:20 AM - key: num
+12/26/2016 10:25:20 AM - int 2 for key num
+12/26/2016 10:25:20 AM - key: gaps
+12/26/2016 10:25:20 AM - start of map, last_key = gaps
+12/26/2016 10:25:20 AM - key: inner
+12/26/2016 10:25:20 AM - int 0 for key inner
+12/26/2016 10:25:20 AM - key: outer
+12/26/2016 10:25:20 AM - int 0 for key outer
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 1 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - start of map, last_key = swallows
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20746512 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: workspace for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: vertical for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 1 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: output
+12/26/2016 10:25:20 AM - string: HDMI-0 for key output
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: splitv for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splitv for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int -1 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 3440 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 1080 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 1892 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: 10  for key name
+12/26/2016 10:25:20 AM - key: num
+12/26/2016 10:25:20 AM - int 10 for key num
+12/26/2016 10:25:20 AM - key: gaps
+12/26/2016 10:25:20 AM - start of map, last_key = gaps
+12/26/2016 10:25:20 AM - key: inner
+12/26/2016 10:25:20 AM - int 0 for key inner
+12/26/2016 10:25:20 AM - key: outer
+12/26/2016 10:25:20 AM - int 0 for key outer
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - start of map, last_key = nodes
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20749472 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: con for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: none for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - double 1.000000 for key percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 1 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: output
+12/26/2016 10:25:20 AM - string: HDMI-0 for key output
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: splith for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splith for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int 0 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 3450 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 10 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 1060 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 1872 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 1060 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 1872 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 3448 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 9 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 1063 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 1874 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: Untitled for key name
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - int 20971522 for key window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 0 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - start of map, last_key = swallows
+12/26/2016 10:25:20 AM - creating new swallow
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20971522 for key id
+12/26/2016 10:25:20 AM - key: restart_mode
+12/26/2016 10:25:20 AM - bool 1 for key restart_mode
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: depth
+12/26/2016 10:25:20 AM - int 24 for key depth
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - int 20749472 for key focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - focus (reverse) 20749472
+12/26/2016 10:25:20 AM - got it! 0x1df0780
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 0 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - int 20719776 for key focus
+12/26/2016 10:25:20 AM - int 20746512 for key focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - focus (reverse) 20746512
+12/26/2016 10:25:20 AM - got it! 0x1df05b0
+12/26/2016 10:25:20 AM - focus (reverse) 20719776
+12/26/2016 10:25:20 AM - got it! 0x1def980
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 0 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - start of map, last_key = swallows
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20713296 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: dockarea for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: none for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 0 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: output
+12/26/2016 10:25:20 AM - string: HDMI-0 for key output
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: dockarea for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splith for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int -1 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 3440 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 1892 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 1080 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 28 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: bottomdock for key name
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - int 20734368 for key focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - focus (reverse) 20734368
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 0 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - start of map, last_key = swallows
+12/26/2016 10:25:20 AM - creating new swallow
+12/26/2016 10:25:20 AM - key: dock
+12/26/2016 10:25:20 AM - int 3 for key dock
+12/26/2016 10:25:20 AM - key: insert_where
+12/26/2016 10:25:20 AM - int 2 for key insert_where
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - int 20710160 for key focus
+12/26/2016 10:25:20 AM - int 20706880 for key focus
+12/26/2016 10:25:20 AM - int 20713296 for key focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - focus (reverse) 20713296
+12/26/2016 10:25:20 AM - got it! 0x1df2930
+12/26/2016 10:25:20 AM - focus (reverse) 20706880
+12/26/2016 10:25:20 AM - got it! 0x1deeaf0
+12/26/2016 10:25:20 AM - focus (reverse) 20710160
+12/26/2016 10:25:20 AM - got it! 0x1def7b0
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 0 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - start of map, last_key = swallows
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20691680 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: output for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: none for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - double 0.333333 for key percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 0 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: output for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splith for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int -1 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 352 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 3440 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 1440 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: DP-4 for key name
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - start of map, last_key = nodes
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20694640 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: dockarea for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: none for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 0 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: output
+12/26/2016 10:25:20 AM - string: DP-4 for key output
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: dockarea for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splith for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int -1 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 352 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 3440 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: topdock for key name
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 0 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - start of map, last_key = swallows
+12/26/2016 10:25:20 AM - creating new swallow
+12/26/2016 10:25:20 AM - key: dock
+12/26/2016 10:25:20 AM - int 2 for key dock
+12/26/2016 10:25:20 AM - key: insert_where
+12/26/2016 10:25:20 AM - int 2 for key insert_where
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - start of map, last_key = insert_where
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20697600 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: con for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: horizontal for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 0 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: output
+12/26/2016 10:25:20 AM - string: DP-4 for key output
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: splith for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splith for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int -1 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 352 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 3440 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 1412 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: content for key name
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - start of map, last_key = nodes
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20716640 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: workspace for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: horizontal for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 0 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: output
+12/26/2016 10:25:20 AM - string: DP-4 for key output
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: splith for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splith for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int -1 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 352 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 3440 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 1412 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: 1 for key name
+12/26/2016 10:25:20 AM - key: num
+12/26/2016 10:25:20 AM - int 1 for key num
+12/26/2016 10:25:20 AM - key: gaps
+12/26/2016 10:25:20 AM - start of map, last_key = gaps
+12/26/2016 10:25:20 AM - key: inner
+12/26/2016 10:25:20 AM - int 0 for key inner
+12/26/2016 10:25:20 AM - key: outer
+12/26/2016 10:25:20 AM - int 0 for key outer
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - start of map, last_key = nodes
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20268640 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: con for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: none for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - double 1.000000 for key percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 0 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 1 for key focused
+12/26/2016 10:25:20 AM - key: output
+12/26/2016 10:25:20 AM - string: DP-4 for key output
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: splith for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splith for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int 0 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 10 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 362 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 3420 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 1392 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 3420 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 1392 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 882 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 546 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: bryan@powerhaus:~ for key name
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - int 14680068 for key window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 0 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - start of map, last_key = swallows
+12/26/2016 10:25:20 AM - creating new swallow
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 14680068 for key id
+12/26/2016 10:25:20 AM - key: restart_mode
+12/26/2016 10:25:20 AM - bool 1 for key restart_mode
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: depth
+12/26/2016 10:25:20 AM - int 32 for key depth
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - int 20268640 for key focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - focus (reverse) 20268640
+12/26/2016 10:25:20 AM - got it! 0x1df52c0
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 1 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - int 20716640 for key focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - focus (reverse) 20716640
+12/26/2016 10:25:20 AM - got it! 0x1df50d0
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 0 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - start of map, last_key = swallows
+12/26/2016 10:25:20 AM - key: id
+12/26/2016 10:25:20 AM - int 20700560 for key id
+12/26/2016 10:25:20 AM - key: type
+12/26/2016 10:25:20 AM - string: dockarea for key type
+12/26/2016 10:25:20 AM - key: orientation
+12/26/2016 10:25:20 AM - string: none for key orientation
+12/26/2016 10:25:20 AM - key: scratchpad_state
+12/26/2016 10:25:20 AM - string: none for key scratchpad_state
+12/26/2016 10:25:20 AM - key: percent
+12/26/2016 10:25:20 AM - key: urgent
+12/26/2016 10:25:20 AM - bool 0 for key urgent
+12/26/2016 10:25:20 AM - key: focused
+12/26/2016 10:25:20 AM - bool 0 for key focused
+12/26/2016 10:25:20 AM - key: output
+12/26/2016 10:25:20 AM - string: DP-4 for key output
+12/26/2016 10:25:20 AM - key: layout
+12/26/2016 10:25:20 AM - string: dockarea for key layout
+12/26/2016 10:25:20 AM - key: workspace_layout
+12/26/2016 10:25:20 AM - string: default for key workspace_layout
+12/26/2016 10:25:20 AM - key: last_split_layout
+12/26/2016 10:25:20 AM - string: splith for key last_split_layout
+12/26/2016 10:25:20 AM - key: border
+12/26/2016 10:25:20 AM - string: none for key border
+12/26/2016 10:25:20 AM - key: current_border_width
+12/26/2016 10:25:20 AM - int -1 for key current_border_width
+12/26/2016 10:25:20 AM - key: rect
+12/26/2016 10:25:20 AM - start of map, last_key = rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 1764 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 3440 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 28 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: deco_rect
+12/26/2016 10:25:20 AM - start of map, last_key = deco_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: window_rect
+12/26/2016 10:25:20 AM - start of map, last_key = window_rect
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: geometry
+12/26/2016 10:25:20 AM - start of map, last_key = geometry
+12/26/2016 10:25:20 AM - key: x
+12/26/2016 10:25:20 AM - int 0 for key x
+12/26/2016 10:25:20 AM - key: y
+12/26/2016 10:25:20 AM - int 0 for key y
+12/26/2016 10:25:20 AM - key: width
+12/26/2016 10:25:20 AM - int 0 for key width
+12/26/2016 10:25:20 AM - key: height
+12/26/2016 10:25:20 AM - int 0 for key height
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - key: name
+12/26/2016 10:25:20 AM - string: bottomdock for key name
+12/26/2016 10:25:20 AM - key: window
+12/26/2016 10:25:20 AM - key: nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - int 20741056 for key focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - focus (reverse) 20741056
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 0 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - start of map, last_key = swallows
+12/26/2016 10:25:20 AM - creating new swallow
+12/26/2016 10:25:20 AM - key: dock
+12/26/2016 10:25:20 AM - int 3 for key dock
+12/26/2016 10:25:20 AM - key: insert_where
+12/26/2016 10:25:20 AM - int 2 for key insert_where
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - int 20697600 for key focus
+12/26/2016 10:25:20 AM - int 20694640 for key focus
+12/26/2016 10:25:20 AM - int 20700560 for key focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - focus (reverse) 20700560
+12/26/2016 10:25:20 AM - got it! 0x1df7450
+12/26/2016 10:25:20 AM - focus (reverse) 20694640
+12/26/2016 10:25:20 AM - got it! 0x1df4210
+12/26/2016 10:25:20 AM - focus (reverse) 20697600
+12/26/2016 10:25:20 AM - got it! 0x1df4f00
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 0 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: floating_nodes
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - key: focus
+12/26/2016 10:25:20 AM - int 20691680 for key focus
+12/26/2016 10:25:20 AM - int 20703792 for key focus
+12/26/2016 10:25:20 AM - int 20678624 for key focus
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - focus (reverse) 20678624
+12/26/2016 10:25:20 AM - got it! 0x1debc10
+12/26/2016 10:25:20 AM - focus (reverse) 20703792
+12/26/2016 10:25:20 AM - got it! 0x1dee920
+12/26/2016 10:25:20 AM - focus (reverse) 20691680
+12/26/2016 10:25:20 AM - got it! 0x1df4040
+12/26/2016 10:25:20 AM - key: fullscreen_mode
+12/26/2016 10:25:20 AM - int 0 for key fullscreen_mode
+12/26/2016 10:25:20 AM - key: sticky
+12/26/2016 10:25:20 AM - bool 0 for key sticky
+12/26/2016 10:25:20 AM - key: floating
+12/26/2016 10:25:20 AM - string: auto_off for key floating
+12/26/2016 10:25:20 AM - key: swallows
+12/26/2016 10:25:20 AM - end of array
+12/26/2016 10:25:20 AM - end of map
+12/26/2016 10:25:20 AM - attaching
+12/26/2016 10:25:20 AM - Creating window
+12/26/2016 10:25:20 AM - _NET_WM_NAME changed to "Untitled"
+12/26/2016 10:25:20 AM - WM_HINTS.input changed to "0"
+12/26/2016 10:25:20 AM - Checking window 0x00600000 (class (null))
+12/26/2016 10:25:20 AM - dock status does not match
+12/26/2016 10:25:20 AM - Checking window 0x00600000 (class (null))
+12/26/2016 10:25:20 AM - match made by window id (6291456)
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1df05b0
+12/26/2016 10:25:20 AM - Checking window 0x00600000 (class (null))
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1df05b0
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1def980
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1dec7e0, ws = 0x1dec7e0
+12/26/2016 10:25:20 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+12/26/2016 10:25:20 AM - WM_HINTS.input changed to "0"
+12/26/2016 10:25:20 AM - Checking window 0x00600003 (class (null))
+12/26/2016 10:25:20 AM - dock status does not match
+12/26/2016 10:25:20 AM - Checking window 0x00600003 (class (null))
+12/26/2016 10:25:20 AM - window id does not match
+12/26/2016 10:25:20 AM - Checking window 0x00600003 (class (null))
+12/26/2016 10:25:20 AM - dock status does not match
+12/26/2016 10:25:20 AM - Checking window 0x00600003 (class (null))
+12/26/2016 10:25:20 AM - dock status does not match
+12/26/2016 10:25:20 AM - Checking window 0x00600003 (class (null))
+12/26/2016 10:25:20 AM - match made by window id (6291459)
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:20 AM - Checking window 0x00600003 (class (null))
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1def980
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1dec7e0, ws = 0x1dec7e0
+12/26/2016 10:25:20 AM - WM_CLASS changed to listen.tidal.com (instance), Google-chrome (class)
+12/26/2016 10:25:20 AM - WM_NAME changed to "Untitled"
+12/26/2016 10:25:20 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/26/2016 10:25:20 AM - _NET_WM_NAME changed to "Untitled"
+12/26/2016 10:25:20 AM - WM_WINDOW_ROLE changed to "pop-up"
+12/26/2016 10:25:20 AM - Checking window 0x01400002 (class Google-chrome)
+12/26/2016 10:25:20 AM - dock status does not match
+12/26/2016 10:25:20 AM - Checking window 0x01400002 (class Google-chrome)
+12/26/2016 10:25:20 AM - match made by window id (20971522)
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1df05b0
+12/26/2016 10:25:20 AM - Checking window 0x01400002 (class Google-chrome)
+12/26/2016 10:25:20 AM - Regular expression "Google-chrome" matches "Google-chrome"
+12/26/2016 10:25:20 AM - window class matches (Google-chrome)
+12/26/2016 10:25:20 AM - dock status matches
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1df05b0
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1def980
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1dec7e0, ws = 0x1dec7e0
+12/26/2016 10:25:20 AM - WM_CLASS changed to terminator (instance), Terminator (class)
+12/26/2016 10:25:20 AM - WM_NAME changed to "bryan@powerhaus:~"
+12/26/2016 10:25:20 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/26/2016 10:25:20 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+12/26/2016 10:25:20 AM - WM_HINTS.input changed to "1"
+12/26/2016 10:25:20 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:25:20 AM - dock status does not match
+12/26/2016 10:25:20 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:25:20 AM - dock status does not match
+12/26/2016 10:25:20 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:25:20 AM - dock status does not match
+12/26/2016 10:25:20 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:25:20 AM - match made by window id (14680068)
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:20 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:25:20 AM - Regular expression "Google-chrome" does not match "Terminator"
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1def980
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1dec7e0, ws = 0x1dec7e0
+12/26/2016 10:25:20 AM - Starting bar process: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.2956"
+12/26/2016 10:25:20 AM - executing: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.2956"
+12/26/2016 10:25:20 AM - ERROR: Received ConfigureNotify for unknown window 0x00600000
+12/26/2016 10:25:20 AM - ERROR: Received ConfigureNotify for unknown window 0x00600000
+12/26/2016 10:25:20 AM - ERROR: Received ConfigureNotify for unknown window 0x00600003
+12/26/2016 10:25:20 AM - ERROR: Received ExposeEvent for unknown window 0x00600003
+12/26/2016 10:25:20 AM - ERROR: Received ConfigureNotify for unknown window 0x00600003
+12/26/2016 10:25:20 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:25:20 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:25:20 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:25:20 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:25:20 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:25:20 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:25:20 AM - IPC: looking for config for bar ID "bar-0"
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1def980
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1df05b0
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:20 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+12/26/2016 10:25:20 AM - WM_NAME changed to "i3bar for output HDMI-0"
+12/26/2016 10:25:20 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/26/2016 10:25:20 AM - This window is of type dock
+12/26/2016 10:25:20 AM - Checking window 0x00c00006 (class i3bar)
+12/26/2016 10:25:20 AM - dock status does not match
+12/26/2016 10:25:20 AM - Checking window 0x00c00006 (class i3bar)
+12/26/2016 10:25:20 AM - dock status matches
+12/26/2016 10:25:20 AM - Checking window 0x00c00006 (class i3bar)
+12/26/2016 10:25:20 AM - Regular expression "Google-chrome" does not match "i3bar"
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1def980
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1dec7e0, ws = 0x1dec7e0
+12/26/2016 10:25:20 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+12/26/2016 10:25:20 AM - Checking window 0x00e00004 (class Terminator)
+12/26/2016 10:25:20 AM - Regular expression "Google-chrome" does not match "Terminator"
+12/26/2016 10:25:20 AM - ClientMessage for window 0x000001ef
+12/26/2016 10:25:20 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+12/26/2016 10:25:20 AM - WM_NAME changed to "i3bar for output DP-4"
+12/26/2016 10:25:20 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/26/2016 10:25:20 AM - This window is of type dock
+12/26/2016 10:25:20 AM - Checking window 0x00c0000d (class i3bar)
+12/26/2016 10:25:20 AM - dock status does not match
+12/26/2016 10:25:20 AM - Checking window 0x00c0000d (class i3bar)
+12/26/2016 10:25:20 AM - dock status matches
+12/26/2016 10:25:20 AM - Checking window 0x00c0000d (class i3bar)
+12/26/2016 10:25:20 AM - Regular expression "Google-chrome" does not match "i3bar"
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1def980
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1dec7e0, ws = 0x1dec7e0
+12/26/2016 10:25:20 AM - ClientMessage for window 0x01400002
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1df05b0
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1df05b0
+12/26/2016 10:25:20 AM - Urgency flag changed to 1
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1def980
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1def980, ws = 0x1df05b0
+12/26/2016 10:25:20 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:20 AM - _NET_WM_NAME changed to "TIDAL"
+12/26/2016 10:25:20 AM - Checking window 0x01400002 (class Google-chrome)
+12/26/2016 10:25:20 AM - Regular expression "Google-chrome" matches "Google-chrome"
+12/26/2016 10:25:20 AM - window class matches (Google-chrome)
+12/26/2016 10:25:20 AM - dock status matches
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+[2983:3132:1226/102522:ERROR:service_manager.cc(306)] Error: invalid Name: 4EB097F75E67A3D5085C4300803DBE95
+[3,3057826688:18:25:22.091415] Native Client module will be loaded at base address 0x00005a4d00000000
+12/26/2016 10:25:22 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:22 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:25:22 AM - expose event for unknown window, ignoring
+12/26/2016 10:25:22 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:25:22 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:25:22 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:25:22 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:25:22 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:25:22 AM - _NET_WM_NAME changed to "What's New TIDAL"
+12/26/2016 10:25:22 AM - Checking window 0x01400002 (class Google-chrome)
+12/26/2016 10:25:22 AM - Regular expression "Google-chrome" matches "Google-chrome"
+12/26/2016 10:25:22 AM - window class matches (Google-chrome)
+12/26/2016 10:25:22 AM - dock status matches
+12/26/2016 10:25:28 AM - startup id = i3/i3-nagbar/2956-0-powerhaus.bnet_TIME110811
+12/26/2016 10:25:28 AM - executing: i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'
+12/26/2016 10:25:28 AM - Not a managed window, ignoring UnmapNotify event
+12/26/2016 10:25:28 AM - This window is of type dock
+12/26/2016 10:25:28 AM - Checking window 0x00e00006 (class (null))
+12/26/2016 10:25:28 AM - dock status matches
+12/26/2016 10:25:28 AM - Checking window 0x00e00006 (class (null))
+12/26/2016 10:25:28 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:28 AM - workspace visible? fs = 0x1def980, ws = 0x1def980
+12/26/2016 10:25:28 AM - workspace visible? fs = 0x1dec7e0, ws = 0x1dec7e0
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+button pressed on x = 3243, y = 20
+button released on x = 3243, y = 20
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.5142.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.5142.nagbar_cmd
+12/26/2016 10:25:30 AM - ClientMessage for window 0x01c00004
+12/26/2016 10:25:30 AM - WM_CLASS changed to terminator (instance), Terminator (class)
+12/26/2016 10:25:30 AM - WM_NAME changed to "None"
+12/26/2016 10:25:30 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/26/2016 10:25:30 AM - _NET_WM_NAME changed to "None"
+12/26/2016 10:25:30 AM - WM_HINTS.input changed to "1"
+12/26/2016 10:25:30 AM - Checking window 0x01c00004 (class Terminator)
+12/26/2016 10:25:30 AM - dock status does not match
+12/26/2016 10:25:30 AM - Checking window 0x01c00004 (class Terminator)
+12/26/2016 10:25:30 AM - dock status does not match
+12/26/2016 10:25:30 AM - Checking window 0x01c00004 (class Terminator)
+12/26/2016 10:25:30 AM - dock status does not match
+12/26/2016 10:25:30 AM - Checking window 0x01c00004 (class Terminator)
+12/26/2016 10:25:30 AM - dock status does not match
+12/26/2016 10:25:30 AM - Checking window 0x01c00004 (class Terminator)
+12/26/2016 10:25:30 AM - Regular expression "Google-chrome" does not match "Terminator"
+12/26/2016 10:25:30 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:30 AM - Checking window 0x01c00004 (class Terminator)
+12/26/2016 10:25:30 AM - Regular expression "Google-chrome" does not match "Terminator"
+12/26/2016 10:25:30 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:30 AM - workspace visible? fs = 0x1df50d0, ws = 0x1df50d0
+12/26/2016 10:25:30 AM - workspace visible? fs = 0x1def980, ws = 0x1def980
+12/26/2016 10:25:30 AM - workspace visible? fs = 0x1dec7e0, ws = 0x1dec7e0
+12/26/2016 10:25:30 AM - _NET_WM_NAME changed to "None"
+12/26/2016 10:25:30 AM - Checking window 0x01c00004 (class Terminator)
+12/26/2016 10:25:30 AM - Regular expression "Google-chrome" does not match "Terminator"
+12/26/2016 10:25:30 AM - _NET_WM_NAME changed to "/bin/bash"
+12/26/2016 10:25:30 AM - Checking window 0x01c00004 (class Terminator)
+12/26/2016 10:25:30 AM - Regular expression "Google-chrome" does not match "Terminator"
+12/26/2016 10:25:30 AM - IPC: received: *exit*
+12/26/2016 10:25:30 AM - Exiting due to user command.
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 12957 requests (12957 known processed) with 0 events remaining.
+[    92.23 ] error    3 BadWindow    request    2 minor    0 serial  10946: "BadWindow (invalid Window parameter)"
+[    92.23 ] error    3 BadWindow    request    2 minor    0 serial  10947: "BadWindow (invalid Window parameter)"
+[    92.23 ] error    3 BadWindow    request   20 minor    0 serial  10948: "BadWindow (invalid Window parameter)"
+[    92.23 ] error    3 BadWindow    request    2 minor    0 serial  10949: "BadWindow (invalid Window parameter)"
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+button pressed on x = 3243, y = 20
+button released on x = 3243, y = 20
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.5142.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.5142.nagbar_cmd
+[2983:2983:1226/102530:ERROR:chrome_browser_main_extra_parts_x11.cc(62)] X IO error received (X server probably went away)
+[3138:3138:1226/102530:ERROR:x11_util.cc(87)] X IO error received (X server probably went away)
+Failed to tell parent about crash.

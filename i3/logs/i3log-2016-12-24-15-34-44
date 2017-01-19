@@ -1,0 +1,594 @@
+12/24/2016 03:34:44 PM - i3 4.13-non-git starting
+12/24/2016 03:34:44 PM - Parsing configfile /home/bryan/.config/i3/config
+12/24/2016 03:34:44 PM - deciding for version 4 due to this line: # i3 config file (v4)
+12/24/2016 03:34:44 PM - [libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+12/24/2016 03:34:44 PM - [libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+12/24/2016 03:34:44 PM - Initializing first assigned workspace "1" for output "DP-4"
+12/24/2016 03:34:44 PM - Creating new workspace "1"
+12/24/2016 03:34:44 PM - got output 0xf62ac0 with content 0xf641e0
+12/24/2016 03:34:44 PM - num = 1
+12/24/2016 03:34:44 PM - focused now = 0xf68c40 / 1
+12/24/2016 03:34:44 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:34:44 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:34:44 PM - Initializing first assigned workspace "2" for output "HDMI-0"
+12/24/2016 03:34:44 PM - Creating new workspace "2"
+12/24/2016 03:34:44 PM - got output 0xf65a10 with content 0xf672f0
+12/24/2016 03:34:44 PM - num = 2
+12/24/2016 03:34:44 PM - focused now = 0xf69880 / 2
+12/24/2016 03:34:44 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:34:44 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:34:44 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:34:44 PM - This is not an in-place restart, copying root window contents to a pixmap
+12/24/2016 03:34:44 PM - auto-starting compton -f
+12/24/2016 03:34:44 PM - startup id = i3/compton/450-0-powerhaus.bnet_TIME0
+12/24/2016 03:34:44 PM - executing: compton -f
+12/24/2016 03:34:44 PM - auto-starting nitrogen --restore
+12/24/2016 03:34:44 PM - executing: nitrogen --restore
+12/24/2016 03:34:44 PM - auto-starting xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+12/24/2016 03:34:44 PM - startup id = i3/xautolock/450-1-powerhaus.bnet_TIME0
+12/24/2016 03:34:44 PM - executing: xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+12/24/2016 03:34:44 PM - auto-starting google-chrome-stable --app=https://listen.tidal.com/ &
+12/24/2016 03:34:44 PM - startup id = i3/google-chrome-stable/450-2-powerhaus.bnet_TIME0
+12/24/2016 03:34:44 PM - executing: google-chrome-stable --app=https://listen.tidal.com/ &
+12/24/2016 03:34:44 PM - Starting bar process: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.450"
+12/24/2016 03:34:44 PM - executing: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.450"
+12/24/2016 03:34:44 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:34:44 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:34:44 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:34:44 PM - IPC: looking for config for bar ID "bar-0"
+12/24/2016 03:34:44 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:34:44 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:34:44 PM - WM_CLASS changed to i3bar (instance), i3bar (class)
+12/24/2016 03:34:44 PM - WM_NAME changed to "i3bar for output HDMI-0"
+12/24/2016 03:34:44 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/24/2016 03:34:44 PM - This window is of type dock
+12/24/2016 03:34:44 PM - Checking window 0x00a00006 (class i3bar)
+12/24/2016 03:34:44 PM - dock status does not match
+12/24/2016 03:34:44 PM - Checking window 0x00a00006 (class i3bar)
+12/24/2016 03:34:44 PM - dock status matches
+12/24/2016 03:34:44 PM - Checking window 0x00a00006 (class i3bar)
+12/24/2016 03:34:44 PM - Regular expression "Google-chrome" does not match "i3bar"
+12/24/2016 03:34:44 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:34:44 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:34:44 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:34:44 PM - ClientMessage for window 0x000001ef
+12/24/2016 03:34:44 PM - WM_CLASS changed to i3bar (instance), i3bar (class)
+12/24/2016 03:34:44 PM - WM_NAME changed to "i3bar for output DP-4"
+12/24/2016 03:34:44 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/24/2016 03:34:44 PM - This window is of type dock
+12/24/2016 03:34:44 PM - Checking window 0x00a0000d (class i3bar)
+12/24/2016 03:34:44 PM - dock status does not match
+12/24/2016 03:34:44 PM - Checking window 0x00a0000d (class i3bar)
+12/24/2016 03:34:44 PM - dock status matches
+12/24/2016 03:34:44 PM - Checking window 0x00a0000d (class i3bar)
+12/24/2016 03:34:44 PM - Regular expression "Google-chrome" does not match "i3bar"
+12/24/2016 03:34:44 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:34:44 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:34:44 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:34:54 PM - WM_CLASS changed to listen.tidal.com (instance), Google-chrome (class)
+12/24/2016 03:34:54 PM - WM_NAME changed to "Untitled"
+12/24/2016 03:34:54 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/24/2016 03:34:54 PM - _NET_WM_NAME changed to "Untitled"
+12/24/2016 03:34:54 PM - WM_WINDOW_ROLE changed to "pop-up"
+12/24/2016 03:34:54 PM - Checking window 0x01400002 (class Google-chrome)
+12/24/2016 03:34:54 PM - dock status does not match
+12/24/2016 03:34:54 PM - Checking window 0x01400002 (class Google-chrome)
+12/24/2016 03:34:54 PM - dock status does not match
+12/24/2016 03:34:54 PM - Checking window 0x01400002 (class Google-chrome)
+12/24/2016 03:34:54 PM - dock status does not match
+12/24/2016 03:34:54 PM - Checking window 0x01400002 (class Google-chrome)
+12/24/2016 03:34:54 PM - dock status does not match
+12/24/2016 03:34:54 PM - Checking window 0x01400002 (class Google-chrome)
+12/24/2016 03:34:54 PM - Regular expression "Google-chrome" matches "Google-chrome"
+12/24/2016 03:34:54 PM - window class matches (Google-chrome)
+12/24/2016 03:34:54 PM - dock status matches
+12/24/2016 03:34:54 PM - Creating new workspace "10 "
+12/24/2016 03:34:54 PM - got output 0xf65a10 with content 0xf672f0
+12/24/2016 03:34:54 PM - num = 10
+12/24/2016 03:34:54 PM - workspace visible? fs = 0xf69880, ws = 0xf70000
+12/24/2016 03:34:54 PM - workspace visible? fs = 0xf69880, ws = 0xf70000
+12/24/2016 03:34:54 PM - Checking window 0x01400002 (class Google-chrome)
+12/24/2016 03:34:54 PM - Regular expression "Google-chrome" matches "Google-chrome"
+12/24/2016 03:34:54 PM - window class matches (Google-chrome)
+12/24/2016 03:34:54 PM - dock status matches
+12/24/2016 03:34:54 PM - workspace visible? fs = 0xf69880, ws = 0xf70000
+12/24/2016 03:34:54 PM - Urgency flag changed to 1
+12/24/2016 03:34:54 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:34:54 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:34:54 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:34:54 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:34:54 PM - workspace visible? fs = 0xf69880, ws = 0xf70000
+12/24/2016 03:34:54 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:34:54 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:34:54 PM - workspace visible? fs = 0xf69880, ws = 0xf70000
+12/24/2016 03:34:54 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:34:58 PM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu'
+12/24/2016 03:35:01 PM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu'
+12/24/2016 03:35:08 PM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu'
+12/24/2016 03:35:12 PM - IPC: received: *exec  "firefox "*
+12/24/2016 03:35:12 PM - startup id = i3/firefox/450-3-powerhaus.bnet_TIME33897
+12/24/2016 03:35:12 PM - executing: firefox 
+[{"success":true}]
+12/24/2016 03:35:12 PM - Not a managed window, ignoring UnmapNotify event
+1482622512850	addons.webextension.jid1-BYcQOfYfmBMd9A@jetpack	WARN	Loading extension 'jid1-BYcQOfYfmBMd9A@jetpack': Reading manifest: Error processing minimum_chrome_version: An unexpected property was found in the WebExtension manifest.
+1482622512850	addons.webextension.jid1-BYcQOfYfmBMd9A@jetpack	WARN	Loading extension 'jid1-BYcQOfYfmBMd9A@jetpack': Reading manifest: Error processing optional_permissions: An unexpected property was found in the WebExtension manifest.
+1482622512850	addons.webextension.jid1-BYcQOfYfmBMd9A@jetpack	WARN	Loading extension 'jid1-BYcQOfYfmBMd9A@jetpack': Reading manifest: Error processing options_page: An unexpected property was found in the WebExtension manifest.
+1482622512868	addons.webextension.jid1-BYcQOfYfmBMd9A@jetpack	WARN	Please specify whether you want browser_style or not in your browser_action options.
+Couldn't get object: TypeError: Components.classes[cid] is undefined
+Couldn't get string: closeAndStopPicking
+12/24/2016 03:35:13 PM - ClientMessage for window 0x01c00018
+12/24/2016 03:35:13 PM - WM_CLASS changed to Navigator (instance), Firefox (class)
+12/24/2016 03:35:13 PM - WM_NAME changed to "Mozilla Firefox"
+12/24/2016 03:35:13 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/24/2016 03:35:13 PM - _NET_WM_NAME changed to "Mozilla Firefox"
+12/24/2016 03:35:13 PM - WM_WINDOW_ROLE changed to "browser"
+12/24/2016 03:35:13 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:35:13 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:35:13 PM - dock status does not match
+12/24/2016 03:35:13 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:35:13 PM - dock status does not match
+12/24/2016 03:35:13 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:35:13 PM - dock status does not match
+12/24/2016 03:35:13 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:35:13 PM - dock status does not match
+12/24/2016 03:35:13 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:35:13 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:35:13 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:13 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:35:13 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:35:13 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:13 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:13 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:35:13 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:35:13 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:35:13 PM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Mozilla Firefox"
+12/24/2016 03:35:13 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:35:13 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:35:15 PM - _NET_WM_NAME changed to "Mozilla Firefox"
+12/24/2016 03:35:15 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:35:15 PM - Regular expression "Google-chrome" does not match "Firefox"
+
+(firefox:1161): libnotify-WARNING **: Failed to connect to proxy
+12/24/2016 03:35:16 PM - ClientMessage for window 0x01c00042
+12/24/2016 03:35:16 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:35:16 PM - ClientMessage for window 0x01c0003a
+12/24/2016 03:35:17 PM - ClientMessage for window 0x01c00042
+12/24/2016 03:35:17 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:35:18 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:35:18 PM - focused now = 0xf69880 / 2
+12/24/2016 03:35:18 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:35:18 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:18 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:35:18 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:35:18 PM - workspace visible? fs = 0xf69880, ws = 0xf70000
+12/24/2016 03:35:18 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:19 PM - _NET_WM_NAME changed to "reddit: the front page of the internet - Mozilla Firefox"
+12/24/2016 03:35:19 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:35:19 PM - Regular expression "Google-chrome" does not match "Firefox"
+Couldn't get object: TypeError: Components.classes[cid] is undefined
+Couldn't get string: closeAndStopPicking
+12/24/2016 03:35:20 PM - ClientMessage for window 0x01c00052
+12/24/2016 03:35:20 PM - WM_CLASS changed to Navigator (instance), Firefox (class)
+12/24/2016 03:35:20 PM - WM_NAME changed to "Mozilla Firefox"
+12/24/2016 03:35:20 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/24/2016 03:35:20 PM - _NET_WM_NAME changed to "Mozilla Firefox"
+12/24/2016 03:35:20 PM - WM_WINDOW_ROLE changed to "browser"
+12/24/2016 03:35:20 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:35:20 PM - Checking window 0x01c00052 (class Firefox)
+12/24/2016 03:35:20 PM - dock status does not match
+12/24/2016 03:35:20 PM - Checking window 0x01c00052 (class Firefox)
+12/24/2016 03:35:20 PM - dock status does not match
+12/24/2016 03:35:20 PM - Checking window 0x01c00052 (class Firefox)
+12/24/2016 03:35:20 PM - dock status does not match
+12/24/2016 03:35:20 PM - Checking window 0x01c00052 (class Firefox)
+12/24/2016 03:35:20 PM - dock status does not match
+12/24/2016 03:35:20 PM - Checking window 0x01c00052 (class Firefox)
+12/24/2016 03:35:20 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:35:20 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:20 PM - This window is a dialog window, setting floating
+12/24/2016 03:35:20 PM - Checking window 0x01c00052 (class Firefox)
+12/24/2016 03:35:20 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:35:20 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:20 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:35:20 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:20 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:35:20 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:35:20 PM - ClientMessage for window 0x01c00052
+12/24/2016 03:35:20 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:20 PM - focused now = 0xefb730 / (null)
+12/24/2016 03:35:20 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:20 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:35:20 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:35:20 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:35:20 PM - workspace visible? fs = 0xf69880, ws = 0xf70000
+12/24/2016 03:35:20 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:20 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:35:20 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:35:20 PM - _NET_WM_NAME changed to "moz-extension://89efbc36-711f-4620-bcf3-077e5ad63d30 - Pushbullet - Mozilla Firefox"
+12/24/2016 03:35:20 PM - Checking window 0x01c00052 (class Firefox)
+12/24/2016 03:35:20 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:35:20 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:35:21 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:35:21 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:35:22 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:35:23 PM - No second container in this direction found.
+12/24/2016 03:35:23 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:35:23 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:35:23 PM - focused now = 0xf69880 / 2
+12/24/2016 03:35:23 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:35:23 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:23 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:35:23 PM - focused now = 0xefb730 / (null)
+12/24/2016 03:35:23 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:23 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:35:23 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:35:23 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:35:23 PM - workspace visible? fs = 0xf69880, ws = 0xf70000
+12/24/2016 03:35:23 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:23 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:35:23 PM - workspace visible? fs = 0xf69880, ws = 0xf70000
+12/24/2016 03:35:23 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:23 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:35:33 PM - focused now = 0xefb730 / (null)
+12/24/2016 03:35:33 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:33 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:35:33 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:35:33 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:35:33 PM - workspace visible? fs = 0xf69880, ws = 0xf70000
+12/24/2016 03:35:33 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:35:33 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:35:44 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:35:44 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:35:44 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:36:00 PM - focused now = 0xefb900 / (null)
+12/24/2016 03:36:00 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:36:00 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:36:00 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:36:00 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:36:00 PM - workspace visible? fs = 0xf69880, ws = 0xf70000
+12/24/2016 03:36:00 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:36:00 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:36:24 PM - focused now = 0xefb730 / (null)
+12/24/2016 03:36:24 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:36:24 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:36:24 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:36:24 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:36:24 PM - workspace visible? fs = 0xf69880, ws = 0xf70000
+12/24/2016 03:36:24 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:36:24 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:36:42 PM - ClientMessage for window 0x01c0006d
+12/24/2016 03:36:43 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:36:44 PM - ClientMessage for window 0x01c00071
+12/24/2016 03:36:46 PM - ClientMessage for window 0x01c00079
+12/24/2016 03:36:46 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:36:47 PM - focused now = 0xefb900 / (null)
+12/24/2016 03:36:47 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:36:47 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:36:47 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:36:47 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:36:47 PM - workspace visible? fs = 0xf69880, ws = 0xf70000
+12/24/2016 03:36:47 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:36:47 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:36:47 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:37:12 PM - focused now = 0xefb730 / (null)
+12/24/2016 03:37:12 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:37:12 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:37:12 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:37:12 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:37:12 PM - workspace visible? fs = 0xf69880, ws = 0xf70000
+12/24/2016 03:37:12 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:37:12 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:37:49 PM - ClientMessage for window 0x01c0006d
+12/24/2016 03:37:49 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:38:06 PM - _NET_WM_NAME changed to "Milk or otherwise, no point in crying over it if spilt : instant_regret - Mozilla Firefox"
+12/24/2016 03:38:06 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:38:06 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:38:09 PM - ClientMessage for window 0x01c00071
+12/24/2016 03:38:23 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:38:23 PM - _NET_WM_NAME changed to "Roasted Butternut Squash Almond Soup : GifRecipes - Mozilla Firefox"
+12/24/2016 03:38:23 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:38:23 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:38:29 PM - ClientMessage for window 0x01c00062
+12/24/2016 03:38:29 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:39:17 PM - _NET_WM_NAME changed to "Milk or otherwise, no point in crying over it if spilt : instant_regret - Mozilla Firefox"
+12/24/2016 03:39:17 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:39:17 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:39:19 PM - _NET_WM_NAME changed to "reddit: the front page of the internet - Mozilla Firefox"
+12/24/2016 03:39:19 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:39:19 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:41:47 PM - ClientMessage for window 0x01c0006d
+12/24/2016 03:41:48 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:41:50 PM - _NET_WM_NAME changed to "Need for Speed: Most Wanted 2012 (DX11) now renders proper graphics in Wine 2.0 : linux_gaming - Mozilla Firefox"
+12/24/2016 03:41:50 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:41:50 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:41:56 PM - _NET_WM_NAME changed to "New Tab - Mozilla Firefox"
+12/24/2016 03:41:56 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:41:56 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:41:56 PM - ClientMessage for window 0x01c00042
+12/24/2016 03:41:58 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:41:59 PM - _NET_WM_NAME changed to "overwatch wine - Google Search - Mozilla Firefox"
+12/24/2016 03:41:59 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:41:59 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:01 PM - _NET_WM_NAME changed to "WineHQ - Overwatch - Mozilla Firefox"
+12/24/2016 03:42:01 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:01 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:08 PM - _NET_WM_NAME changed to "overwatch wine - Google Search - Mozilla Firefox"
+12/24/2016 03:42:08 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:08 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:10 PM - _NET_WM_NAME changed to "Mozilla Firefox"
+12/24/2016 03:42:10 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:10 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:10 PM - _NET_WM_NAME changed to "WineHQ - Overwatch Current Version - Mozilla Firefox"
+12/24/2016 03:42:10 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:10 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:19 PM - _NET_WM_NAME changed to "New Tab - Mozilla Firefox"
+12/24/2016 03:42:19 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:19 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:19 PM - ClientMessage for window 0x01c00042
+12/24/2016 03:42:20 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:42:21 PM - _NET_WM_NAME changed to "wine arch - Google Search - Mozilla Firefox"
+12/24/2016 03:42:21 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:21 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:23 PM - _NET_WM_NAME changed to "Wine - ArchWiki - Mozilla Firefox"
+12/24/2016 03:42:23 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:23 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:24 PM - _NET_WM_NAME changed to "Mozilla Firefox"
+12/24/2016 03:42:24 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:24 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:25 PM - _NET_WM_NAME changed to "Wine - ArchWiki - Mozilla Firefox"
+12/24/2016 03:42:25 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:25 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:25 PM - _NET_WM_NAME changed to "Arch Linux - wine 2.0rc3-1 (x86_64) - Mozilla Firefox"
+12/24/2016 03:42:25 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:25 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:25 PM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Mozilla Firefox"
+12/24/2016 03:42:25 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:25 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:26 PM - _NET_WM_NAME changed to "Arch Linux - wine 2.0rc3-1 (x86_64) - Mozilla Firefox"
+12/24/2016 03:42:26 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:26 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:29 PM - _NET_WM_NAME changed to "wine arch - Google Search - Mozilla Firefox"
+12/24/2016 03:42:29 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:29 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:34 PM - _NET_WM_NAME changed to "Mozilla Firefox"
+12/24/2016 03:42:34 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:34 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:36 PM - _NET_WM_NAME changed to "Arch Linux - wine 2.0rc3-1 (x86_64) - Mozilla Firefox"
+12/24/2016 03:42:36 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:36 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:37 PM - _NET_WM_NAME changed to "Mozilla Firefox"
+12/24/2016 03:42:37 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:37 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:38 PM - _NET_WM_NAME changed to "wine arch - Google Search - Mozilla Firefox"
+12/24/2016 03:42:38 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:38 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:39 PM - _NET_WM_NAME changed to "WineHQ - Overwatch - Mozilla Firefox"
+12/24/2016 03:42:39 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:39 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:40 PM - _NET_WM_NAME changed to "WineHQ - Overwatch Current Version - Mozilla Firefox"
+12/24/2016 03:42:40 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:40 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:43 PM - _NET_WM_NAME changed to "overwatch wine - Google Search - Mozilla Firefox"
+12/24/2016 03:42:43 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:43 PM - Regular expression "Google-chrome" does not match "Firefox"
+console.error: reddit-enhancement-suite: 
+  Message: Error: Worker not found for tab with id: -3-14, url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0ahUKEwixi63jgI7RAhUIi1QKHTyxCQMQFggzMAM&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FOverwatch%2Fcomments%2F4m4xlg%2Foverwatch_wine_compatitbility%2F&usg=AFQjCNGMcL5tO0Qo10i0MNxUlLdV8Ib2mQ&sig2=NrVrnv1C3QI-N0uFcvp6gw&cad=rja
+  Stack:
+    workerFor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-xufzosoflzsoxg-at-jetpack/background.entry.js:190:10
+@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-xufzosoflzsoxg-at-jetpack/background.entry.js:440:107
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:123:45
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+tabEmit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/tabs/tab-firefox.js:263:31
+tabEventListener@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/tabs/tab-firefox.js:328:23
+@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/tabs/tab-firefox.js:347:39
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:123:45
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+messageReceived@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/remote/parent.js:96:37
+
+12/24/2016 03:42:46 PM - _NET_WM_NAME changed to "Mozilla Firefox"
+12/24/2016 03:42:46 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:46 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:46 PM - _NET_WM_NAME changed to "Overwatch Wine Compatitbility : Overwatch - Mozilla Firefox"
+12/24/2016 03:42:46 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:46 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:42:50 PM - _NET_WM_NAME changed to "overwatch wine - Google Search - Mozilla Firefox"
+12/24/2016 03:42:50 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:42:50 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:06 PM - _NET_WM_NAME changed to "With Wine Git, You Can Run The D3D11 Blizzard Overwatch Game On Linux - Phoronix - Mozilla Firefox"
+12/24/2016 03:43:06 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:06 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:21 PM - _NET_WM_NAME changed to "The New Feature Highlights For The Upcoming Wine 2.0 - Phoronix - Mozilla Firefox"
+12/24/2016 03:43:21 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:21 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:27 PM - _NET_WM_NAME changed to "Wine 2.0-rc1 released, also showing progress towards Overwatch working in a future Wine version | GamingOnLinux - Mozilla Firefox"
+12/24/2016 03:43:27 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:27 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:33 PM - _NET_WM_NAME changed to "WineHQ - Overwatch Current Version - Mozilla Firefox"
+12/24/2016 03:43:33 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:33 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:34 PM - _NET_WM_NAME changed to "WineHQ - Overwatch - Mozilla Firefox"
+12/24/2016 03:43:34 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:34 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:35 PM - _NET_WM_NAME changed to "WineHQ - Overwatch Current Version - Mozilla Firefox"
+12/24/2016 03:43:35 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:35 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:48 PM - _NET_WM_NAME changed to "WineHQ - Overwatch - Mozilla Firefox"
+12/24/2016 03:43:48 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:48 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:48 PM - _NET_WM_NAME changed to "wine arch - Google Search - Mozilla Firefox"
+12/24/2016 03:43:48 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:48 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:48 PM - _NET_WM_NAME changed to "AUR (en) - wine-git - Mozilla Firefox"
+12/24/2016 03:43:48 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:48 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:48 PM - _NET_WM_NAME changed to "AUR (en) - wine-stable - Mozilla Firefox"
+12/24/2016 03:43:48 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:48 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:49 PM - _NET_WM_NAME changed to "Arch Linux - wine 2.0rc3-1 (x86_64) - Mozilla Firefox"
+12/24/2016 03:43:49 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:49 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:49 PM - _NET_WM_NAME changed to "Wine 2.0-rc1 released, also showing progress towards Overwatch working in a future Wine version | GamingOnLinux - Mozilla Firefox"
+12/24/2016 03:43:49 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:49 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:49 PM - _NET_WM_NAME changed to "The New Feature Highlights For The Upcoming Wine 2.0 - Phoronix - Mozilla Firefox"
+12/24/2016 03:43:49 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:49 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:50 PM - _NET_WM_NAME changed to "With Wine Git, You Can Run The D3D11 Blizzard Overwatch Game On Linux - Phoronix - Mozilla Firefox"
+12/24/2016 03:43:50 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:50 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:50 PM - _NET_WM_NAME changed to "overwatch wine - Google Search - Mozilla Firefox"
+12/24/2016 03:43:50 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:50 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:43:50 PM - _NET_WM_NAME changed to "Need for Speed: Most Wanted 2012 (DX11) now renders proper graphics in Wine 2.0 : linux_gaming - Mozilla Firefox"
+12/24/2016 03:43:50 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:43:50 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:44:08 PM - ClientMessage for window 0x01c00071
+12/24/2016 03:44:08 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:44:10 PM - _NET_WM_NAME changed to "reddit: the front page of the internet - Mozilla Firefox"
+12/24/2016 03:44:10 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:44:10 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:44:12 PM - ClientMessage for window 0x01c00071
+12/24/2016 03:44:12 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:44:12 PM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Mozilla Firefox"
+12/24/2016 03:44:12 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:44:12 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:44:25 PM - ClientMessage for window 0x01c0006d
+12/24/2016 03:44:26 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:44:31 PM - ClientMessage for window 0x01c0006d
+12/24/2016 03:44:32 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:44:36 PM - ClientMessage for window 0x01c0006d
+12/24/2016 03:44:37 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:44:43 PM - _NET_WM_NAME changed to "Aune X7s Balanced Headphone Amp - Massdrop - Mozilla Firefox"
+12/24/2016 03:44:43 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:44:43 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:44:49 PM - _NET_WM_NAME changed to "Massdrop x AKG K7XX Audiophile Headphone - Massdrop - Mozilla Firefox"
+12/24/2016 03:44:49 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:44:49 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:44:50 PM - _NET_WM_NAME changed to "New Tab - Mozilla Firefox"
+12/24/2016 03:44:50 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:44:50 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:44:51 PM - ClientMessage for window 0x01c00042
+12/24/2016 03:44:54 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:44:54 PM - _NET_WM_NAME changed to "hd 650 - Google Search - Mozilla Firefox"
+12/24/2016 03:44:54 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:44:54 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:44:56 PM - _NET_WM_NAME changed to "hd650 - Google Search - Mozilla Firefox"
+12/24/2016 03:44:56 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:44:56 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:44:57 PM - _NET_WM_NAME changed to "Mozilla Firefox"
+12/24/2016 03:44:57 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:44:57 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:44:57 PM - _NET_WM_NAME changed to "Amazon.com: Sennheiser HD 650 Open Back Professional Headphone: Electronics - Mozilla Firefox"
+12/24/2016 03:44:57 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:44:57 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:45:03 PM - ClientMessage for window 0x01c0006d
+12/24/2016 03:45:04 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:45:12 PM - ClientMessage for window 0x01c00071
+12/24/2016 03:45:12 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:45:13 PM - _NET_WM_NAME changed to "hd650 - Google Search - Mozilla Firefox"
+12/24/2016 03:45:13 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:45:13 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:45:14 PM - _NET_WM_NAME changed to "Massdrop x AKG K7XX Audiophile Headphone - Massdrop - Mozilla Firefox"
+12/24/2016 03:45:14 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:45:14 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:45:15 PM - _NET_WM_NAME changed to "SEEED Raspberry Pi 3 B w/Starter Kit - Massdrop - Mozilla Firefox"
+12/24/2016 03:45:15 PM - Checking window 0x01c00018 (class Firefox)
+12/24/2016 03:45:15 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:45:16 PM - ClientMessage for window 0x01c00071
+12/24/2016 03:45:16 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:45:44 PM - ClientMessage for window 0x01c000b7
+12/24/2016 03:45:46 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:46:13 PM - Sending WM_DELETE to the client
+12/24/2016 03:46:13 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:46:13 PM - ClientMessage for window 0x01c00018
+12/24/2016 03:46:13 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:46:13 PM - ClientMessage for window 0x01c000d5
+12/24/2016 03:46:13 PM - WM_CLASS changed to Dialog (instance), Firefox (class)
+12/24/2016 03:46:13 PM - WM_NAME changed to "Confirm close"
+12/24/2016 03:46:13 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/24/2016 03:46:13 PM - _NET_WM_NAME changed to "Confirm close"
+12/24/2016 03:46:13 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:46:13 PM - Checking window 0x01c000d5 (class Firefox)
+12/24/2016 03:46:13 PM - dock status does not match
+12/24/2016 03:46:13 PM - Checking window 0x01c000d5 (class Firefox)
+12/24/2016 03:46:13 PM - dock status does not match
+12/24/2016 03:46:13 PM - Checking window 0x01c000d5 (class Firefox)
+12/24/2016 03:46:13 PM - dock status does not match
+12/24/2016 03:46:13 PM - Checking window 0x01c000d5 (class Firefox)
+12/24/2016 03:46:13 PM - dock status does not match
+12/24/2016 03:46:13 PM - Checking window 0x01c000d5 (class Firefox)
+12/24/2016 03:46:13 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:46:13 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:46:13 PM - This window is a dialog window, setting floating
+12/24/2016 03:46:13 PM - This window is transient for another window, setting floating
+12/24/2016 03:46:13 PM - Checking window 0x01c000d5 (class Firefox)
+12/24/2016 03:46:13 PM - Regular expression "Google-chrome" does not match "Firefox"
+12/24/2016 03:46:13 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:46:13 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:46:13 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:46:13 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:46:13 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:46:15 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:46:15 PM - expose event for unknown window, ignoring
+12/24/2016 03:46:15 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:46:15 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:46:15 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:46:15 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:46:15 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:46:15 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:46:15 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:46:15 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:46:15 PM - expose event for unknown window, ignoring
+12/24/2016 03:46:15 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:46:15 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:46:15 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:46:15 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:46:15 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:46:15 PM - startup id = i3/i3-sensible-terminal/450-4-powerhaus.bnet_TIME701045
+12/24/2016 03:46:15 PM - executing: i3-sensible-terminal
+12/24/2016 03:46:15 PM - Not a managed window, ignoring UnmapNotify event
+12/24/2016 03:46:16 PM - ClientMessage for window 0x02200004
+12/24/2016 03:46:16 PM - WM_CLASS changed to terminator (instance), Terminator (class)
+12/24/2016 03:46:16 PM - WM_NAME changed to "None"
+12/24/2016 03:46:16 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/24/2016 03:46:16 PM - _NET_WM_NAME changed to "None"
+12/24/2016 03:46:16 PM - WM_HINTS.input changed to "1"
+12/24/2016 03:46:16 PM - Checking window 0x02200004 (class Terminator)
+12/24/2016 03:46:16 PM - dock status does not match
+12/24/2016 03:46:16 PM - Checking window 0x02200004 (class Terminator)
+12/24/2016 03:46:16 PM - dock status does not match
+12/24/2016 03:46:16 PM - Checking window 0x02200004 (class Terminator)
+12/24/2016 03:46:16 PM - dock status does not match
+12/24/2016 03:46:16 PM - Checking window 0x02200004 (class Terminator)
+12/24/2016 03:46:16 PM - dock status does not match
+12/24/2016 03:46:16 PM - Checking window 0x02200004 (class Terminator)
+12/24/2016 03:46:16 PM - Regular expression "Google-chrome" does not match "Terminator"
+12/24/2016 03:46:16 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:46:16 PM - Checking window 0x02200004 (class Terminator)
+12/24/2016 03:46:16 PM - Regular expression "Google-chrome" does not match "Terminator"
+12/24/2016 03:46:16 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:46:16 PM - workspace visible? fs = 0xf68c40, ws = 0xf68c40
+12/24/2016 03:46:16 PM - workspace visible? fs = 0xf69880, ws = 0xf69880
+12/24/2016 03:46:16 PM - workspace visible? fs = 0xf61010, ws = 0xf61010
+12/24/2016 03:46:16 PM - _NET_WM_NAME changed to "None"
+12/24/2016 03:46:16 PM - Checking window 0x02200004 (class Terminator)
+12/24/2016 03:46:16 PM - Regular expression "Google-chrome" does not match "Terminator"
+12/24/2016 03:46:16 PM - _NET_WM_NAME changed to "/bin/bash"
+12/24/2016 03:46:16 PM - Checking window 0x02200004 (class Terminator)
+12/24/2016 03:46:16 PM - Regular expression "Google-chrome" does not match "Terminator"
+12/24/2016 03:46:16 PM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+12/24/2016 03:46:16 PM - Checking window 0x02200004 (class Terminator)
+12/24/2016 03:46:16 PM - Regular expression "Google-chrome" does not match "Terminator"
+12/24/2016 03:46:18 PM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+12/24/2016 03:46:18 PM - Checking window 0x02200004 (class Terminator)
+12/24/2016 03:46:18 PM - Regular expression "Google-chrome" does not match "Terminator"
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI

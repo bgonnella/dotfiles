@@ -1,0 +1,25 @@
+[global_config]
+  borderless = True
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#2f2f2f"
+    background_darkness = 0.95
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    cursor_shape = underline
+    font = Inconsolata 14
+    foreground_color = "#dcdccc"
+    palette = "#5f5f5f:#d96468:#a2d964:#d9c964:#64a2d9:#9a64d9:#64d9d5:#989898:#828282:#d98f93:#b8d98f:#d9cf8f:#8f99d9:#b08fd9:#8fd9d5:#c5c5c5"
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False

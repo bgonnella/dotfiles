@@ -1,0 +1,789 @@
+01/02/2017 01:11:09 AM - i3 4.13-non-git starting
+01/02/2017 01:11:09 AM - Parsing configfile /home/bryan/.config/i3/config
+01/02/2017 01:11:09 AM - deciding for version 4 due to this line: # i3 config file (v4)
+01/02/2017 01:11:09 AM - [libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+01/02/2017 01:11:09 AM - [libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+01/02/2017 01:11:09 AM - Initializing first assigned workspace "1" for output "DP-4"
+01/02/2017 01:11:09 AM - Creating new workspace "1"
+01/02/2017 01:11:09 AM - got output 0x1c62100 with content 0x1c63820
+01/02/2017 01:11:09 AM - num = 1
+01/02/2017 01:11:09 AM - focused now = 0x1c68270 / 1
+01/02/2017 01:11:09 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:11:09 AM - workspace visible? fs = 0x1c60650, ws = 0x1c60650
+01/02/2017 01:11:09 AM - Initializing first assigned workspace "2" for output "HDMI-0"
+01/02/2017 01:11:09 AM - Creating new workspace "2"
+01/02/2017 01:11:09 AM - got output 0x1c65050 with content 0x1c66930
+01/02/2017 01:11:09 AM - num = 2
+01/02/2017 01:11:09 AM - focused now = 0x1c68eb0 / 2
+01/02/2017 01:11:09 AM - workspace visible? fs = 0x1c68eb0, ws = 0x1c68eb0
+01/02/2017 01:11:09 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:11:09 AM - workspace visible? fs = 0x1c60650, ws = 0x1c60650
+01/02/2017 01:11:09 AM - This is not an in-place restart, copying root window contents to a pixmap
+01/02/2017 01:11:09 AM - auto-starting compton -f
+01/02/2017 01:11:09 AM - startup id = i3/compton/463-0-powerhaus.bnet_TIME0
+01/02/2017 01:11:09 AM - executing: compton -f
+01/02/2017 01:11:09 AM - auto-starting nitrogen --restore
+01/02/2017 01:11:09 AM - executing: nitrogen --restore
+01/02/2017 01:11:09 AM - auto-starting ~/.config/i3/lock/lock.sh
+01/02/2017 01:11:09 AM - startup id = i3/~|.config|i3|lock|lock.sh/463-1-powerhaus.bnet_TIME0
+01/02/2017 01:11:09 AM - executing: ~/.config/i3/lock/lock.sh
+01/02/2017 01:11:09 AM - auto-starting xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+01/02/2017 01:11:09 AM - startup id = i3/xautolock/463-2-powerhaus.bnet_TIME0
+01/02/2017 01:11:09 AM - executing: xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+01/02/2017 01:11:09 AM - auto-starting google-chrome-stable --app=https://listen.tidal.com/ &
+01/02/2017 01:11:09 AM - startup id = i3/google-chrome-stable/463-3-powerhaus.bnet_TIME0
+01/02/2017 01:11:09 AM - executing: google-chrome-stable --app=https://listen.tidal.com/ &
+01/02/2017 01:11:09 AM - Starting bar process: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.463"
+01/02/2017 01:11:09 AM - executing: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.463"
+01/02/2017 01:11:09 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:11:09 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:11:09 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:11:09 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:11:09 AM - IPC: looking for config for bar ID "bar-0"
+01/02/2017 01:11:09 AM - workspace visible? fs = 0x1c68eb0, ws = 0x1c68eb0
+01/02/2017 01:11:09 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:11:09 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+01/02/2017 01:11:09 AM - WM_NAME changed to "i3bar for output HDMI-0"
+01/02/2017 01:11:09 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 01:11:09 AM - This window is of type dock
+01/02/2017 01:11:09 AM - Checking window 0x00e00006 (class i3bar)
+01/02/2017 01:11:09 AM - dock status does not match
+01/02/2017 01:11:09 AM - Checking window 0x00e00006 (class i3bar)
+01/02/2017 01:11:09 AM - dock status matches
+01/02/2017 01:11:09 AM - Checking window 0x00e00006 (class i3bar)
+01/02/2017 01:11:09 AM - Regular expression "Google-chrome" does not match "i3bar"
+01/02/2017 01:11:09 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:11:09 AM - workspace visible? fs = 0x1c68eb0, ws = 0x1c68eb0
+01/02/2017 01:11:09 AM - workspace visible? fs = 0x1c60650, ws = 0x1c60650
+01/02/2017 01:11:09 AM - ClientMessage for window 0x000001ef
+01/02/2017 01:11:09 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+01/02/2017 01:11:09 AM - WM_NAME changed to "i3bar for output DP-4"
+01/02/2017 01:11:09 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 01:11:09 AM - This window is of type dock
+01/02/2017 01:11:09 AM - Checking window 0x00e0000d (class i3bar)
+01/02/2017 01:11:09 AM - dock status does not match
+01/02/2017 01:11:09 AM - Checking window 0x00e0000d (class i3bar)
+01/02/2017 01:11:09 AM - dock status matches
+01/02/2017 01:11:09 AM - Checking window 0x00e0000d (class i3bar)
+01/02/2017 01:11:09 AM - Regular expression "Google-chrome" does not match "i3bar"
+01/02/2017 01:11:09 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:11:09 AM - workspace visible? fs = 0x1c68eb0, ws = 0x1c68eb0
+01/02/2017 01:11:09 AM - workspace visible? fs = 0x1c60650, ws = 0x1c60650
+done
+01/02/2017 01:11:18 AM - WM_CLASS changed to listen.tidal.com (instance), Google-chrome (class)
+01/02/2017 01:11:18 AM - WM_NAME changed to "Untitled"
+01/02/2017 01:11:18 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 01:11:18 AM - _NET_WM_NAME changed to "Untitled"
+01/02/2017 01:11:18 AM - WM_WINDOW_ROLE changed to "pop-up"
+01/02/2017 01:11:18 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 01:11:18 AM - dock status does not match
+01/02/2017 01:11:18 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 01:11:18 AM - dock status does not match
+01/02/2017 01:11:18 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 01:11:18 AM - dock status does not match
+01/02/2017 01:11:18 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 01:11:18 AM - dock status does not match
+01/02/2017 01:11:18 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 01:11:18 AM - Regular expression "Google-chrome" matches "Google-chrome"
+01/02/2017 01:11:18 AM - window class matches (Google-chrome)
+01/02/2017 01:11:18 AM - dock status matches
+01/02/2017 01:11:18 AM - Creating new workspace "10 "
+01/02/2017 01:11:18 AM - got output 0x1c65050 with content 0x1c66930
+01/02/2017 01:11:18 AM - num = 10
+01/02/2017 01:11:18 AM - workspace visible? fs = 0x1c68eb0, ws = 0x1c6fa90
+01/02/2017 01:11:18 AM - workspace visible? fs = 0x1c68eb0, ws = 0x1c6fa90
+01/02/2017 01:11:18 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 01:11:18 AM - Regular expression "Google-chrome" matches "Google-chrome"
+01/02/2017 01:11:18 AM - window class matches (Google-chrome)
+01/02/2017 01:11:18 AM - dock status matches
+01/02/2017 01:11:18 AM - workspace visible? fs = 0x1c68eb0, ws = 0x1c6fa90
+01/02/2017 01:11:18 AM - Urgency flag changed to 1
+01/02/2017 01:11:18 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:11:18 AM - workspace visible? fs = 0x1c68eb0, ws = 0x1c68eb0
+01/02/2017 01:11:18 AM - workspace visible? fs = 0x1c60650, ws = 0x1c60650
+01/02/2017 01:11:18 AM - workspace visible? fs = 0x1c68eb0, ws = 0x1c68eb0
+01/02/2017 01:11:18 AM - workspace visible? fs = 0x1c68eb0, ws = 0x1c6fa90
+01/02/2017 01:11:18 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:11:18 AM - workspace visible? fs = 0x1c68eb0, ws = 0x1c68eb0
+01/02/2017 01:11:18 AM - workspace visible? fs = 0x1c68eb0, ws = 0x1c6fa90
+01/02/2017 01:11:18 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:11:27 AM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu -i'
+01/02/2017 01:11:31 AM - IPC: received: *exec  "chromium  --force-device-scale-factor=1 "*
+01/02/2017 01:11:31 AM - startup id = i3/chromium/463-4-powerhaus.bnet_TIME31413
+01/02/2017 01:11:31 AM - executing: chromium  --force-device-scale-factor=1 
+01/02/2017 01:11:31 AM - [{"success":true}]
+Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:11:31 AM - WM_CLASS changed to chromium (instance), Chromium (class)
+01/02/2017 01:11:31 AM - WM_NAME changed to "Untitled - Chromium"
+01/02/2017 01:11:31 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 01:11:31 AM - _NET_WM_NAME changed to "Untitled - Chromium"
+01/02/2017 01:11:31 AM - WM_WINDOW_ROLE changed to "browser"
+01/02/2017 01:11:31 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:11:31 AM - dock status does not match
+01/02/2017 01:11:31 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:11:31 AM - dock status does not match
+01/02/2017 01:11:31 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:11:31 AM - dock status does not match
+01/02/2017 01:11:31 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:11:31 AM - dock status does not match
+01/02/2017 01:11:31 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:11:31 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:11:31 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:11:31 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:11:31 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:11:31 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:11:31 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:11:31 AM - workspace visible? fs = 0x1c68eb0, ws = 0x1c68eb0
+01/02/2017 01:11:31 AM - workspace visible? fs = 0x1c60650, ws = 0x1c60650
+01/02/2017 01:11:31 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:11:31 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:11:34 AM - _NET_WM_NAME changed to "New Tab - Chromium"
+01/02/2017 01:11:34 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:11:34 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:11:39 AM - _NET_WM_NAME changed to "arch winbind - Google Search - Chromium"
+01/02/2017 01:11:39 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:11:39 AM - Regular expression "Google-chrome" does not match "Chromium"
+[855:1347:0102/011139:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+01/02/2017 01:11:40 AM - _NET_WM_NAME changed to "Untitled - Chromium"
+01/02/2017 01:11:40 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:11:40 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:11:40 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:11:40 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:11:41 AM - _NET_WM_NAME changed to "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwints-Dj6PRAhUM7GMKHR4nCxwQFggoMAE&url=https%3A%2F%2Faur.archlinux.org%2Fpackages%2Flib32-libwbclient%2F&usg=AFQjCNHGl8R8pWxDn-qRokw6KhT-STUhig&sig2=Z7QCT0tHRBOIW6SzPPavoA&cad=rjt - Chromium"
+01/02/2017 01:11:41 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:11:41 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:11:43 AM - _NET_WM_NAME changed to "AUR (en) - lib32-libwbclient - Chromium"
+01/02/2017 01:11:43 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:11:43 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:11:51 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:11:51 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:11:51 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:11:52 AM - _NET_WM_NAME changed to "Untitled - Chromium"
+01/02/2017 01:11:52 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:11:52 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:11:53 AM - _NET_WM_NAME changed to "https://aur.archlinux.org/packages/lib32-smbclient/ - Chromium"
+01/02/2017 01:11:53 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:11:53 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:11:53 AM - _NET_WM_NAME changed to "AUR (en) - lib32-smbclient - Chromium"
+01/02/2017 01:11:53 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:11:53 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:12:08 AM - _NET_WM_NAME changed to "AUR (en) - lib32-libwbclient - Chromium"
+01/02/2017 01:12:08 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:12:08 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:12:09 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:12:09 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:12:09 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:12:09 AM - Not a managed window, ignoring UnmapNotify event
+[493:643:0102/011228:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:12:30 AM - startup id = i3/i3-sensible-terminal/463-5-powerhaus.bnet_TIME91099
+01/02/2017 01:12:30 AM - executing: i3-sensible-terminal
+01/02/2017 01:12:30 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:12:31 AM - ClientMessage for window 0x02400004
+01/02/2017 01:12:31 AM - WM_CLASS changed to terminator (instance), Terminator (class)
+01/02/2017 01:12:31 AM - WM_NAME changed to "None"
+01/02/2017 01:12:31 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 01:12:31 AM - _NET_WM_NAME changed to "None"
+01/02/2017 01:12:31 AM - WM_HINTS.input changed to "1"
+01/02/2017 01:12:31 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:12:31 AM - dock status does not match
+01/02/2017 01:12:31 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:12:31 AM - dock status does not match
+01/02/2017 01:12:31 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:12:31 AM - dock status does not match
+01/02/2017 01:12:31 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:12:31 AM - dock status does not match
+01/02/2017 01:12:31 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:12:31 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:12:31 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:12:31 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:12:31 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:12:31 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:12:31 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:12:31 AM - workspace visible? fs = 0x1c68eb0, ws = 0x1c68eb0
+01/02/2017 01:12:31 AM - workspace visible? fs = 0x1c60650, ws = 0x1c60650
+01/02/2017 01:12:31 AM - _NET_WM_NAME changed to "None"
+01/02/2017 01:12:31 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:12:31 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:12:31 AM - _NET_WM_NAME changed to "/bin/bash"
+01/02/2017 01:12:31 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:12:31 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:12:31 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:12:31 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:12:31 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:12:31 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:12:56 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:12:56 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:12:56 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:12:56 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:12:56 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:12:56 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:12:58 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:12:58 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:12:58 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:12:59 AM - _NET_WM_NAME changed to "New Tab - Chromium"
+01/02/2017 01:12:59 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:12:59 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:13:06 AM - _NET_WM_NAME changed to "check package dependencies arch - Google Search - Chromium"
+01/02/2017 01:13:06 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:13:06 AM - Regular expression "Google-chrome" does not match "Chromium"
+[855:1347:0102/011307:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+01/02/2017 01:13:08 AM - _NET_WM_NAME changed to "Untitled - Chromium"
+01/02/2017 01:13:08 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:13:08 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:13:08 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:13:08 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:13:08 AM - _NET_WM_NAME changed to "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjby5qtj6PRAhUS-GMKHbLMBA4QFggcMAA&url=https%3A%2F%2Fbbs.archlinux.org%2Fviewtopic.php%3Fid%3D97550&usg=AFQjCNHB9Hb6L6luU5-U_zxa27LwLVWH6A&sig2=CLLZriUNM9p1ZAF6U3fXKw&cad=rjt - Chromium"
+01/02/2017 01:13:08 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:13:08 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:13:08 AM - _NET_WM_NAME changed to "[SOLVED] pacman show dependency list / Newbie Corner / Arch Linux Forums - Chromium"
+01/02/2017 01:13:08 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:13:08 AM - Regular expression "Google-chrome" does not match "Chromium"
+[493:643:0102/011314:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:13:28 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:13:28 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:13:28 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:13:28 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:13:28 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:13:28 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:13:28 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:13:30 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:13:30 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:13:30 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:13:30 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:13:41 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:13:41 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:13:41 AM - Regular expression "Google-chrome" does not match "Terminator"
+[493:643:0102/011400:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:14:07 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:14:07 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:14:07 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:14:21 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:14:21 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:14:21 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:14:29 AM - _NET_WM_NAME changed to "check package dependencies arch - Google Search - Chromium"
+01/02/2017 01:14:29 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:14:29 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:14:30 AM - _NET_WM_NAME changed to "AUR (en) - lib32-smbclient - Chromium"
+01/02/2017 01:14:30 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:14:30 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:14:31 AM - _NET_WM_NAME changed to "check package dependencies arch - Google Search - Chromium"
+01/02/2017 01:14:31 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:14:31 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:14:33 AM - _NET_WM_NAME changed to "New Tab - Chromium"
+01/02/2017 01:14:33 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:14:33 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:14:41 AM - _NET_WM_NAME changed to "multilib gcc - Google Search - Chromium"
+01/02/2017 01:14:41 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:14:41 AM - Regular expression "Google-chrome" does not match "Chromium"
+[855:1347:0102/011442:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+01/02/2017 01:14:43 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:14:43 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:14:43 AM - _NET_WM_NAME changed to "Arch Linux - gcc-multilib 6.2.1-1 (x86_64) - Chromium"
+01/02/2017 01:14:43 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:14:43 AM - Regular expression "Google-chrome" does not match "Chromium"
+[493:643:0102/011446:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:14:51 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:14:51 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:14:51 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:14:51 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:14:51 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:14:51 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:14:58 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:14:58 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:14:58 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:15:14 AM - _NET_WM_NAME changed to "multilib gcc - Google Search - Chromium"
+01/02/2017 01:15:14 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:15:14 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:15:14 AM - _NET_WM_NAME changed to "[SOLVED] pacman show dependency list / Newbie Corner / Arch Linux Forums - Chromium"
+01/02/2017 01:15:14 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:15:14 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:15:14 AM - _NET_WM_NAME changed to "check package dependencies arch - Google Search - Chromium"
+01/02/2017 01:15:14 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:15:14 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:15:15 AM - _NET_WM_NAME changed to "AUR (en) - lib32-smbclient - Chromium"
+01/02/2017 01:15:15 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:15:15 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:15:19 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:15:19 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:15:19 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:15:19 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:15:19 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:15:19 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:15:19 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:15:22 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:15:22 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:15:22 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:15:27 AM - _NET_WM_NAME changed to "AUR (en) - lib32-libwbclient - Chromium"
+01/02/2017 01:15:27 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:15:27 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:15:31 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:15:32 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:15:32 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:15:32 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:15:32 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:15:32 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:15:32 AM - Regular expression "Google-chrome" does not match "Terminator"
+[493:643:0102/011532:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:15:33 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:15:33 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:15:33 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:15:37 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:15:37 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:15:37 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:15:49 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:15:49 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:15:49 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:16:06 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:16:06 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:16:06 AM - Regular expression "Google-chrome" does not match "Terminator"
+[493:643:0102/011618:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:16:19 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:16:19 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:16:19 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:16:23 AM - _NET_WM_NAME changed to "New Tab - Chromium"
+01/02/2017 01:16:23 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:16:23 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:16:32 AM - _NET_WM_NAME changed to "https://www.google.com/search?q=lib32-libwbclient+inter+conflicts&oq=lib32-libwbclient+inter+conflicts&aqs=chrome..69i57.7896j0j7&sourceid=chrome&ie=UTF-8 - Chromium"
+01/02/2017 01:16:32 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:16:32 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:16:32 AM - _NET_WM_NAME changed to "lib32-libwbclient inter conflicts - Google Search - Chromium"
+01/02/2017 01:16:32 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:16:32 AM - Regular expression "Google-chrome" does not match "Chromium"
+[855:1347:0102/011633:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+01/02/2017 01:16:33 AM - _NET_WM_NAME changed to "Arch Linux - gcc-multilib 6.2.1-1 (x86_64) - Chromium"
+01/02/2017 01:16:33 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:16:33 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:16:33 AM - _NET_WM_NAME changed to "multilib gcc - Google Search - Chromium"
+01/02/2017 01:16:33 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:16:33 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:16:34 AM - _NET_WM_NAME changed to "[SOLVED] pacman show dependency list / Newbie Corner / Arch Linux Forums - Chromium"
+01/02/2017 01:16:34 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:16:34 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:16:35 AM - _NET_WM_NAME changed to "check package dependencies arch - Google Search - Chromium"
+01/02/2017 01:16:35 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:16:35 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:16:35 AM - _NET_WM_NAME changed to "AUR (en) - lib32-smbclient - Chromium"
+01/02/2017 01:16:35 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:16:35 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:16:35 AM - _NET_WM_NAME changed to "AUR (en) - lib32-libwbclient - Chromium"
+01/02/2017 01:16:35 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:16:35 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:16:46 AM - _NET_WM_NAME changed to "Arch Linux - gcc-multilib 6.2.1-1 (x86_64) - Chromium"
+01/02/2017 01:16:46 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:16:46 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:16:49 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:16:49 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:16:49 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:16:50 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:16:50 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:16:50 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:17:02 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:17:02 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:17:02 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:17:04 AM - _NET_WM_NAME changed to "New Tab - Chromium"
+01/02/2017 01:17:04 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:17:04 AM - Regular expression "Google-chrome" does not match "Chromium"
+[493:643:0102/011704:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:17:10 AM - _NET_WM_NAME changed to "check multilib packages arch - Google Search - Chromium"
+01/02/2017 01:17:10 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:17:10 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:17:10 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:17:10 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:17:10 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:17:10 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:17:10 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:17:10 AM - Regular expression "Google-chrome" does not match "Terminator"
+[855:1347:0102/011710:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+01/02/2017 01:17:17 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:17:17 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:17:17 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:17:17 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:17:17 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:17:17 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:17:34 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:17:34 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:17:34 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:17:38 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:17:38 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:17:38 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:17:43 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:17:43 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:17:43 AM - Regular expression "Google-chrome" does not match "Terminator"
+[493:643:0102/011750:ERROR:socket_stream.cc(210)] Closing stream with result -101
+[855:1347:0102/011754:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+01/02/2017 01:17:54 AM - _NET_WM_NAME changed to "pacman list packages - Google Search - Chromium"
+01/02/2017 01:17:54 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:17:54 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:17:55 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:17:55 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:17:55 AM - _NET_WM_NAME changed to "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjRm6y2kKPRAhVT1mMKHa25B58QFggaMAA&url=https%3A%2F%2Fbbs.archlinux.org%2Fviewtopic.php%3Fid%3D56601&usg=AFQjCNGchgtwsY_ppdwOe_t-W2aE1VWC9w&sig2=WLoEd6SMlqL5gQVPqibBWw&bvm=bv.142059868,d.cGc&cad=rja - Chromium"
+01/02/2017 01:17:55 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:17:55 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:17:56 AM - _NET_WM_NAME changed to "Generating a List of Installed Packages / Newbie Corner / Arch Linux Forums - Chromium"
+01/02/2017 01:17:56 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:17:56 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:17:56 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:17:56 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:17:56 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:17:56 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:17:56 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:17:56 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:18:00 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:18:03 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:18:03 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:18:03 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:18:11 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:18:11 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:18:11 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:18:31 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:18:31 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:18:31 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:18:35 AM - _NET_WM_NAME changed to "New Tab - Chromium"
+01/02/2017 01:18:35 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:18:35 AM - Regular expression "Google-chrome" does not match "Chromium"
+[493:643:0102/011836:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:18:45 AM - _NET_WM_NAME changed to "pacman remove all packages starting with phrase - Google Search - Chromium"
+01/02/2017 01:18:45 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:18:45 AM - Regular expression "Google-chrome" does not match "Chromium"
+[855:1347:0102/011845:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+01/02/2017 01:18:47 AM - _NET_WM_NAME changed to "Untitled - Chromium"
+01/02/2017 01:18:47 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:18:47 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:18:47 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:18:47 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:18:47 AM - _NET_WM_NAME changed to "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjq9M3OkKPRAhUIHGMKHQRgD-QQFggcMAA&url=https%3A%2F%2Fbbs.archlinux.org%2Fviewtopic.php%3Fid%3D135649&usg=AFQjCNEn0f64DEk9pTXQgnoQvoy1QLKpjA&sig2=bnamKGAnX03mramJ3-wWew&cad=rjt - Chromium"
+01/02/2017 01:18:47 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:18:47 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:18:47 AM - _NET_WM_NAME changed to "can we use wildcards in pacman? / Pacman & Package Upgrade Issues / Arch Linux Forums - Chromium"
+01/02/2017 01:18:47 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:18:47 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:19:10 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:19:10 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:19:10 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:19:16 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:19:16 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:19:16 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:19:16 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:19:16 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:19:16 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:19:16 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:19:21 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:19:21 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:19:21 AM - Regular expression "Google-chrome" does not match "Terminator"
+[493:643:0102/011923:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:19:29 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:19:29 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:19:29 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:19:32 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:19:32 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:19:32 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:19:50 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:19:50 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:19:50 AM - Regular expression "Google-chrome" does not match "Terminator"
+[493:643:0102/012009:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:20:50 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:20:50 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:20:50 AM - Regular expression "Google-chrome" does not match "Terminator"
+[493:643:0102/012055:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:21:16 AM - _NET_WM_NAME changed to "pacman remove all packages starting with phrase - Google Search - Chromium"
+01/02/2017 01:21:16 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:16 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:17 AM - _NET_WM_NAME changed to "Generating a List of Installed Packages / Newbie Corner / Arch Linux Forums - Chromium"
+01/02/2017 01:21:17 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:17 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:17 AM - _NET_WM_NAME changed to "pacman list packages - Google Search - Chromium"
+01/02/2017 01:21:17 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:17 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:17 AM - _NET_WM_NAME changed to "lib32-libwbclient inter conflicts - Google Search - Chromium"
+01/02/2017 01:21:17 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:17 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:18 AM - _NET_WM_NAME changed to "Arch Linux - gcc-multilib 6.2.1-1 (x86_64) - Chromium"
+01/02/2017 01:21:18 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:18 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:18 AM - _NET_WM_NAME changed to "multilib gcc - Google Search - Chromium"
+01/02/2017 01:21:18 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:18 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:18 AM - _NET_WM_NAME changed to "[SOLVED] pacman show dependency list / Newbie Corner / Arch Linux Forums - Chromium"
+01/02/2017 01:21:18 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:18 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:19 AM - _NET_WM_NAME changed to "multilib gcc - Google Search - Chromium"
+01/02/2017 01:21:19 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:19 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:19 AM - _NET_WM_NAME changed to "[SOLVED] pacman show dependency list / Newbie Corner / Arch Linux Forums - Chromium"
+01/02/2017 01:21:19 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:19 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:20 AM - _NET_WM_NAME changed to "check package dependencies arch - Google Search - Chromium"
+01/02/2017 01:21:20 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:20 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:20 AM - _NET_WM_NAME changed to "[SOLVED] pacman show dependency list / Newbie Corner / Arch Linux Forums - Chromium"
+01/02/2017 01:21:20 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:20 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:21 AM - _NET_WM_NAME changed to "multilib gcc - Google Search - Chromium"
+01/02/2017 01:21:21 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:21 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:21 AM - _NET_WM_NAME changed to "Arch Linux - gcc-multilib 6.2.1-1 (x86_64) - Chromium"
+01/02/2017 01:21:21 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:21 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:22 AM - _NET_WM_NAME changed to "lib32-libwbclient inter conflicts - Google Search - Chromium"
+01/02/2017 01:21:22 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:22 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:22 AM - _NET_WM_NAME changed to "Arch Linux - gcc-multilib 6.2.1-1 (x86_64) - Chromium"
+01/02/2017 01:21:22 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:22 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:25 AM - _NET_WM_NAME changed to "multilib gcc - Google Search - Chromium"
+01/02/2017 01:21:25 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:25 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:25 AM - _NET_WM_NAME changed to "[SOLVED] pacman show dependency list / Newbie Corner / Arch Linux Forums - Chromium"
+01/02/2017 01:21:25 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:25 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:25 AM - _NET_WM_NAME changed to "check package dependencies arch - Google Search - Chromium"
+01/02/2017 01:21:25 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:25 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:26 AM - _NET_WM_NAME changed to "AUR (en) - lib32-smbclient - Chromium"
+01/02/2017 01:21:26 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:26 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:33 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:21:33 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:21:33 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:21:33 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:21:33 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:21:33 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:21:35 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:21:35 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:21:35 AM - Regular expression "Google-chrome" does not match "Terminator"
+[493:643:0102/012141:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:21:47 AM - _NET_WM_NAME changed to "AUR (en) - lib32-libwbclient - Chromium"
+01/02/2017 01:21:47 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:21:47 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:21:55 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:21:55 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:21:55 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:21:55 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:21:56 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:21:56 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:21:56 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:21:56 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:21:57 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:21:57 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:21:57 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:21:57 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:21:58 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:21:58 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:21:58 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:21:58 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:21:58 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:21:58 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:21:59 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:21:59 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:22:00 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:22:00 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:22:00 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:22:00 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:22:01 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:22:01 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:22:02 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:22:02 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:22:02 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:22:02 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:22:02 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:22:02 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:22:03 AM - _NET_WM_NAME changed to "AUR (en) - lib32-avahi - Chromium"
+01/02/2017 01:22:03 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:22:03 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:22:05 AM - _NET_WM_NAME changed to "Arch Linux - Package Search - Chromium"
+01/02/2017 01:22:05 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:22:05 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:22:07 AM - _NET_WM_NAME changed to "AUR (en) - lib32-ldb - Chromium"
+01/02/2017 01:22:07 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:22:07 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:22:07 AM - _NET_WM_NAME changed to "Arch Linux - Package Search - Chromium"
+01/02/2017 01:22:07 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:22:07 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:22:08 AM - _NET_WM_NAME changed to "AUR (en) - lib32-avahi - Chromium"
+01/02/2017 01:22:08 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:22:08 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:22:08 AM - _NET_WM_NAME changed to "Arch Linux - Package Search - Chromium"
+01/02/2017 01:22:08 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:22:08 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:22:09 AM - _NET_WM_NAME changed to "Arch Linux - lib32-gnutls 3.4.15-1 (x86_64) - Chromium"
+01/02/2017 01:22:09 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:22:09 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:22:09 AM - _NET_WM_NAME changed to "AUR (en) - lib32-avahi - Chromium"
+01/02/2017 01:22:09 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:22:09 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:22:20 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:22:20 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:22:20 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:22:20 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:22:20 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:22:20 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:22:26 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:22:26 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:22:26 AM - Regular expression "Google-chrome" does not match "Terminator"
+[493:643:0102/012227:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:22:33 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:22:33 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:22:33 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:22:37 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:22:37 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:22:37 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:22:49 AM - _NET_WM_NAME changed to "New Tab - Chromium"
+01/02/2017 01:22:49 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:22:49 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:22:56 AM - _NET_WM_NAME changed to "https://www.google.com/search?q=pacman+reinstall+all+packages&oq=pacman+reinstall+all+packages&aqs=chrome..69i57.6396j0j7&sourceid=chrome&ie=UTF-8 - Chromium"
+01/02/2017 01:22:56 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:22:56 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:22:56 AM - _NET_WM_NAME changed to "pacman reinstall all packages - Google Search - Chromium"
+01/02/2017 01:22:56 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:22:56 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:22:57 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:22:57 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:22:57 AM - Regular expression "Google-chrome" does not match "Terminator"
+[855:1347:0102/012257:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+01/02/2017 01:22:58 AM - _NET_WM_NAME changed to "Untitled - Chromium"
+01/02/2017 01:22:58 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:22:58 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:22:58 AM - ClientMessage for window 0x01c00002
+01/02/2017 01:22:58 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:22:58 AM - _NET_WM_NAME changed to "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjR0c3GkaPRAhWB0FQKHcwYBRYQFggcMAA&url=https%3A%2F%2Fbbs.archlinux.org%2Fviewtopic.php%3Fid%3D34832&usg=AFQjCNEfTe5XfYO3PB2VQImJVhMgMgiJJw&sig2=Zpeu5Rsr-WBym0AS_jyebA&cad=rjt - Chromium"
+01/02/2017 01:22:58 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:22:58 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 01:22:58 AM - _NET_WM_NAME changed to "how to reinstall all packages in the system? / Pacman & Package Upgrade Issues / Arch Linux Forums - Chromium"
+01/02/2017 01:22:58 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 01:22:58 AM - Regular expression "Google-chrome" does not match "Chromium"
+[493:643:0102/012313:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:23:17 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:23:18 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:23:18 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:23:18 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:23:21 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:23:21 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:23:21 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:23:24 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:23:24 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:23:24 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:23:33 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:23:34 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:23:34 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:23:34 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:23:34 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:23:34 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:23:34 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:23:36 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:23:36 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:23:36 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:23:44 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:23:44 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:23:44 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:23:44 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:23:44 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:23:44 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:23:44 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:23:46 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:23:46 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:23:46 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:23:49 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:23:49 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:23:49 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:23:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:23:58 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:23:58 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:23:58 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:23:58 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:23:58 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:23:58 AM - Regular expression "Google-chrome" does not match "Terminator"
+[493:643:0102/012359:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:24:10 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:24:10 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:24:10 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:24:12 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:24:12 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:24:12 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:24:17 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:24:17 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:24:17 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:24:22 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:24:22 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:24:22 AM - Regular expression "Google-chrome" does not match "Terminator"
+[493:643:0102/012445:ERROR:socket_stream.cc(210)] Closing stream with result -101
+[493:643:0102/012531:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:25:55 AM - Sending WM_DELETE to the client
+<Window object at 0x7f8165383550 (terminatorlib+window+Window at 0x55b35d82a0b0)> is not in registered window list
+01/02/2017 01:25:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:25:55 AM - expose event for unknown window, ignoring
+01/02/2017 01:25:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:25:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:25:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:25:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:25:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:25:56 AM - startup id = i3/i3-sensible-terminal/463-6-powerhaus.bnet_TIME896733
+01/02/2017 01:25:56 AM - executing: i3-sensible-terminal
+01/02/2017 01:25:56 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 01:25:56 AM - ClientMessage for window 0x02400004
+01/02/2017 01:25:56 AM - WM_CLASS changed to terminator (instance), Terminator (class)
+01/02/2017 01:25:56 AM - WM_NAME changed to "None"
+01/02/2017 01:25:56 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 01:25:56 AM - _NET_WM_NAME changed to "None"
+01/02/2017 01:25:56 AM - WM_HINTS.input changed to "1"
+01/02/2017 01:25:56 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:25:56 AM - dock status does not match
+01/02/2017 01:25:56 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:25:56 AM - dock status does not match
+01/02/2017 01:25:56 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:25:56 AM - dock status does not match
+01/02/2017 01:25:56 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:25:56 AM - dock status does not match
+01/02/2017 01:25:56 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:25:56 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:25:56 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:25:56 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:25:56 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:25:56 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:25:56 AM - workspace visible? fs = 0x1c68270, ws = 0x1c68270
+01/02/2017 01:25:56 AM - workspace visible? fs = 0x1c68eb0, ws = 0x1c68eb0
+01/02/2017 01:25:56 AM - workspace visible? fs = 0x1c60650, ws = 0x1c60650
+01/02/2017 01:25:56 AM - _NET_WM_NAME changed to "None"
+01/02/2017 01:25:56 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:25:56 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:25:56 AM - _NET_WM_NAME changed to "/bin/bash"
+01/02/2017 01:25:56 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:25:56 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:25:56 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:25:56 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:25:56 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:26:06 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:26:06 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:26:06 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:26:14 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:26:14 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:26:14 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:26:14 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:26:14 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:26:14 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:26:17 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:26:17 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:26:17 AM - Regular expression "Google-chrome" does not match "Terminator"
+[493:643:0102/012617:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 01:26:20 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:26:20 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:26:20 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:26:21 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:26:21 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:26:21 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:26:25 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:26:25 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:26:25 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 01:26:29 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 01:26:29 AM - Checking window 0x02400004 (class Terminator)
+01/02/2017 01:26:29 AM - Regular expression "Google-chrome" does not match "Terminator"
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+[855:855:0102/012629:ERROR:chrome_browser_main_extra_parts_x11.cc(62)] X IO error received (X server probably went away)
+[855:855:0102/012629:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[855:855:0102/012629:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[855:855:0102/012629:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[855:855:0102/012629:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[855:855:0102/012629:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[855:855:0102/012629:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[855:855:0102/012629:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[855:855:0102/012629:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote

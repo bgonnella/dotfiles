@@ -1,0 +1,458 @@
+01/12/2017 05:56:03 AM - i3 4.13-non-git starting
+01/12/2017 05:56:03 AM - Parsing configfile /home/bryan/.config/i3/config
+01/12/2017 05:56:03 AM - deciding for version 4 due to this line: # i3 config file (v4)
+01/12/2017 05:56:03 AM - [libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+01/12/2017 05:56:03 AM - [libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 96.000000 DPI
+01/12/2017 05:56:03 AM - Initializing first assigned workspace "1" for output "DP-4"
+01/12/2017 05:56:03 AM - Creating new workspace "1"
+01/12/2017 05:56:03 AM - got output 0x24cc1d0 with content 0x24cd8f0
+01/12/2017 05:56:03 AM - num = 1
+01/12/2017 05:56:03 AM - focused now = 0x24d2330 / 1
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24ca720, ws = 0x24ca720
+01/12/2017 05:56:03 AM - Initializing first assigned workspace "2" for output "HDMI-0"
+01/12/2017 05:56:03 AM - Creating new workspace "2"
+01/12/2017 05:56:03 AM - got output 0x24cf120 with content 0x24d09d0
+01/12/2017 05:56:03 AM - num = 2
+01/12/2017 05:56:03 AM - focused now = 0x24d2f90 / 2
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24d2f90, ws = 0x24d2f90
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24ca720, ws = 0x24ca720
+01/12/2017 05:56:03 AM - This is not an in-place restart, copying root window contents to a pixmap
+01/12/2017 05:56:03 AM - auto-starting compton -f
+01/12/2017 05:56:03 AM - startup id = i3/compton/22206-0-powerhaus.bnet_TIME0
+01/12/2017 05:56:03 AM - executing: compton -f
+01/12/2017 05:56:03 AM - auto-starting nitrogen --restore
+01/12/2017 05:56:03 AM - executing: nitrogen --restore
+01/12/2017 05:56:03 AM - auto-starting ~/.config/i3/lock/lock.sh
+01/12/2017 05:56:03 AM - startup id = i3/~|.config|i3|lock|lock.sh/22206-1-powerhaus.bnet_TIME0
+01/12/2017 05:56:03 AM - executing: ~/.config/i3/lock/lock.sh
+01/12/2017 05:56:03 AM - auto-starting xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+01/12/2017 05:56:03 AM - startup id = i3/xautolock/22206-2-powerhaus.bnet_TIME0
+01/12/2017 05:56:03 AM - executing: xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+01/12/2017 05:56:03 AM - auto-starting dunst
+01/12/2017 05:56:03 AM - executing: dunst
+01/12/2017 05:56:03 AM - auto-starting google-chrome-stable --app=https://listen.tidal.com/ &
+01/12/2017 05:56:03 AM - startup id = i3/google-chrome-stable/22206-3-powerhaus.bnet_TIME0
+01/12/2017 05:56:03 AM - executing: google-chrome-stable --app=https://listen.tidal.com/ &
+01/12/2017 05:56:03 AM - Starting bar process: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.22206"
+01/12/2017 05:56:03 AM - executing: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.22206"
+01/12/2017 05:56:03 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:56:03 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:56:03 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:56:03 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:56:03 AM - IPC: looking for config for bar ID "bar-0"
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24d2f90, ws = 0x24d2f90
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:03 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+01/12/2017 05:56:03 AM - WM_NAME changed to "i3bar for output HDMI-0"
+01/12/2017 05:56:03 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/12/2017 05:56:03 AM - This window is of type dock
+01/12/2017 05:56:03 AM - Checking window 0x01200006 (class i3bar)
+01/12/2017 05:56:03 AM - dock status does not match
+01/12/2017 05:56:03 AM - Checking window 0x01200006 (class i3bar)
+01/12/2017 05:56:03 AM - dock status matches
+01/12/2017 05:56:03 AM - Checking window 0x01200006 (class i3bar)
+01/12/2017 05:56:03 AM - Regular expression "Spotify" does not match "i3bar"
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24d2f90, ws = 0x24d2f90
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24ca720, ws = 0x24ca720
+01/12/2017 05:56:03 AM - ClientMessage for window 0x000001ef
+01/12/2017 05:56:03 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+01/12/2017 05:56:03 AM - WM_NAME changed to "i3bar for output DP-4"
+01/12/2017 05:56:03 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/12/2017 05:56:03 AM - This window is of type dock
+01/12/2017 05:56:03 AM - Checking window 0x0120000d (class i3bar)
+01/12/2017 05:56:03 AM - dock status does not match
+01/12/2017 05:56:03 AM - Checking window 0x0120000d (class i3bar)
+01/12/2017 05:56:03 AM - dock status matches
+01/12/2017 05:56:03 AM - Checking window 0x0120000d (class i3bar)
+01/12/2017 05:56:03 AM - Regular expression "Spotify" does not match "i3bar"
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24d2f90, ws = 0x24d2f90
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24ca720, ws = 0x24ca720
+01/12/2017 05:56:03 AM - WM_CLASS changed to listen.tidal.com (instance), Google-chrome (class)
+01/12/2017 05:56:03 AM - WM_NAME changed to "Untitled"
+01/12/2017 05:56:03 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/12/2017 05:56:03 AM - _NET_WM_NAME changed to "Untitled"
+01/12/2017 05:56:03 AM - WM_WINDOW_ROLE changed to "pop-up"
+01/12/2017 05:56:03 AM - Checking window 0x01a00002 (class Google-chrome)
+01/12/2017 05:56:03 AM - dock status does not match
+01/12/2017 05:56:03 AM - Checking window 0x01a00002 (class Google-chrome)
+01/12/2017 05:56:03 AM - dock status does not match
+01/12/2017 05:56:03 AM - Checking window 0x01a00002 (class Google-chrome)
+01/12/2017 05:56:03 AM - dock status does not match
+01/12/2017 05:56:03 AM - Checking window 0x01a00002 (class Google-chrome)
+01/12/2017 05:56:03 AM - dock status does not match
+01/12/2017 05:56:03 AM - Checking window 0x01a00002 (class Google-chrome)
+01/12/2017 05:56:03 AM - Regular expression "Spotify" does not match "Google-chrome"
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:03 AM - Checking window 0x01a00002 (class Google-chrome)
+01/12/2017 05:56:03 AM - Regular expression "Spotify" does not match "Google-chrome"
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24d2f90, ws = 0x24d2f90
+01/12/2017 05:56:03 AM - workspace visible? fs = 0x24ca720, ws = 0x24ca720
+01/12/2017 05:56:04 AM - _NET_WM_NAME changed to "TIDAL"
+01/12/2017 05:56:04 AM - Checking window 0x01a00002 (class Google-chrome)
+01/12/2017 05:56:04 AM - Regular expression "Spotify" does not match "Google-chrome"
+done
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+[22236:22402:0112/055607:ERROR:service_manager.cc(306)] Error: invalid Name: 3856DC20F67C2B63E1422D3750399C22
+[3,318851968:13:56:07.525933] Native Client module will be loaded at base address 0x0000608500000000
+01/12/2017 05:56:08 AM - _NET_WM_NAME changed to "What's New TIDAL"
+01/12/2017 05:56:08 AM - Checking window 0x01a00002 (class Google-chrome)
+01/12/2017 05:56:08 AM - Regular expression "Spotify" does not match "Google-chrome"
+01/12/2017 05:56:11 AM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu -i'
+01/12/2017 05:56:24 AM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu -i'
+01/12/2017 05:56:25 AM - IPC: received: *exec  "spotify "*
+01/12/2017 05:56:25 AM - startup id = i3/spotify/22206-4-powerhaus.bnet_TIME54065584
+01/12/2017 05:56:25 AM - executing: spotify 
+[{"success":true}]
+01/12/2017 05:56:25 AM - Not a managed window, ignoring UnmapNotify event
+/usr/share/spotify/spotify: /usr/lib/libssl.so.1.0.0: no version information available (required by /usr/share/spotify/spotify)
+/usr/share/spotify/spotify: /usr/lib/libcrypto.so.1.0.0: no version information available (required by /usr/share/spotify/spotify)
+/usr/share/spotify/spotify: /usr/lib/libcurl.so.3: no version information available (required by /usr/share/spotify/spotify)
+/usr/share/spotify/spotify: /usr/lib/libssl.so.1.0.0: no version information available (required by /usr/share/spotify/spotify)
+/usr/share/spotify/spotify: /usr/lib/libcrypto.so.1.0.0: no version information available (required by /usr/share/spotify/spotify)
+/usr/share/spotify/spotify: /usr/lib/libcurl.so.3: no version information available (required by /usr/share/spotify/spotify)
+[0112/055625:ERROR:main_delegate.cc(752)] Could not load cef_extensions.pak
+/proc/self/exe: /usr/lib/libssl.so.1.0.0: no version information available (required by /proc/self/exe)
+/proc/self/exe: /usr/lib/libcrypto.so.1.0.0: no version information available (required by /proc/self/exe)
+/proc/self/exe: /usr/lib/libcurl.so.3: no version information available (required by /proc/self/exe)
+[0112/055625:ERROR:main_delegate.cc(752)] Could not load cef_extensions.pak
+01/12/2017 05:56:25 AM - Checking window 0x01000001 (class (null))
+01/12/2017 05:56:25 AM - dock status does not match
+01/12/2017 05:56:25 AM - Checking window 0x01000001 (class (null))
+01/12/2017 05:56:25 AM - dock status does not match
+01/12/2017 05:56:25 AM - Checking window 0x01000001 (class (null))
+01/12/2017 05:56:25 AM - dock status does not match
+01/12/2017 05:56:25 AM - Checking window 0x01000001 (class (null))
+01/12/2017 05:56:25 AM - dock status does not match
+01/12/2017 05:56:25 AM - Checking window 0x01000001 (class (null))
+01/12/2017 05:56:25 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:25 AM - Checking window 0x01000001 (class (null))
+01/12/2017 05:56:25 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:25 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:25 AM - workspace visible? fs = 0x24d2f90, ws = 0x24d2f90
+01/12/2017 05:56:25 AM - workspace visible? fs = 0x24ca720, ws = 0x24ca720
+01/12/2017 05:56:25 AM - _NET_WM_NAME changed to "Spotify"
+01/12/2017 05:56:25 AM - Checking window 0x01000001 (class (null))
+01/12/2017 05:56:25 AM - WM_CLASS changed to spotify (instance), Spotify (class)
+01/12/2017 05:56:25 AM - Checking window 0x01000001 (class Spotify)
+01/12/2017 05:56:25 AM - Regular expression "Spotify" matches "Spotify"
+01/12/2017 05:56:25 AM - window class matches (Spotify)
+01/12/2017 05:56:25 AM - dock status matches
+01/12/2017 05:56:26 AM - _NET_WM_NAME changed to "Spotify"
+01/12/2017 05:56:26 AM - Checking window 0x01000001 (class Spotify)
+01/12/2017 05:56:26 AM - Regular expression "Spotify" matches "Spotify"
+01/12/2017 05:56:26 AM - window class matches (Spotify)
+01/12/2017 05:56:26 AM - dock status matches
+01/12/2017 05:56:32 AM - Sending WM_DELETE to the client
+01/12/2017 05:56:32 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:56:32 AM - expose event for unknown window, ignoring
+01/12/2017 05:56:32 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:56:32 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:56:32 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:56:32 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:56:36 AM - should move window to workspace 10 
+01/12/2017 05:56:36 AM - Creating new workspace "10 "
+01/12/2017 05:56:36 AM - got output 0x24cf120 with content 0x24d09d0
+01/12/2017 05:56:36 AM - num = 10
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24d2f90, ws = 0x24db8d0
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:36 AM - focused now = 0x24d2330 / 1
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24d2f90, ws = 0x24d2f90
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24ca720, ws = 0x24ca720
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24d2f90, ws = 0x24d2f90
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24d2f90, ws = 0x24db8d0
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24d2f90, ws = 0x24d2f90
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24d2f90, ws = 0x24db8d0
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24db8d0, ws = 0x24d2f90
+01/12/2017 05:56:36 AM - Closing old workspace (0x24d2f90 / 2), it is empty
+01/12/2017 05:56:36 AM - focused now = 0x24db700 / (null)
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24db8d0, ws = 0x24db8d0
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24ca720, ws = 0x24ca720
+01/12/2017 05:56:36 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24db8d0, ws = 0x24db8d0
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24db8d0, ws = 0x24db8d0
+01/12/2017 05:56:36 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:38 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:38 AM - focused now = 0x24d2330 / 1
+01/12/2017 05:56:38 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:38 AM - workspace visible? fs = 0x24db8d0, ws = 0x24db8d0
+01/12/2017 05:56:38 AM - workspace visible? fs = 0x24ca720, ws = 0x24ca720
+01/12/2017 05:56:38 AM - workspace visible? fs = 0x24db8d0, ws = 0x24db8d0
+01/12/2017 05:56:38 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:39 AM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu -i'
+01/12/2017 05:56:42 AM - startup id = i3/i3-sensible-terminal/22206-5-powerhaus.bnet_TIME54082223
+01/12/2017 05:56:42 AM - executing: i3-sensible-terminal
+01/12/2017 05:56:42 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:56:42 AM - ClientMessage for window 0x01600007
+01/12/2017 05:56:42 AM - WM_CLASS changed to terminator (instance), Terminator (class)
+01/12/2017 05:56:42 AM - WM_NAME changed to "None"
+01/12/2017 05:56:42 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/12/2017 05:56:42 AM - _NET_WM_NAME changed to "None"
+01/12/2017 05:56:42 AM - WM_HINTS.input changed to "1"
+01/12/2017 05:56:42 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:56:42 AM - dock status does not match
+01/12/2017 05:56:42 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:56:42 AM - dock status does not match
+01/12/2017 05:56:42 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:56:42 AM - dock status does not match
+01/12/2017 05:56:42 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:56:42 AM - dock status does not match
+01/12/2017 05:56:42 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:56:42 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:56:42 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:42 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:56:42 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:56:42 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:42 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:56:42 AM - workspace visible? fs = 0x24db8d0, ws = 0x24db8d0
+01/12/2017 05:56:42 AM - workspace visible? fs = 0x24ca720, ws = 0x24ca720
+01/12/2017 05:56:42 AM - _NET_WM_NAME changed to "None"
+01/12/2017 05:56:42 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:56:42 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:56:42 AM - _NET_WM_NAME changed to "/bin/bash"
+01/12/2017 05:56:42 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:56:42 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:56:42 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:56:42 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:56:42 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:56:52 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:56:52 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:56:52 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:57:03 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:57:03 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:57:03 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:57:03 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:57:25 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:57:37 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:57:37 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:57:37 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:57:53 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:57:53 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:57:53 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:57:55 AM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu -i'
+01/12/2017 05:57:55 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:57:55 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:57:55 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:57:57 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:57:57 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:57:57 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:57:57 AM - IPC: received: *exec  "chromium --force-device-scale-factor=1 "*
+01/12/2017 05:57:57 AM - startup id = i3/chromium/22206-6-powerhaus.bnet_TIME54157874
+01/12/2017 05:57:57 AM - executing: chromium --force-device-scale-factor=1 
+[{"success":true}]
+01/12/2017 05:57:57 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:57:58 AM - WM_CLASS changed to chromium (instance), Chromium (class)
+01/12/2017 05:57:58 AM - WM_NAME changed to "Untitled - Chromium"
+01/12/2017 05:57:58 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/12/2017 05:57:58 AM - _NET_WM_NAME changed to "Untitled - Chromium"
+01/12/2017 05:57:58 AM - WM_WINDOW_ROLE changed to "browser"
+01/12/2017 05:57:58 AM - Checking window 0x01e00002 (class Chromium)
+01/12/2017 05:57:58 AM - dock status does not match
+01/12/2017 05:57:58 AM - Checking window 0x01e00002 (class Chromium)
+01/12/2017 05:57:58 AM - dock status does not match
+01/12/2017 05:57:58 AM - Checking window 0x01e00002 (class Chromium)
+01/12/2017 05:57:58 AM - dock status does not match
+01/12/2017 05:57:58 AM - Checking window 0x01e00002 (class Chromium)
+01/12/2017 05:57:58 AM - dock status does not match
+01/12/2017 05:57:58 AM - Checking window 0x01e00002 (class Chromium)
+01/12/2017 05:57:58 AM - Regular expression "Spotify" does not match "Chromium"
+01/12/2017 05:57:58 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:57:58 AM - Checking window 0x01e00002 (class Chromium)
+01/12/2017 05:57:58 AM - Regular expression "Spotify" does not match "Chromium"
+01/12/2017 05:57:58 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:57:58 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:57:58 AM - workspace visible? fs = 0x24db8d0, ws = 0x24db8d0
+01/12/2017 05:57:58 AM - workspace visible? fs = 0x24ca720, ws = 0x24ca720
+01/12/2017 05:57:58 AM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Chromium"
+01/12/2017 05:57:58 AM - Checking window 0x01e00002 (class Chromium)
+01/12/2017 05:57:58 AM - Regular expression "Spotify" does not match "Chromium"
+01/12/2017 05:58:04 AM - _NET_WM_NAME changed to "i3bar change font size - Google Search - Chromium"
+01/12/2017 05:58:04 AM - Checking window 0x01e00002 (class Chromium)
+01/12/2017 05:58:04 AM - Regular expression "Spotify" does not match "Chromium"
+[25001:25520:0112/055804:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+01/12/2017 05:58:05 AM - _NET_WM_NAME changed to "Untitled - Chromium"
+01/12/2017 05:58:05 AM - Checking window 0x01e00002 (class Chromium)
+01/12/2017 05:58:05 AM - Regular expression "Spotify" does not match "Chromium"
+01/12/2017 05:58:05 AM - ClientMessage for window 0x01e00002
+01/12/2017 05:58:05 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:58:06 AM - _NET_WM_NAME changed to "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiLq5bZ4bzRAhUrsFQKHUolBbQQFggcMAA&url=http%3A%2F%2Faskubuntu.com%2Fquestions%2F385076%2Fhow-to-change-font-size-using-i3-wm&usg=AFQjCNG4u--0yaajK0K1ctgni-hS-SC3Gw&sig2=zoLFZXarIJE_mdHERa9aow&cad=rjt - Chromium"
+01/12/2017 05:58:06 AM - Checking window 0x01e00002 (class Chromium)
+01/12/2017 05:58:06 AM - Regular expression "Spotify" does not match "Chromium"
+01/12/2017 05:58:06 AM - _NET_WM_NAME changed to "i3 wm - How to change font size using i3-wm? - Ask Ubuntu - Chromium"
+01/12/2017 05:58:06 AM - Checking window 0x01e00002 (class Chromium)
+01/12/2017 05:58:06 AM - Regular expression "Spotify" does not match "Chromium"
+01/12/2017 05:58:07 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:58:07 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:58:07 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:58:12 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:58:12 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:58:12 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:58:33 AM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu -i'
+01/12/2017 05:58:33 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:58:33 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:58:33 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:58:34 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:58:34 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:58:34 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:58:34 AM - IPC: received: *exec  "thunar "*
+01/12/2017 05:58:34 AM - startup id = i3/thunar/22206-7-powerhaus.bnet_TIME54194919
+01/12/2017 05:58:34 AM - executing: thunar 
+[{"success":true}]
+01/12/2017 05:58:34 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:58:34 AM - ClientMessage for window 0x02c00004
+01/12/2017 05:58:34 AM - WM_CLASS changed to thunar (instance), Thunar (class)
+01/12/2017 05:58:34 AM - WM_NAME changed to "Thunar"
+01/12/2017 05:58:34 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/12/2017 05:58:34 AM - _NET_WM_NAME changed to "Thunar"
+01/12/2017 05:58:34 AM - WM_WINDOW_ROLE changed to "Thunar-1484229514-1007638897"
+01/12/2017 05:58:34 AM - WM_HINTS.input changed to "1"
+01/12/2017 05:58:34 AM - Checking window 0x02c00004 (class Thunar)
+01/12/2017 05:58:34 AM - dock status does not match
+01/12/2017 05:58:34 AM - Checking window 0x02c00004 (class Thunar)
+01/12/2017 05:58:34 AM - dock status does not match
+01/12/2017 05:58:34 AM - Checking window 0x02c00004 (class Thunar)
+01/12/2017 05:58:34 AM - dock status does not match
+01/12/2017 05:58:34 AM - Checking window 0x02c00004 (class Thunar)
+01/12/2017 05:58:34 AM - dock status does not match
+01/12/2017 05:58:34 AM - Checking window 0x02c00004 (class Thunar)
+01/12/2017 05:58:34 AM - Regular expression "Spotify" does not match "Thunar"
+01/12/2017 05:58:34 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:58:34 AM - Checking window 0x02c00004 (class Thunar)
+01/12/2017 05:58:34 AM - Regular expression "Spotify" does not match "Thunar"
+01/12/2017 05:58:34 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:58:34 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:58:34 AM - workspace visible? fs = 0x24db8d0, ws = 0x24db8d0
+01/12/2017 05:58:34 AM - workspace visible? fs = 0x24ca720, ws = 0x24ca720
+restack_win(0x02c00004, 0x02c0004f): Failed to found new above window.
+01/12/2017 05:58:34 AM - _NET_WM_NAME changed to "bryan - File Manager"
+01/12/2017 05:58:34 AM - Checking window 0x02c00004 (class Thunar)
+01/12/2017 05:58:34 AM - Regular expression "Spotify" does not match "Thunar"
+01/12/2017 05:58:34 AM - WM_HINTS.input changed to "1"
+01/12/2017 05:58:36 AM - ClientMessage for window 0x02c001a8
+01/12/2017 05:58:36 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:58:36 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:58:36 AM - Sending WM_DELETE to the client
+01/12/2017 05:58:36 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:58:36 AM - expose event for unknown window, ignoring
+01/12/2017 05:58:36 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:58:36 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:58:36 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:58:36 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:58:36 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:58:36 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:58:36 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:58:36 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:58:42 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:58:42 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:58:42 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:58:47 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:58:47 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:58:47 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:58:48 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:58:48 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:58:48 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:58:51 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:58:51 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:58:51 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:58:57 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:59:26 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:59:26 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:59:26 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:59:34 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:59:37 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 05:59:37 AM - Checking window 0x01600007 (class Terminator)
+01/12/2017 05:59:37 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:59:39 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:59:39 AM - expose event for unknown window, ignoring
+01/12/2017 05:59:39 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:59:39 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:59:39 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:59:39 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:59:39 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:59:40 AM - Sending WM_DELETE to the client
+01/12/2017 05:59:40 AM - _NET_WM_NAME changed to "i3bar change font size - Google Search - Chromium"
+01/12/2017 05:59:40 AM - Checking window 0x01e00002 (class Chromium)
+01/12/2017 05:59:40 AM - Regular expression "Spotify" does not match "Chromium"
+01/12/2017 05:59:40 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:59:40 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:59:40 AM - expose event for unknown window, ignoring
+01/12/2017 05:59:40 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:59:40 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:59:40 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:59:40 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:59:41 AM - startup id = i3/i3-nagbar/22206-8-powerhaus.bnet_TIME54262105
+01/12/2017 05:59:41 AM - executing: i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'
+01/12/2017 05:59:41 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 05:59:41 AM - This window is of type dock
+01/12/2017 05:59:41 AM - Checking window 0x01600006 (class (null))
+01/12/2017 05:59:41 AM - dock status matches
+01/12/2017 05:59:41 AM - Checking window 0x01600006 (class (null))
+01/12/2017 05:59:41 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:59:41 AM - workspace visible? fs = 0x24db8d0, ws = 0x24db8d0
+01/12/2017 05:59:41 AM - workspace visible? fs = 0x24ca720, ws = 0x24ca720
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 96.000000 DPI
+button pressed on x = 3345, y = 11
+button released on x = 3345, y = 11
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.27585.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.27585.nagbar_cmd
+01/12/2017 05:59:44 AM - ClientMessage for window 0x01a00007
+01/12/2017 05:59:44 AM - WM_CLASS changed to terminator (instance), Terminator (class)
+01/12/2017 05:59:44 AM - WM_NAME changed to "None"
+01/12/2017 05:59:44 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/12/2017 05:59:44 AM - _NET_WM_NAME changed to "None"
+01/12/2017 05:59:44 AM - WM_HINTS.input changed to "1"
+01/12/2017 05:59:44 AM - Checking window 0x01a00007 (class Terminator)
+01/12/2017 05:59:44 AM - dock status does not match
+01/12/2017 05:59:44 AM - Checking window 0x01a00007 (class Terminator)
+01/12/2017 05:59:44 AM - dock status does not match
+01/12/2017 05:59:44 AM - Checking window 0x01a00007 (class Terminator)
+01/12/2017 05:59:44 AM - dock status does not match
+01/12/2017 05:59:44 AM - Checking window 0x01a00007 (class Terminator)
+01/12/2017 05:59:44 AM - dock status does not match
+01/12/2017 05:59:44 AM - Checking window 0x01a00007 (class Terminator)
+01/12/2017 05:59:44 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:59:44 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:59:44 AM - Checking window 0x01a00007 (class Terminator)
+01/12/2017 05:59:44 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:59:44 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:59:44 AM - workspace visible? fs = 0x24d2330, ws = 0x24d2330
+01/12/2017 05:59:44 AM - workspace visible? fs = 0x24db8d0, ws = 0x24db8d0
+01/12/2017 05:59:44 AM - workspace visible? fs = 0x24ca720, ws = 0x24ca720
+01/12/2017 05:59:44 AM - _NET_WM_NAME changed to "None"
+01/12/2017 05:59:44 AM - Checking window 0x01a00007 (class Terminator)
+01/12/2017 05:59:44 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:59:44 AM - _NET_WM_NAME changed to "/bin/bash"
+01/12/2017 05:59:44 AM - Checking window 0x01a00007 (class Terminator)
+01/12/2017 05:59:44 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 05:59:44 AM - IPC: received: *exit*
+01/12/2017 05:59:44 AM - Exiting due to user command.
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 96.000000 DPI
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 86162 requests (86162 known processed) with 41 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 79 requests (79 known processed) with 0 events remaining.
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 96.000000 DPI
+button pressed on x = 3345, y = 11
+button released on x = 3345, y = 11
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.27585.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.27585.nagbar_cmd

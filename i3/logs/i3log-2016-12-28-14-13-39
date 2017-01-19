@@ -1,0 +1,498 @@
+12/28/2016 02:13:39 PM - i3 4.13-non-git starting
+12/28/2016 02:13:39 PM - Parsing configfile /home/bryan/.config/i3/config
+12/28/2016 02:13:39 PM - deciding for version 4 due to this line: # i3 config file (v4)
+12/28/2016 02:13:39 PM - [libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+12/28/2016 02:13:39 PM - [libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+12/28/2016 02:13:39 PM - Initializing first assigned workspace "1" for output "DP-4"
+12/28/2016 02:13:39 PM - Creating new workspace "1"
+12/28/2016 02:13:39 PM - got output 0x1badb80 with content 0x1baf2a0
+12/28/2016 02:13:39 PM - num = 1
+12/28/2016 02:13:39 PM - focused now = 0x1bb3d00 / 1
+12/28/2016 02:13:39 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 02:13:39 PM - workspace visible? fs = 0x1bac0d0, ws = 0x1bac0d0
+12/28/2016 02:13:39 PM - Initializing first assigned workspace "2" for output "HDMI-0"
+12/28/2016 02:13:39 PM - Creating new workspace "2"
+12/28/2016 02:13:39 PM - got output 0x1bb0ad0 with content 0x1bb23b0
+12/28/2016 02:13:39 PM - num = 2
+12/28/2016 02:13:39 PM - focused now = 0x1bb4940 / 2
+12/28/2016 02:13:39 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 02:13:39 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 02:13:39 PM - workspace visible? fs = 0x1bac0d0, ws = 0x1bac0d0
+12/28/2016 02:13:39 PM - This is not an in-place restart, copying root window contents to a pixmap
+12/28/2016 02:13:39 PM - auto-starting compton -f
+12/28/2016 02:13:39 PM - startup id = i3/compton/460-0-powerhaus.bnet_TIME0
+12/28/2016 02:13:39 PM - executing: compton -f
+12/28/2016 02:13:39 PM - auto-starting nitrogen --restore
+12/28/2016 02:13:39 PM - executing: nitrogen --restore
+12/28/2016 02:13:39 PM - auto-starting ~/.config/i3/lock/lock.sh
+12/28/2016 02:13:39 PM - startup id = i3/~|.config|i3|lock|lock.sh/460-1-powerhaus.bnet_TIME0
+12/28/2016 02:13:39 PM - executing: ~/.config/i3/lock/lock.sh
+12/28/2016 02:13:39 PM - auto-starting xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+12/28/2016 02:13:39 PM - startup id = i3/xautolock/460-2-powerhaus.bnet_TIME0
+12/28/2016 02:13:39 PM - executing: xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+12/28/2016 02:13:39 PM - auto-starting google-chrome-stable --app=https://listen.tidal.com/ &
+12/28/2016 02:13:39 PM - startup id = i3/google-chrome-stable/460-3-powerhaus.bnet_TIME0
+12/28/2016 02:13:39 PM - executing: google-chrome-stable --app=https://listen.tidal.com/ &
+12/28/2016 02:13:39 PM - Starting bar process: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.460"
+12/28/2016 02:13:39 PM - executing: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.460"
+12/28/2016 02:13:39 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 02:13:39 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 02:13:39 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 02:13:39 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 02:13:39 PM - IPC: looking for config for bar ID "bar-0"
+12/28/2016 02:13:39 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 02:13:39 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 02:13:39 PM - WM_CLASS changed to i3bar (instance), i3bar (class)
+12/28/2016 02:13:39 PM - WM_NAME changed to "i3bar for output HDMI-0"
+12/28/2016 02:13:39 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/28/2016 02:13:39 PM - This window is of type dock
+12/28/2016 02:13:39 PM - Checking window 0x00e00006 (class i3bar)
+12/28/2016 02:13:39 PM - dock status does not match
+12/28/2016 02:13:39 PM - Checking window 0x00e00006 (class i3bar)
+12/28/2016 02:13:39 PM - dock status matches
+12/28/2016 02:13:39 PM - Checking window 0x00e00006 (class i3bar)
+12/28/2016 02:13:39 PM - Regular expression "Google-chrome" does not match "i3bar"
+12/28/2016 02:13:39 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 02:13:39 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 02:13:39 PM - workspace visible? fs = 0x1bac0d0, ws = 0x1bac0d0
+12/28/2016 02:13:39 PM - ClientMessage for window 0x000001ef
+12/28/2016 02:13:39 PM - WM_CLASS changed to i3bar (instance), i3bar (class)
+12/28/2016 02:13:39 PM - WM_NAME changed to "i3bar for output DP-4"
+12/28/2016 02:13:39 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/28/2016 02:13:39 PM - This window is of type dock
+12/28/2016 02:13:39 PM - Checking window 0x00e0000d (class i3bar)
+12/28/2016 02:13:39 PM - dock status does not match
+12/28/2016 02:13:39 PM - Checking window 0x00e0000d (class i3bar)
+12/28/2016 02:13:39 PM - dock status matches
+12/28/2016 02:13:39 PM - Checking window 0x00e0000d (class i3bar)
+12/28/2016 02:13:39 PM - Regular expression "Google-chrome" does not match "i3bar"
+12/28/2016 02:13:39 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 02:13:39 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 02:13:39 PM - workspace visible? fs = 0x1bac0d0, ws = 0x1bac0d0
+done
+12/28/2016 02:13:48 PM - WM_CLASS changed to listen.tidal.com (instance), Google-chrome (class)
+12/28/2016 02:13:48 PM - WM_NAME changed to "Untitled"
+12/28/2016 02:13:48 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/28/2016 02:13:48 PM - _NET_WM_NAME changed to "Untitled"
+12/28/2016 02:13:48 PM - WM_WINDOW_ROLE changed to "pop-up"
+12/28/2016 02:13:48 PM - Checking window 0x01600002 (class Google-chrome)
+12/28/2016 02:13:48 PM - dock status does not match
+12/28/2016 02:13:48 PM - Checking window 0x01600002 (class Google-chrome)
+12/28/2016 02:13:48 PM - dock status does not match
+12/28/2016 02:13:48 PM - Checking window 0x01600002 (class Google-chrome)
+12/28/2016 02:13:48 PM - dock status does not match
+12/28/2016 02:13:48 PM - Checking window 0x01600002 (class Google-chrome)
+12/28/2016 02:13:48 PM - dock status does not match
+12/28/2016 02:13:48 PM - Checking window 0x01600002 (class Google-chrome)
+12/28/2016 02:13:48 PM - Regular expression "Google-chrome" matches "Google-chrome"
+12/28/2016 02:13:48 PM - window class matches (Google-chrome)
+12/28/2016 02:13:48 PM - dock status matches
+12/28/2016 02:13:48 PM - Creating new workspace "10 "
+12/28/2016 02:13:48 PM - got output 0x1bb0ad0 with content 0x1bb23b0
+12/28/2016 02:13:48 PM - num = 10
+12/28/2016 02:13:48 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bbb340
+12/28/2016 02:13:48 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bbb340
+12/28/2016 02:13:48 PM - Checking window 0x01600002 (class Google-chrome)
+12/28/2016 02:13:48 PM - Regular expression "Google-chrome" matches "Google-chrome"
+12/28/2016 02:13:48 PM - window class matches (Google-chrome)
+12/28/2016 02:13:48 PM - dock status matches
+12/28/2016 02:13:48 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bbb340
+12/28/2016 02:13:48 PM - Urgency flag changed to 1
+12/28/2016 02:13:48 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 02:13:48 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 02:13:48 PM - workspace visible? fs = 0x1bac0d0, ws = 0x1bac0d0
+12/28/2016 02:13:48 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 02:13:48 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bbb340
+12/28/2016 02:13:48 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 02:13:48 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 02:13:48 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bbb340
+12/28/2016 02:13:48 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:14:40 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:14:40 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:14:40 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:14:40 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:16:56 PM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu -i'
+12/28/2016 10:16:57 PM - IPC: received: *exec  "thunar "*
+12/28/2016 10:16:57 PM - startup id = i3/thunar/460-4-powerhaus.bnet_TIME206074
+12/28/2016 10:16:57 PM - executing: thunar 
+[{"success":true}]
+12/28/2016 10:16:57 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:16:57 PM - ClientMessage for window 0x01000004
+12/28/2016 10:16:57 PM - WM_CLASS changed to thunar (instance), Thunar (class)
+12/28/2016 10:16:57 PM - WM_NAME changed to "Thunar"
+12/28/2016 10:16:57 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/28/2016 10:16:57 PM - _NET_WM_NAME changed to "Thunar"
+12/28/2016 10:16:57 PM - WM_WINDOW_ROLE changed to "Thunar-1482992217-3982520489"
+12/28/2016 10:16:57 PM - WM_HINTS.input changed to "1"
+12/28/2016 10:16:57 PM - Checking window 0x01000004 (class Thunar)
+12/28/2016 10:16:57 PM - dock status does not match
+12/28/2016 10:16:57 PM - Checking window 0x01000004 (class Thunar)
+12/28/2016 10:16:57 PM - dock status does not match
+12/28/2016 10:16:57 PM - Checking window 0x01000004 (class Thunar)
+12/28/2016 10:16:57 PM - dock status does not match
+12/28/2016 10:16:57 PM - Checking window 0x01000004 (class Thunar)
+12/28/2016 10:16:57 PM - dock status does not match
+12/28/2016 10:16:57 PM - Checking window 0x01000004 (class Thunar)
+12/28/2016 10:16:57 PM - Regular expression "Google-chrome" does not match "Thunar"
+12/28/2016 10:16:57 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:16:57 PM - Checking window 0x01000004 (class Thunar)
+12/28/2016 10:16:57 PM - Regular expression "Google-chrome" does not match "Thunar"
+12/28/2016 10:16:57 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:16:57 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:16:57 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 10:16:57 PM - workspace visible? fs = 0x1bac0d0, ws = 0x1bac0d0
+12/28/2016 10:16:57 PM - _NET_WM_NAME changed to "bryan - File Manager"
+12/28/2016 10:16:57 PM - Checking window 0x01000004 (class Thunar)
+12/28/2016 10:16:57 PM - Regular expression "Google-chrome" does not match "Thunar"
+12/28/2016 10:16:57 PM - WM_HINTS.input changed to "1"
+12/28/2016 10:16:59 PM - _NET_WM_NAME changed to "NAS - File Manager"
+12/28/2016 10:16:59 PM - Checking window 0x01000004 (class Thunar)
+12/28/2016 10:16:59 PM - Regular expression "Google-chrome" does not match "Thunar"
+12/28/2016 10:16:59 PM - WM_HINTS.input changed to "1"
+12/28/2016 10:17:00 PM - _NET_WM_NAME changed to "Videos - File Manager"
+12/28/2016 10:17:00 PM - Checking window 0x01000004 (class Thunar)
+12/28/2016 10:17:00 PM - Regular expression "Google-chrome" does not match "Thunar"
+12/28/2016 10:17:03 PM - _NET_WM_NAME changed to "NAS - File Manager"
+12/28/2016 10:17:03 PM - Checking window 0x01000004 (class Thunar)
+12/28/2016 10:17:03 PM - Regular expression "Google-chrome" does not match "Thunar"
+12/28/2016 10:17:05 PM - _NET_WM_NAME changed to "Personal - File Manager"
+12/28/2016 10:17:05 PM - Checking window 0x01000004 (class Thunar)
+12/28/2016 10:17:05 PM - Regular expression "Google-chrome" does not match "Thunar"
+12/28/2016 10:17:09 PM - _NET_WM_NAME changed to "Communiy Service Projects - File Manager"
+12/28/2016 10:17:09 PM - Checking window 0x01000004 (class Thunar)
+12/28/2016 10:17:09 PM - Regular expression "Google-chrome" does not match "Thunar"
+12/28/2016 10:17:15 PM - _NET_WM_NAME changed to "It's not really. Don't Go in here - File Manager"
+12/28/2016 10:17:15 PM - Checking window 0x01000004 (class Thunar)
+12/28/2016 10:17:15 PM - Regular expression "Google-chrome" does not match "Thunar"
+12/28/2016 10:17:49 PM - _NET_WM_NAME changed to "misc - File Manager"
+12/28/2016 10:17:49 PM - Checking window 0x01000004 (class Thunar)
+12/28/2016 10:17:49 PM - Regular expression "Google-chrome" does not match "Thunar"
+12/28/2016 10:17:51 PM - _NET_WM_NAME changed to "Gangbang Auditions 23 - File Manager"
+12/28/2016 10:17:51 PM - Checking window 0x01000004 (class Thunar)
+12/28/2016 10:17:51 PM - Regular expression "Google-chrome" does not match "Thunar"
+12/28/2016 10:17:53 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:17:53 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:17:53 PM - WM_CLASS changed to smplayer (instance), smplayer (class)
+12/28/2016 10:17:53 PM - WM_NAME changed to "SMPlayer"
+12/28/2016 10:17:53 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/28/2016 10:17:53 PM - _NET_WM_NAME changed to "SMPlayer"
+12/28/2016 10:17:53 PM - WM_HINTS.input changed to "1"
+12/28/2016 10:17:53 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:17:53 PM - dock status does not match
+12/28/2016 10:17:53 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:17:53 PM - dock status does not match
+12/28/2016 10:17:53 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:17:53 PM - dock status does not match
+12/28/2016 10:17:53 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:17:53 PM - dock status does not match
+12/28/2016 10:17:53 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:17:53 PM - Regular expression "Google-chrome" does not match "smplayer"
+12/28/2016 10:17:53 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:17:53 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:17:53 PM - Regular expression "Google-chrome" does not match "smplayer"
+12/28/2016 10:17:53 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:17:53 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:17:53 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 10:17:53 PM - workspace visible? fs = 0x1bac0d0, ws = 0x1bac0d0
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c0000d
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c0000d
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c00010
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c00010
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c00013
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c00013
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c00016
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c00016
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c00019
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c00019
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c0001c
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c0001c
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c0001f
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c0001f
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c00022
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c00022
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c00025
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c00025
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c00028
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c00028
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c0002b
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01c0002b
+12/28/2016 10:17:54 PM - ClientMessage for window 0x01e00002
+12/28/2016 10:17:54 PM - _NET_WM_NAME changed to "720P_1500K_70333711.mp4 - SMPlayer"
+12/28/2016 10:17:54 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:17:54 PM - Regular expression "Google-chrome" does not match "smplayer"
+12/28/2016 10:17:55 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:17:55 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:17:56 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 10:17:56 PM - focused now = 0x1bb4940 / 2
+12/28/2016 10:17:56 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 10:17:56 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:17:56 PM - workspace visible? fs = 0x1bac0d0, ws = 0x1bac0d0
+12/28/2016 10:17:56 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 10:17:56 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bbb340
+12/28/2016 10:17:56 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:17:57 PM - focused now = 0x1bb77f0 / (null)
+12/28/2016 10:17:57 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:17:57 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 10:17:57 PM - workspace visible? fs = 0x1bac0d0, ws = 0x1bac0d0
+12/28/2016 10:17:57 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 10:17:57 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bbb340
+12/28/2016 10:17:57 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:17:57 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:17:59 PM - ClientMessage for window 0x01000827
+12/28/2016 10:17:59 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:17:59 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:00 PM - ClientMessage for window 0x01000827
+12/28/2016 10:18:00 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:00 PM - ClientMessage for window 0x01000827
+12/28/2016 10:18:01 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:02 PM - Sending WM_DELETE to the client
+12/28/2016 10:18:02 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:02 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:02 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:02 PM - expose event for unknown window, ignoring
+12/28/2016 10:18:02 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:02 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:02 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:02 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:02 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:02 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:02 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:02 PM - Not a managed window, ignoring UnmapNotify event
+This is SMPlayer v. 16.11.0 (revision 8242) running on Linux
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:05 PM - WM_CLASS changed to smplayer (instance), smplayer (class)
+12/28/2016 10:18:05 PM - WM_NAME changed to "SMPlayer"
+12/28/2016 10:18:05 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/28/2016 10:18:05 PM - _NET_WM_NAME changed to "SMPlayer"
+12/28/2016 10:18:05 PM - WM_HINTS.input changed to "1"
+12/28/2016 10:18:05 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:18:05 PM - dock status does not match
+12/28/2016 10:18:05 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:18:05 PM - dock status does not match
+12/28/2016 10:18:05 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:18:05 PM - dock status does not match
+12/28/2016 10:18:05 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:18:05 PM - dock status does not match
+12/28/2016 10:18:05 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:18:05 PM - Regular expression "Google-chrome" does not match "smplayer"
+12/28/2016 10:18:05 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:05 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:18:05 PM - Regular expression "Google-chrome" does not match "smplayer"
+12/28/2016 10:18:05 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:05 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:05 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 10:18:05 PM - workspace visible? fs = 0x1bac0d0, ws = 0x1bac0d0
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c0000d
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c0000d
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00010
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00010
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00013
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00013
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00016
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00016
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00019
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00019
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c0001c
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c0001c
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c0001f
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c0001f
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00022
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00022
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00025
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00025
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00028
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c00028
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c0002b
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01c0002b
+12/28/2016 10:18:05 PM - ClientMessage for window 0x01e00002
+12/28/2016 10:18:05 PM - _NET_WM_NAME changed to "pl-ga23a.avi - SMPlayer"
+12/28/2016 10:18:05 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:18:05 PM - Regular expression "Google-chrome" does not match "smplayer"
+12/28/2016 10:18:08 PM - Sending WM_DELETE to the client
+12/28/2016 10:18:08 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:08 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:08 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:08 PM - expose event for unknown window, ignoring
+12/28/2016 10:18:08 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:08 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:08 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:08 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:08 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:08 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:08 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:08 PM - Not a managed window, ignoring UnmapNotify event
+This is SMPlayer v. 16.11.0 (revision 8242) running on Linux
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:09 PM - WM_CLASS changed to smplayer (instance), smplayer (class)
+12/28/2016 10:18:09 PM - WM_NAME changed to "SMPlayer"
+12/28/2016 10:18:09 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/28/2016 10:18:09 PM - _NET_WM_NAME changed to "SMPlayer"
+12/28/2016 10:18:09 PM - WM_HINTS.input changed to "1"
+12/28/2016 10:18:09 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:18:09 PM - dock status does not match
+12/28/2016 10:18:09 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:18:09 PM - dock status does not match
+12/28/2016 10:18:09 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:18:09 PM - dock status does not match
+12/28/2016 10:18:09 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:18:09 PM - dock status does not match
+12/28/2016 10:18:09 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:18:09 PM - Regular expression "Google-chrome" does not match "smplayer"
+12/28/2016 10:18:09 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:09 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:18:09 PM - Regular expression "Google-chrome" does not match "smplayer"
+12/28/2016 10:18:09 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:09 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:09 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 10:18:09 PM - workspace visible? fs = 0x1bac0d0, ws = 0x1bac0d0
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c0000d
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c0000d
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00010
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00010
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00013
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00013
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00016
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00016
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00019
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00019
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c0001c
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c0001c
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c0001f
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c0001f
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00022
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00022
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00025
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00025
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00028
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c00028
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c0002b
+12/28/2016 10:18:09 PM - ClientMessage for window 0x01c0002b
+12/28/2016 10:18:10 PM - ClientMessage for window 0x01e00002
+12/28/2016 10:18:10 PM - _NET_WM_NAME changed to "pl-ga23b.avi - SMPlayer"
+12/28/2016 10:18:10 PM - Checking window 0x01c00005 (class smplayer)
+12/28/2016 10:18:10 PM - Regular expression "Google-chrome" does not match "smplayer"
+12/28/2016 10:18:11 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:11 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:11 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:11 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:12 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:12 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:14 PM - ClientMessage for window 0x01000827
+12/28/2016 10:18:14 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:14 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:14 PM - Sending WM_DELETE to the client
+12/28/2016 10:18:14 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:14 PM - expose event for unknown window, ignoring
+12/28/2016 10:18:14 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:14 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:14 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:14 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:14 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:14 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:14 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:15 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:15 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:15 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:15 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:15 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:15 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:15 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:15 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:15 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:25 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:25 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:26 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:26 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:27 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:27 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:27 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:27 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:28 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:28 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:29 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:29 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:30 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:30 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:31 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:31 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:32 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:32 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:32 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:32 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:34 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:34 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:35 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 10:18:35 PM - focused now = 0x1bb4940 / 2
+12/28/2016 10:18:35 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 10:18:35 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:35 PM - workspace visible? fs = 0x1bac0d0, ws = 0x1bac0d0
+12/28/2016 10:18:35 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 10:18:35 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bbb340
+12/28/2016 10:18:35 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:36 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:18:43 PM - focused now = 0x1bb77f0 / (null)
+12/28/2016 10:18:43 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:43 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 10:18:43 PM - workspace visible? fs = 0x1bac0d0, ws = 0x1bac0d0
+12/28/2016 10:18:43 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 10:18:43 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bbb340
+12/28/2016 10:18:43 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:43 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:18:43 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:18:46 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:20:28 PM - Sending WM_DELETE to the client
+12/28/2016 10:20:28 PM - ClientMessage for window 0x01c00005
+12/28/2016 10:20:28 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:20:28 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:20:28 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:20:28 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:20:28 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:20:28 PM - expose event for unknown window, ignoring
+12/28/2016 10:20:28 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:20:28 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:20:28 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:20:28 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:20:28 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:20:28 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:20:28 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:20:28 PM - Not a managed window, ignoring UnmapNotify event
+This is SMPlayer v. 16.11.0 (revision 8242) running on Linux
+12/28/2016 10:22:33 PM - startup id = i3/i3-sensible-terminal/460-5-powerhaus.bnet_TIME543085
+12/28/2016 10:22:33 PM - executing: i3-sensible-terminal
+12/28/2016 10:22:33 PM - Not a managed window, ignoring UnmapNotify event
+12/28/2016 10:22:33 PM - ClientMessage for window 0x01000004
+12/28/2016 10:22:33 PM - WM_CLASS changed to terminator (instance), Terminator (class)
+12/28/2016 10:22:33 PM - WM_NAME changed to "None"
+12/28/2016 10:22:33 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+12/28/2016 10:22:33 PM - _NET_WM_NAME changed to "None"
+12/28/2016 10:22:33 PM - WM_HINTS.input changed to "1"
+12/28/2016 10:22:33 PM - Checking window 0x01000004 (class Terminator)
+12/28/2016 10:22:33 PM - dock status does not match
+12/28/2016 10:22:33 PM - Checking window 0x01000004 (class Terminator)
+12/28/2016 10:22:33 PM - dock status does not match
+12/28/2016 10:22:33 PM - Checking window 0x01000004 (class Terminator)
+12/28/2016 10:22:33 PM - dock status does not match
+12/28/2016 10:22:33 PM - Checking window 0x01000004 (class Terminator)
+12/28/2016 10:22:33 PM - dock status does not match
+12/28/2016 10:22:33 PM - Checking window 0x01000004 (class Terminator)
+12/28/2016 10:22:33 PM - Regular expression "Google-chrome" does not match "Terminator"
+12/28/2016 10:22:33 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:22:33 PM - Checking window 0x01000004 (class Terminator)
+12/28/2016 10:22:33 PM - Regular expression "Google-chrome" does not match "Terminator"
+12/28/2016 10:22:33 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:22:33 PM - workspace visible? fs = 0x1bb3d00, ws = 0x1bb3d00
+12/28/2016 10:22:33 PM - workspace visible? fs = 0x1bb4940, ws = 0x1bb4940
+12/28/2016 10:22:33 PM - workspace visible? fs = 0x1bac0d0, ws = 0x1bac0d0
+12/28/2016 10:22:33 PM - _NET_WM_NAME changed to "None"
+12/28/2016 10:22:33 PM - Checking window 0x01000004 (class Terminator)
+12/28/2016 10:22:33 PM - Regular expression "Google-chrome" does not match "Terminator"
+12/28/2016 10:22:33 PM - _NET_WM_NAME changed to "/bin/bash"
+12/28/2016 10:22:33 PM - Checking window 0x01000004 (class Terminator)
+12/28/2016 10:22:33 PM - Regular expression "Google-chrome" does not match "Terminator"
+12/28/2016 10:22:33 PM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+12/28/2016 10:22:33 PM - Checking window 0x01000004 (class Terminator)
+12/28/2016 10:22:33 PM - Regular expression "Google-chrome" does not match "Terminator"
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI

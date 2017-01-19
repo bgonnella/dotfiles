@@ -1,0 +1,2453 @@
+01/02/2017 02:27:55 AM - i3 4.13-non-git starting
+01/02/2017 02:27:55 AM - Parsing configfile /home/bryan/.config/i3/config
+01/02/2017 02:27:55 AM - deciding for version 4 due to this line: # i3 config file (v4)
+01/02/2017 02:27:55 AM - [libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+01/02/2017 02:27:55 AM - [libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+01/02/2017 02:27:55 AM - Initializing first assigned workspace "1" for output "DP-4"
+01/02/2017 02:27:55 AM - Creating new workspace "1"
+01/02/2017 02:27:55 AM - got output 0x210dc30 with content 0x210f350
+01/02/2017 02:27:55 AM - num = 1
+01/02/2017 02:27:55 AM - focused now = 0x2113da0 / 1
+01/02/2017 02:27:55 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+01/02/2017 02:27:55 AM - workspace visible? fs = 0x210c180, ws = 0x210c180
+01/02/2017 02:27:55 AM - Initializing first assigned workspace "2" for output "HDMI-0"
+01/02/2017 02:27:55 AM - Creating new workspace "2"
+01/02/2017 02:27:55 AM - got output 0x2110b80 with content 0x2112460
+01/02/2017 02:27:55 AM - num = 2
+01/02/2017 02:27:55 AM - focused now = 0x21149e0 / 2
+01/02/2017 02:27:55 AM - workspace visible? fs = 0x21149e0, ws = 0x21149e0
+01/02/2017 02:27:55 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+01/02/2017 02:27:55 AM - workspace visible? fs = 0x210c180, ws = 0x210c180
+01/02/2017 02:27:55 AM - This is not an in-place restart, copying root window contents to a pixmap
+01/02/2017 02:27:55 AM - auto-starting compton -f
+01/02/2017 02:27:55 AM - startup id = i3/compton/484-0-powerhaus.bnet_TIME0
+01/02/2017 02:27:55 AM - executing: compton -f
+01/02/2017 02:27:55 AM - auto-starting nitrogen --restore
+01/02/2017 02:27:55 AM - executing: nitrogen --restore
+01/02/2017 02:27:55 AM - auto-starting ~/.config/i3/lock/lock.sh
+01/02/2017 02:27:55 AM - startup id = i3/~|.config|i3|lock|lock.sh/484-1-powerhaus.bnet_TIME0
+01/02/2017 02:27:55 AM - executing: ~/.config/i3/lock/lock.sh
+01/02/2017 02:27:55 AM - auto-starting xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+01/02/2017 02:27:55 AM - startup id = i3/xautolock/484-2-powerhaus.bnet_TIME0
+01/02/2017 02:27:55 AM - executing: xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+01/02/2017 02:27:55 AM - auto-starting google-chrome-stable --app=https://listen.tidal.com/ &
+01/02/2017 02:27:55 AM - startup id = i3/google-chrome-stable/484-3-powerhaus.bnet_TIME0
+01/02/2017 02:27:55 AM - executing: google-chrome-stable --app=https://listen.tidal.com/ &
+01/02/2017 02:27:55 AM - Starting bar process: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.484"
+01/02/2017 02:27:55 AM - executing: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.484"
+01/02/2017 02:27:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:27:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:27:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:27:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:27:55 AM - IPC: looking for config for bar ID "bar-0"
+01/02/2017 02:27:55 AM - workspace visible? fs = 0x21149e0, ws = 0x21149e0
+01/02/2017 02:27:55 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+01/02/2017 02:27:55 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+01/02/2017 02:27:55 AM - WM_NAME changed to "i3bar for output HDMI-0"
+01/02/2017 02:27:55 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 02:27:55 AM - This window is of type dock
+01/02/2017 02:27:55 AM - Checking window 0x00e00006 (class i3bar)
+01/02/2017 02:27:55 AM - dock status does not match
+01/02/2017 02:27:55 AM - Checking window 0x00e00006 (class i3bar)
+01/02/2017 02:27:55 AM - dock status matches
+01/02/2017 02:27:55 AM - Checking window 0x00e00006 (class i3bar)
+01/02/2017 02:27:55 AM - Regular expression "Google-chrome" does not match "i3bar"
+01/02/2017 02:27:55 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+01/02/2017 02:27:55 AM - workspace visible? fs = 0x21149e0, ws = 0x21149e0
+01/02/2017 02:27:55 AM - workspace visible? fs = 0x210c180, ws = 0x210c180
+01/02/2017 02:27:55 AM - ClientMessage for window 0x000001ef
+01/02/2017 02:27:55 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+01/02/2017 02:27:55 AM - WM_NAME changed to "i3bar for output DP-4"
+01/02/2017 02:27:55 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 02:27:55 AM - This window is of type dock
+01/02/2017 02:27:55 AM - Checking window 0x00e0000d (class i3bar)
+01/02/2017 02:27:55 AM - dock status does not match
+01/02/2017 02:27:55 AM - Checking window 0x00e0000d (class i3bar)
+01/02/2017 02:27:55 AM - dock status matches
+01/02/2017 02:27:55 AM - Checking window 0x00e0000d (class i3bar)
+01/02/2017 02:27:55 AM - Regular expression "Google-chrome" does not match "i3bar"
+01/02/2017 02:27:55 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+01/02/2017 02:27:55 AM - workspace visible? fs = 0x21149e0, ws = 0x21149e0
+01/02/2017 02:27:55 AM - workspace visible? fs = 0x210c180, ws = 0x210c180
+done
+01/02/2017 02:28:03 AM - WM_CLASS changed to listen.tidal.com (instance), Google-chrome (class)
+01/02/2017 02:28:03 AM - WM_NAME changed to "Untitled"
+01/02/2017 02:28:03 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 02:28:03 AM - _NET_WM_NAME changed to "Untitled"
+01/02/2017 02:28:03 AM - WM_WINDOW_ROLE changed to "pop-up"
+01/02/2017 02:28:03 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 02:28:03 AM - dock status does not match
+01/02/2017 02:28:03 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 02:28:03 AM - dock status does not match
+01/02/2017 02:28:03 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 02:28:03 AM - dock status does not match
+01/02/2017 02:28:03 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 02:28:03 AM - dock status does not match
+01/02/2017 02:28:03 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 02:28:03 AM - Regular expression "Google-chrome" matches "Google-chrome"
+01/02/2017 02:28:03 AM - window class matches (Google-chrome)
+01/02/2017 02:28:03 AM - dock status matches
+01/02/2017 02:28:03 AM - Creating new workspace "10 "
+01/02/2017 02:28:03 AM - got output 0x2110b80 with content 0x2112460
+01/02/2017 02:28:03 AM - num = 10
+01/02/2017 02:28:03 AM - workspace visible? fs = 0x21149e0, ws = 0x20a65c0
+01/02/2017 02:28:03 AM - workspace visible? fs = 0x21149e0, ws = 0x20a65c0
+01/02/2017 02:28:03 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 02:28:03 AM - Regular expression "Google-chrome" matches "Google-chrome"
+01/02/2017 02:28:03 AM - window class matches (Google-chrome)
+01/02/2017 02:28:03 AM - dock status matches
+01/02/2017 02:28:03 AM - workspace visible? fs = 0x21149e0, ws = 0x20a65c0
+01/02/2017 02:28:03 AM - Urgency flag changed to 1
+01/02/2017 02:28:03 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+01/02/2017 02:28:03 AM - workspace visible? fs = 0x21149e0, ws = 0x21149e0
+01/02/2017 02:28:03 AM - workspace visible? fs = 0x210c180, ws = 0x210c180
+01/02/2017 02:28:03 AM - workspace visible? fs = 0x21149e0, ws = 0x21149e0
+01/02/2017 02:28:03 AM - workspace visible? fs = 0x21149e0, ws = 0x20a65c0
+01/02/2017 02:28:03 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+01/02/2017 02:28:03 AM - workspace visible? fs = 0x21149e0, ws = 0x21149e0
+01/02/2017 02:28:03 AM - workspace visible? fs = 0x21149e0, ws = 0x20a65c0
+01/02/2017 02:28:03 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+[515:665:0102/022849:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 02:28:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:28:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:28:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:28:55 AM - Not a managed window, ignoring UnmapNotify event
+[515:665:0102/022935:ERROR:socket_stream.cc(210)] Closing stream with result -101
+[515:665:0102/023021:ERROR:socket_stream.cc(210)] Closing stream with result -101
+[515:665:0102/023107:ERROR:socket_stream.cc(210)] Closing stream with result -101
+[515:665:0102/023153:ERROR:socket_stream.cc(210)] Closing stream with result -101
+[515:665:0102/023239:ERROR:socket_stream.cc(210)] Closing stream with result -101
+[515:665:0102/023325:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 02:34:05 AM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu -i'
+01/02/2017 02:34:07 AM - startup id = i3/i3-sensible-terminal/484-4-powerhaus.bnet_TIME710716
+01/02/2017 02:34:07 AM - executing: i3-sensible-terminal
+01/02/2017 02:34:07 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:07 AM - ClientMessage for window 0x01000004
+01/02/2017 02:34:07 AM - WM_CLASS changed to terminator (instance), Terminator (class)
+01/02/2017 02:34:07 AM - WM_NAME changed to "None"
+01/02/2017 02:34:07 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 02:34:07 AM - _NET_WM_NAME changed to "None"
+01/02/2017 02:34:07 AM - WM_HINTS.input changed to "1"
+01/02/2017 02:34:07 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:07 AM - dock status does not match
+01/02/2017 02:34:07 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:07 AM - dock status does not match
+01/02/2017 02:34:07 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:07 AM - dock status does not match
+01/02/2017 02:34:07 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:07 AM - dock status does not match
+01/02/2017 02:34:07 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:07 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:07 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+01/02/2017 02:34:07 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:07 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:07 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+01/02/2017 02:34:07 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+01/02/2017 02:34:07 AM - workspace visible? fs = 0x21149e0, ws = 0x21149e0
+01/02/2017 02:34:07 AM - workspace visible? fs = 0x210c180, ws = 0x210c180
+01/02/2017 02:34:07 AM - _NET_WM_NAME changed to "None"
+01/02/2017 02:34:07 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:07 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:07 AM - _NET_WM_NAME changed to "/bin/bash"
+01/02/2017 02:34:07 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:07 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:07 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:34:07 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:07 AM - Regular expression "Google-chrome" does not match "Terminator"
+[515:665:0102/023411:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 02:34:19 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:34:19 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:19 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:23 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:34:23 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:23 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:26 AM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu -i'
+01/02/2017 02:34:26 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:34:26 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:26 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:28 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:34:28 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:28 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:28 AM - IPC: received: *exec  "chromium "*
+01/02/2017 02:34:28 AM - startup id = i3/chromium/484-5-powerhaus.bnet_TIME731791
+01/02/2017 02:34:28 AM - executing: chromium 
+[{"success":true}]
+01/02/2017 02:34:28 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:29 AM - WM_CLASS changed to chromium (instance), Chromium (class)
+01/02/2017 02:34:29 AM - WM_NAME changed to "Untitled - Chromium"
+01/02/2017 02:34:29 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 02:34:29 AM - _NET_WM_NAME changed to "Untitled - Chromium"
+01/02/2017 02:34:29 AM - WM_WINDOW_ROLE changed to "browser"
+01/02/2017 02:34:29 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:34:29 AM - dock status does not match
+01/02/2017 02:34:29 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:34:29 AM - dock status does not match
+01/02/2017 02:34:29 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:34:29 AM - dock status does not match
+01/02/2017 02:34:29 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:34:29 AM - dock status does not match
+01/02/2017 02:34:29 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:34:29 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:34:29 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+01/02/2017 02:34:29 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:34:29 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:34:29 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+01/02/2017 02:34:29 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+01/02/2017 02:34:29 AM - workspace visible? fs = 0x21149e0, ws = 0x21149e0
+01/02/2017 02:34:29 AM - workspace visible? fs = 0x210c180, ws = 0x210c180
+01/02/2017 02:34:29 AM - ClientMessage for window 0x01e00002
+01/02/2017 02:34:29 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+01/02/2017 02:34:29 AM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Chromium"
+01/02/2017 02:34:29 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:34:29 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:34:30 AM - _NET_WM_NAME changed to "New Tab - Chromium"
+01/02/2017 02:34:30 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:34:30 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:34:33 AM - _NET_WM_NAME changed to "ms core fonts arch - Google Search - Chromium"
+01/02/2017 02:34:33 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:34:33 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:34:34 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:34:34 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:34 AM - Regular expression "Google-chrome" does not match "Terminator"
+[7389:7795:0102/023434:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+01/02/2017 02:34:35 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:34:35 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:35 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:46 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:34:46 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:46 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:47 AM - reloading
+01/02/2017 02:34:47 AM - Parsing configfile /home/bryan/.config/i3/config
+01/02/2017 02:34:47 AM - deciding for version 4 due to this line: # i3 config file (v4)
+01/02/2017 02:34:47 AM - [libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+01/02/2017 02:34:47 AM - ERROR: You have a duplicate workspace assignment for workspace "1"
+01/02/2017 02:34:47 AM - ERROR: You have a duplicate workspace assignment for workspace "2"
+01/02/2017 02:34:47 AM - ERROR: You have a duplicate workspace assignment for workspace "10 "
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x21149e0, ws = 0x21149e0
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x21149e0, ws = 0x20a65c0
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x2113da0, ws = 0x2113da0
+01/02/2017 02:34:47 AM - Checking window 0x00e00006 (class i3bar)
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x00e00006 (class i3bar)
+01/02/2017 02:34:47 AM - dock status matches
+01/02/2017 02:34:47 AM - Checking window 0x00e0000d (class i3bar)
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x00e0000d (class i3bar)
+01/02/2017 02:34:47 AM - dock status matches
+01/02/2017 02:34:47 AM - restarting i3
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+01/02/2017 02:34:47 AM - restarting "i3"...
+01/02/2017 02:34:47 AM - Autostart disabled using -a
+01/02/2017 02:34:47 AM - i3 4.13-non-git starting
+01/02/2017 02:34:47 AM - Parsing configfile /home/bryan/.config/i3/config
+01/02/2017 02:34:47 AM - deciding for version 4 due to this line: # i3 config file (v4)
+01/02/2017 02:34:47 AM - [libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+01/02/2017 02:34:47 AM - [libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI
+01/02/2017 02:34:47 AM - Trying to restore the layout from "/run/user/1000/i3/restart-state.484".
+01/02/2017 02:34:47 AM - start of map, last_key = (null)
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34569552 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: root for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: horizontal for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: splith for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int -1 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 4520 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1920 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: root for key name
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - start of map, last_key = nodes
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34646320 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: output for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: none for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - double 0.333333 for key percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: output for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int -1 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 92880 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 5760 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: __i3 for key name
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - start of map, last_key = nodes
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34649408 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: con for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: horizontal for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: output
+01/02/2017 02:34:47 AM - string: __i3 for key output
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: splith for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int -1 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: content for key name
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - start of map, last_key = nodes
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34652544 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: workspace for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: none for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: output
+01/02/2017 02:34:47 AM - string: __i3 for key output
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: splith for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int -1 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: __i3_scratch for key name
+01/02/2017 02:34:47 AM - key: num
+01/02/2017 02:34:47 AM - int -1 for key num
+01/02/2017 02:34:47 AM - key: gaps
+01/02/2017 02:34:47 AM - start of map, last_key = gaps
+01/02/2017 02:34:47 AM - key: inner
+01/02/2017 02:34:47 AM - int 0 for key inner
+01/02/2017 02:34:47 AM - key: outer
+01/02/2017 02:34:47 AM - int 0 for key outer
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 1 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - int 34652544 for key focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - focus (reverse) 34652544
+01/02/2017 02:34:47 AM - got it! 0x16efad0
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 0 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - int 34649408 for key focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - focus (reverse) 34649408
+01/02/2017 02:34:47 AM - got it! 0x16ef8e0
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 0 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - start of map, last_key = swallows
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34671488 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: output for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: none for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - double 0.333333 for key percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: output for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int -1 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 3440 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 1080 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1920 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: HDMI-0 for key name
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - start of map, last_key = nodes
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34674576 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: dockarea for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: none for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: output
+01/02/2017 02:34:47 AM - string: HDMI-0 for key output
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: dockarea for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int -1 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 3440 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 1080 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: topdock for key name
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 0 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - start of map, last_key = swallows
+01/02/2017 02:34:47 AM - creating new swallow
+01/02/2017 02:34:47 AM - key: dock
+01/02/2017 02:34:47 AM - int 2 for key dock
+01/02/2017 02:34:47 AM - key: insert_where
+01/02/2017 02:34:47 AM - int 2 for key insert_where
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - start of map, last_key = insert_where
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34677856 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: con for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: horizontal for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: output
+01/02/2017 02:34:47 AM - string: HDMI-0 for key output
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: splith for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int -1 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 3440 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 1080 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1892 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: content for key name
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - start of map, last_key = nodes
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34687456 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: workspace for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: none for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: output
+01/02/2017 02:34:47 AM - string: HDMI-0 for key output
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: splitv for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splitv for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int -1 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 3440 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 1080 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1892 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: 2 for key name
+01/02/2017 02:34:47 AM - key: num
+01/02/2017 02:34:47 AM - int 2 for key num
+01/02/2017 02:34:47 AM - key: gaps
+01/02/2017 02:34:47 AM - start of map, last_key = gaps
+01/02/2017 02:34:47 AM - key: inner
+01/02/2017 02:34:47 AM - int 0 for key inner
+01/02/2017 02:34:47 AM - key: outer
+01/02/2017 02:34:47 AM - int 0 for key outer
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 1 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - start of map, last_key = swallows
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34235840 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: workspace for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: vertical for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 1 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: output
+01/02/2017 02:34:47 AM - string: HDMI-0 for key output
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: splitv for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splitv for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int -1 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 3440 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 1080 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1892 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: 10  for key name
+01/02/2017 02:34:47 AM - key: num
+01/02/2017 02:34:47 AM - int 10 for key num
+01/02/2017 02:34:47 AM - key: gaps
+01/02/2017 02:34:47 AM - start of map, last_key = gaps
+01/02/2017 02:34:47 AM - key: inner
+01/02/2017 02:34:47 AM - int 0 for key inner
+01/02/2017 02:34:47 AM - key: outer
+01/02/2017 02:34:47 AM - int 0 for key outer
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - start of map, last_key = nodes
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34221104 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: con for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: none for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - double 1.000000 for key percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 1 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: output
+01/02/2017 02:34:47 AM - string: HDMI-0 for key output
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: splith for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int 0 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 3450 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 10 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 1060 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1872 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 1060 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1872 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 3448 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 9 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 1063 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1903 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: Untitled for key name
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - int 23068674 for key window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 0 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - start of map, last_key = swallows
+01/02/2017 02:34:47 AM - creating new swallow
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 23068674 for key id
+01/02/2017 02:34:47 AM - key: restart_mode
+01/02/2017 02:34:47 AM - bool 1 for key restart_mode
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: depth
+01/02/2017 02:34:47 AM - int 24 for key depth
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - int 34221104 for key focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - focus (reverse) 34221104
+01/02/2017 02:34:47 AM - got it! 0x16f3a70
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 0 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - int 34687456 for key focus
+01/02/2017 02:34:47 AM - int 34235840 for key focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - focus (reverse) 34235840
+01/02/2017 02:34:47 AM - got it! 0x16f38a0
+01/02/2017 02:34:47 AM - focus (reverse) 34687456
+01/02/2017 02:34:47 AM - got it! 0x16f2c70
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 0 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - start of map, last_key = swallows
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34680992 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: dockarea for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: none for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: output
+01/02/2017 02:34:47 AM - string: HDMI-0 for key output
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: dockarea for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int -1 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 3440 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 1892 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 1080 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 28 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: bottomdock for key name
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - int 34703088 for key focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - focus (reverse) 34703088
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 0 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - start of map, last_key = swallows
+01/02/2017 02:34:47 AM - creating new swallow
+01/02/2017 02:34:47 AM - key: dock
+01/02/2017 02:34:47 AM - int 3 for key dock
+01/02/2017 02:34:47 AM - key: insert_where
+01/02/2017 02:34:47 AM - int 2 for key insert_where
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - int 34677856 for key focus
+01/02/2017 02:34:47 AM - int 34674576 for key focus
+01/02/2017 02:34:47 AM - int 34680992 for key focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - focus (reverse) 34680992
+01/02/2017 02:34:47 AM - got it! 0x16f5c20
+01/02/2017 02:34:47 AM - focus (reverse) 34674576
+01/02/2017 02:34:47 AM - got it! 0x16f1de0
+01/02/2017 02:34:47 AM - focus (reverse) 34677856
+01/02/2017 02:34:47 AM - got it! 0x16f2aa0
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 0 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - start of map, last_key = swallows
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34659376 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: output for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: none for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - double 0.333333 for key percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: output for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int -1 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 352 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 3440 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1440 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: DP-4 for key name
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - start of map, last_key = nodes
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34662336 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: dockarea for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: none for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: output
+01/02/2017 02:34:47 AM - string: DP-4 for key output
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: dockarea for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int -1 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 352 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 3440 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: topdock for key name
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 0 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - start of map, last_key = swallows
+01/02/2017 02:34:47 AM - creating new swallow
+01/02/2017 02:34:47 AM - key: dock
+01/02/2017 02:34:47 AM - int 2 for key dock
+01/02/2017 02:34:47 AM - key: insert_where
+01/02/2017 02:34:47 AM - int 2 for key insert_where
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - start of map, last_key = insert_where
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34665296 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: con for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: horizontal for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: output
+01/02/2017 02:34:47 AM - string: DP-4 for key output
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: splith for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int -1 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 352 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 3440 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1412 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: content for key name
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - start of map, last_key = nodes
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34684320 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: workspace for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: horizontal for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: output
+01/02/2017 02:34:47 AM - string: DP-4 for key output
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: splith for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int -1 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 352 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 3440 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1412 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: 1 for key name
+01/02/2017 02:34:47 AM - key: num
+01/02/2017 02:34:47 AM - int 1 for key num
+01/02/2017 02:34:47 AM - key: gaps
+01/02/2017 02:34:47 AM - start of map, last_key = gaps
+01/02/2017 02:34:47 AM - key: inner
+01/02/2017 02:34:47 AM - int 0 for key inner
+01/02/2017 02:34:47 AM - key: outer
+01/02/2017 02:34:47 AM - int 0 for key outer
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - start of map, last_key = nodes
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34575312 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: con for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: none for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - double 0.500000 for key percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 1 for key focused
+01/02/2017 02:34:47 AM - key: output
+01/02/2017 02:34:47 AM - string: DP-4 for key output
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: splith for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int 0 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 10 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 362 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 1705 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1392 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 1705 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1392 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 882 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 546 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: bryan@powerhaus:~ for key name
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - int 16777220 for key window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 0 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - start of map, last_key = swallows
+01/02/2017 02:34:47 AM - creating new swallow
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 16777220 for key id
+01/02/2017 02:34:47 AM - key: restart_mode
+01/02/2017 02:34:47 AM - bool 1 for key restart_mode
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: depth
+01/02/2017 02:34:47 AM - int 32 for key depth
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - start of map, last_key = depth
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34699984 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: con for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: none for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - double 0.500000 for key percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: output
+01/02/2017 02:34:47 AM - string: DP-4 for key output
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: splith for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int 0 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 1725 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 362 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 1705 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1392 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 1705 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1392 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 3439 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 1081 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 1919 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: ms core fonts arch - Google Search - Chromium for key name
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - int 31457282 for key window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 0 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - start of map, last_key = swallows
+01/02/2017 02:34:47 AM - creating new swallow
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 31457282 for key id
+01/02/2017 02:34:47 AM - key: restart_mode
+01/02/2017 02:34:47 AM - bool 1 for key restart_mode
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: depth
+01/02/2017 02:34:47 AM - int 24 for key depth
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - int 34575312 for key focus
+01/02/2017 02:34:47 AM - int 34699984 for key focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - focus (reverse) 34699984
+01/02/2017 02:34:47 AM - got it! 0x16f9240
+01/02/2017 02:34:47 AM - focus (reverse) 34575312
+01/02/2017 02:34:47 AM - got it! 0x16f8560
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 1 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - int 34684320 for key focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - focus (reverse) 34684320
+01/02/2017 02:34:47 AM - got it! 0x16f8370
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 0 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - start of map, last_key = swallows
+01/02/2017 02:34:47 AM - key: id
+01/02/2017 02:34:47 AM - int 34668256 for key id
+01/02/2017 02:34:47 AM - key: type
+01/02/2017 02:34:47 AM - string: dockarea for key type
+01/02/2017 02:34:47 AM - key: orientation
+01/02/2017 02:34:47 AM - string: none for key orientation
+01/02/2017 02:34:47 AM - key: scratchpad_state
+01/02/2017 02:34:47 AM - string: none for key scratchpad_state
+01/02/2017 02:34:47 AM - key: percent
+01/02/2017 02:34:47 AM - key: urgent
+01/02/2017 02:34:47 AM - bool 0 for key urgent
+01/02/2017 02:34:47 AM - key: focused
+01/02/2017 02:34:47 AM - bool 0 for key focused
+01/02/2017 02:34:47 AM - key: output
+01/02/2017 02:34:47 AM - string: DP-4 for key output
+01/02/2017 02:34:47 AM - key: layout
+01/02/2017 02:34:47 AM - string: dockarea for key layout
+01/02/2017 02:34:47 AM - key: workspace_layout
+01/02/2017 02:34:47 AM - string: default for key workspace_layout
+01/02/2017 02:34:47 AM - key: last_split_layout
+01/02/2017 02:34:47 AM - string: splith for key last_split_layout
+01/02/2017 02:34:47 AM - key: border
+01/02/2017 02:34:47 AM - string: none for key border
+01/02/2017 02:34:47 AM - key: current_border_width
+01/02/2017 02:34:47 AM - int -1 for key current_border_width
+01/02/2017 02:34:47 AM - key: rect
+01/02/2017 02:34:47 AM - start of map, last_key = rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 1764 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 3440 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 28 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: deco_rect
+01/02/2017 02:34:47 AM - start of map, last_key = deco_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: window_rect
+01/02/2017 02:34:47 AM - start of map, last_key = window_rect
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: geometry
+01/02/2017 02:34:47 AM - start of map, last_key = geometry
+01/02/2017 02:34:47 AM - key: x
+01/02/2017 02:34:47 AM - int 0 for key x
+01/02/2017 02:34:47 AM - key: y
+01/02/2017 02:34:47 AM - int 0 for key y
+01/02/2017 02:34:47 AM - key: width
+01/02/2017 02:34:47 AM - int 0 for key width
+01/02/2017 02:34:47 AM - key: height
+01/02/2017 02:34:47 AM - int 0 for key height
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - key: name
+01/02/2017 02:34:47 AM - string: bottomdock for key name
+01/02/2017 02:34:47 AM - key: window
+01/02/2017 02:34:47 AM - key: nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - int 34709024 for key focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - focus (reverse) 34709024
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 0 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - start of map, last_key = swallows
+01/02/2017 02:34:47 AM - creating new swallow
+01/02/2017 02:34:47 AM - key: dock
+01/02/2017 02:34:47 AM - int 3 for key dock
+01/02/2017 02:34:47 AM - key: insert_where
+01/02/2017 02:34:47 AM - int 2 for key insert_where
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - int 34665296 for key focus
+01/02/2017 02:34:47 AM - int 34662336 for key focus
+01/02/2017 02:34:47 AM - int 34668256 for key focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - focus (reverse) 34668256
+01/02/2017 02:34:47 AM - got it! 0x16fb3a0
+01/02/2017 02:34:47 AM - focus (reverse) 34662336
+01/02/2017 02:34:47 AM - got it! 0x16f74d0
+01/02/2017 02:34:47 AM - focus (reverse) 34665296
+01/02/2017 02:34:47 AM - got it! 0x16f81a0
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 0 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: floating_nodes
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - key: focus
+01/02/2017 02:34:47 AM - int 34659376 for key focus
+01/02/2017 02:34:47 AM - int 34671488 for key focus
+01/02/2017 02:34:47 AM - int 34646320 for key focus
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - focus (reverse) 34646320
+01/02/2017 02:34:47 AM - got it! 0x16eef00
+01/02/2017 02:34:47 AM - focus (reverse) 34671488
+01/02/2017 02:34:47 AM - got it! 0x16f1c10
+01/02/2017 02:34:47 AM - focus (reverse) 34659376
+01/02/2017 02:34:47 AM - got it! 0x16f7300
+01/02/2017 02:34:47 AM - key: fullscreen_mode
+01/02/2017 02:34:47 AM - int 0 for key fullscreen_mode
+01/02/2017 02:34:47 AM - key: sticky
+01/02/2017 02:34:47 AM - bool 0 for key sticky
+01/02/2017 02:34:47 AM - key: floating
+01/02/2017 02:34:47 AM - string: auto_off for key floating
+01/02/2017 02:34:47 AM - key: swallows
+01/02/2017 02:34:47 AM - end of array
+01/02/2017 02:34:47 AM - end of map
+01/02/2017 02:34:47 AM - attaching
+01/02/2017 02:34:47 AM - Creating window
+01/02/2017 02:34:47 AM - _NET_WM_NAME changed to "Untitled"
+01/02/2017 02:34:47 AM - WM_HINTS.input changed to "0"
+01/02/2017 02:34:47 AM - Checking window 0x00600000 (class (null))
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x00600000 (class (null))
+01/02/2017 02:34:47 AM - match made by window id (6291456)
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f38a0
+01/02/2017 02:34:47 AM - Checking window 0x00600000 (class (null))
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f38a0
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f2c70
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16efad0, ws = 0x16efad0
+01/02/2017 02:34:47 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:34:47 AM - WM_HINTS.input changed to "0"
+01/02/2017 02:34:47 AM - Checking window 0x00600003 (class (null))
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x00600003 (class (null))
+01/02/2017 02:34:47 AM - window id does not match
+01/02/2017 02:34:47 AM - Checking window 0x00600003 (class (null))
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x00600003 (class (null))
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x00600003 (class (null))
+01/02/2017 02:34:47 AM - match made by window id (6291459)
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - Checking window 0x00600003 (class (null))
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f2c70
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16efad0, ws = 0x16efad0
+01/02/2017 02:34:47 AM - _NET_WM_NAME changed to "ms core fonts arch - Google Search - Chromium"
+01/02/2017 02:34:47 AM - WM_HINTS.input changed to "0"
+01/02/2017 02:34:47 AM - Checking window 0x00600006 (class (null))
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x00600006 (class (null))
+01/02/2017 02:34:47 AM - window id does not match
+01/02/2017 02:34:47 AM - Checking window 0x00600006 (class (null))
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x00600006 (class (null))
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x00600006 (class (null))
+01/02/2017 02:34:47 AM - window id does not match
+01/02/2017 02:34:47 AM - Checking window 0x00600006 (class (null))
+01/02/2017 02:34:47 AM - match made by window id (6291462)
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - Checking window 0x00600006 (class (null))
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f2c70
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16efad0, ws = 0x16efad0
+01/02/2017 02:34:47 AM - WM_CLASS changed to listen.tidal.com (instance), Google-chrome (class)
+01/02/2017 02:34:47 AM - WM_NAME changed to "Untitled"
+01/02/2017 02:34:47 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 02:34:47 AM - _NET_WM_NAME changed to "Untitled"
+01/02/2017 02:34:47 AM - WM_WINDOW_ROLE changed to "pop-up"
+01/02/2017 02:34:47 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 02:34:47 AM - match made by window id (23068674)
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f38a0
+01/02/2017 02:34:47 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 02:34:47 AM - Regular expression "Google-chrome" matches "Google-chrome"
+01/02/2017 02:34:47 AM - window class matches (Google-chrome)
+01/02/2017 02:34:47 AM - dock status matches
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f38a0
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f2c70
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16efad0, ws = 0x16efad0
+01/02/2017 02:34:47 AM - WM_CLASS changed to terminator (instance), Terminator (class)
+01/02/2017 02:34:47 AM - WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:34:47 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 02:34:47 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:34:47 AM - WM_HINTS.input changed to "1"
+01/02/2017 02:34:47 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:47 AM - match made by window id (16777220)
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:47 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f2c70
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16efad0, ws = 0x16efad0
+01/02/2017 02:34:47 AM - WM_CLASS changed to chromium (instance), Chromium (class)
+01/02/2017 02:34:47 AM - WM_NAME changed to "ms core fonts arch - Google Search - Chromium"
+01/02/2017 02:34:47 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 02:34:47 AM - _NET_WM_NAME changed to "ms core fonts arch - Google Search - Chromium"
+01/02/2017 02:34:47 AM - WM_WINDOW_ROLE changed to "browser"
+01/02/2017 02:34:47 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:34:47 AM - match made by window id (31457282)
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:34:47 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f2c70
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16efad0, ws = 0x16efad0
+01/02/2017 02:34:47 AM - Starting bar process: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.484"
+01/02/2017 02:34:47 AM - executing: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.484"
+01/02/2017 02:34:47 AM - ERROR: Received ConfigureNotify for unknown window 0x00600000
+01/02/2017 02:34:47 AM - ERROR: Received ConfigureNotify for unknown window 0x00600000
+01/02/2017 02:34:47 AM - ERROR: Received ConfigureNotify for unknown window 0x00600003
+01/02/2017 02:34:47 AM - ERROR: Received ExposeEvent for unknown window 0x00600003
+01/02/2017 02:34:47 AM - ERROR: Received ConfigureNotify for unknown window 0x00600003
+01/02/2017 02:34:47 AM - ERROR: Received ConfigureNotify for unknown window 0x00600006
+01/02/2017 02:34:47 AM - ERROR: Received ExposeEvent for unknown window 0x00600006
+01/02/2017 02:34:47 AM - ERROR: Received ConfigureNotify for unknown window 0x00600006
+01/02/2017 02:34:47 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:47 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:47 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:47 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:47 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:47 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:47 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:47 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:47 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:47 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:47 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:34:47 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:47 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:47 AM - IPC: looking for config for bar ID "bar-0"
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f2c70
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f38a0
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+01/02/2017 02:34:47 AM - WM_NAME changed to "i3bar for output HDMI-0"
+01/02/2017 02:34:47 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 02:34:47 AM - This window is of type dock
+01/02/2017 02:34:47 AM - Checking window 0x00e00006 (class i3bar)
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x00e00006 (class i3bar)
+01/02/2017 02:34:47 AM - dock status matches
+01/02/2017 02:34:47 AM - Checking window 0x00e00006 (class i3bar)
+01/02/2017 02:34:47 AM - Regular expression "Google-chrome" does not match "i3bar"
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f2c70
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16efad0, ws = 0x16efad0
+01/02/2017 02:34:47 AM - ClientMessage for window 0x000001ef
+01/02/2017 02:34:47 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+01/02/2017 02:34:47 AM - WM_NAME changed to "i3bar for output DP-4"
+01/02/2017 02:34:47 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 02:34:47 AM - This window is of type dock
+01/02/2017 02:34:47 AM - Checking window 0x00e0000d (class i3bar)
+01/02/2017 02:34:47 AM - dock status does not match
+01/02/2017 02:34:47 AM - Checking window 0x00e0000d (class i3bar)
+01/02/2017 02:34:47 AM - dock status matches
+01/02/2017 02:34:47 AM - Checking window 0x00e0000d (class i3bar)
+01/02/2017 02:34:47 AM - Regular expression "Google-chrome" does not match "i3bar"
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f2c70
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16efad0, ws = 0x16efad0
+01/02/2017 02:34:47 AM - ClientMessage for window 0x01600002
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f38a0
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f38a0
+01/02/2017 02:34:47 AM - Urgency flag changed to 1
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f2c70
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f38a0
+01/02/2017 02:34:47 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:47 AM - _NET_WM_NAME changed to "https://listen.tidal.com"
+01/02/2017 02:34:47 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 02:34:47 AM - Regular expression "Google-chrome" matches "Google-chrome"
+01/02/2017 02:34:47 AM - window class matches (Google-chrome)
+01/02/2017 02:34:47 AM - dock status matches
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+01/02/2017 02:34:48 AM - _NET_WM_NAME changed to "TIDAL"
+01/02/2017 02:34:48 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 02:34:48 AM - Regular expression "Google-chrome" matches "Google-chrome"
+01/02/2017 02:34:48 AM - window class matches (Google-chrome)
+01/02/2017 02:34:48 AM - dock status matches
+[515:665:0102/023448:ERROR:service_manager.cc(306)] Error: invalid Name: 2725BBA5621076BEFCB6F9912E229BC4
+[3,1003621248:10:34:48.520490] Native Client module will be loaded at base address 0x000075d400000000
+01/02/2017 02:34:49 AM - _NET_WM_NAME changed to "What's New TIDAL"
+01/02/2017 02:34:49 AM - Checking window 0x01600002 (class Google-chrome)
+01/02/2017 02:34:49 AM - Regular expression "Google-chrome" matches "Google-chrome"
+01/02/2017 02:34:49 AM - window class matches (Google-chrome)
+01/02/2017 02:34:49 AM - dock status matches
+01/02/2017 02:34:50 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:34:50 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:50 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:51 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:51 AM - expose event for unknown window, ignoring
+01/02/2017 02:34:51 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:51 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:51 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:51 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:51 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:53 AM - Sending WM_DELETE to the client
+01/02/2017 02:34:53 AM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Chromium"
+01/02/2017 02:34:53 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:34:53 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:34:53 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:53 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:53 AM - expose event for unknown window, ignoring
+01/02/2017 02:34:53 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:53 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:53 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:53 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:55 AM - startup id = i3/i3-sensible-terminal/484-0-powerhaus.bnet_TIME758566
+01/02/2017 02:34:55 AM - executing: i3-sensible-terminal
+01/02/2017 02:34:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:34:55 AM - ClientMessage for window 0x01000004
+01/02/2017 02:34:55 AM - WM_CLASS changed to terminator (instance), Terminator (class)
+01/02/2017 02:34:55 AM - WM_NAME changed to "None"
+01/02/2017 02:34:55 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 02:34:55 AM - _NET_WM_NAME changed to "None"
+01/02/2017 02:34:55 AM - WM_HINTS.input changed to "1"
+01/02/2017 02:34:55 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:55 AM - dock status does not match
+01/02/2017 02:34:55 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:55 AM - dock status does not match
+01/02/2017 02:34:55 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:55 AM - dock status does not match
+01/02/2017 02:34:55 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:55 AM - dock status does not match
+01/02/2017 02:34:55 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:55 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:55 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:55 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:55 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:55 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:55 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:34:55 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f2c70
+01/02/2017 02:34:55 AM - workspace visible? fs = 0x16efad0, ws = 0x16efad0
+01/02/2017 02:34:55 AM - _NET_WM_NAME changed to "None"
+01/02/2017 02:34:55 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:55 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:55 AM - _NET_WM_NAME changed to "/bin/bash"
+01/02/2017 02:34:55 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:55 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:34:55 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:34:55 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:34:55 AM - Regular expression "Google-chrome" does not match "Terminator"
+[515:665:0102/023457:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 02:35:10 AM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu -i'
+01/02/2017 02:35:10 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:35:10 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:35:10 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:35:12 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:35:12 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:35:12 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:35:12 AM - IPC: received: *exec  "chromium "*
+01/02/2017 02:35:12 AM - startup id = i3/chromium/484-1-powerhaus.bnet_TIME775218
+01/02/2017 02:35:12 AM - executing: chromium 
+[{"success":true}]
+01/02/2017 02:35:12 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:12 AM - WM_CLASS changed to chromium (instance), Chromium (class)
+01/02/2017 02:35:12 AM - WM_NAME changed to "Untitled - Chromium"
+01/02/2017 02:35:12 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 02:35:12 AM - _NET_WM_NAME changed to "Untitled - Chromium"
+01/02/2017 02:35:12 AM - WM_WINDOW_ROLE changed to "browser"
+01/02/2017 02:35:12 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:35:12 AM - dock status does not match
+01/02/2017 02:35:12 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:35:12 AM - dock status does not match
+01/02/2017 02:35:12 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:35:12 AM - dock status does not match
+01/02/2017 02:35:12 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:35:12 AM - dock status does not match
+01/02/2017 02:35:12 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:35:12 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:35:12 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:35:12 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:35:12 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:35:12 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:35:12 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:35:12 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f2c70
+01/02/2017 02:35:12 AM - workspace visible? fs = 0x16efad0, ws = 0x16efad0
+01/02/2017 02:35:12 AM - _NET_WM_NAME changed to "New Tab - Chromium"
+01/02/2017 02:35:12 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:35:12 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:35:16 AM - _NET_WM_NAME changed to "chromium high dpi - Google Search - Chromium"
+01/02/2017 02:35:16 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:35:16 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:35:16 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:35:16 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:35:16 AM - Regular expression "Google-chrome" does not match "Terminator"
+[8811:9262:0102/023517:ERROR:object_proxy.cc(583)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+01/02/2017 02:35:17 AM - _NET_WM_NAME changed to "Untitled - Chromium"
+01/02/2017 02:35:17 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:35:17 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:35:17 AM - ClientMessage for window 0x01e00002
+01/02/2017 02:35:17 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:35:17 AM - _NET_WM_NAME changed to "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjywvvboaPRAhUKqVQKHepSAEQQFggcMAA&url=https%3A%2F%2Fwiki.archlinux.org%2Findex.php%2FHiDPI&usg=AFQjCNF5o0_ZduTtDIAG4HvQtIAWaow4Iw&sig2=24aXV81Vb7Rl2ubKxuna5g&cad=rjt - Chromium"
+01/02/2017 02:35:17 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:35:17 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:35:18 AM - _NET_WM_NAME changed to "HiDPI - ArchWiki - Chromium"
+01/02/2017 02:35:18 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:35:18 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:35:31 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:35:31 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:35:31 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:35:34 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:35:34 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:35:34 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:35:35 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:35:35 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:35:35 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:35:37 AM - Sending WM_DELETE to the client
+01/02/2017 02:35:37 AM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Chromium"
+01/02/2017 02:35:37 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:35:37 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:35:37 AM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Chromium"
+01/02/2017 02:35:37 AM - Checking window 0x01e00002 (class Chromium)
+01/02/2017 02:35:37 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:35:37 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:37 AM - expose event for unknown window, ignoring
+01/02/2017 02:35:37 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:37 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:37 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:37 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:37 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:35:37 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:35:37 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:35:37 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:35:37 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:35:37 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:35:37 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:35:37 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:35:37 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:35:39 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:35:39 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:39 AM - expose event for unknown window, ignoring
+01/02/2017 02:35:39 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:39 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:39 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:39 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:39 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:41 AM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu -i'
+01/02/2017 02:35:42 AM - IPC: received: *exec  "chromium --force-device-scale-factor=1 "*
+01/02/2017 02:35:42 AM - startup id = i3/chromium/484-2-powerhaus.bnet_TIME805387
+01/02/2017 02:35:42 AM - executing: chromium --force-device-scale-factor=1 
+01/02/2017 02:35:42 AM - Not a managed window, ignoring UnmapNotify event
+[{"success":true}]
+01/02/2017 02:35:42 AM - WM_CLASS changed to chromium (instance), Chromium (class)
+01/02/2017 02:35:42 AM - WM_NAME changed to "Untitled - Chromium"
+01/02/2017 02:35:42 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 02:35:42 AM - _NET_WM_NAME changed to "Untitled - Chromium"
+01/02/2017 02:35:42 AM - WM_WINDOW_ROLE changed to "browser"
+01/02/2017 02:35:42 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 02:35:42 AM - dock status does not match
+01/02/2017 02:35:42 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 02:35:42 AM - dock status does not match
+01/02/2017 02:35:42 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 02:35:42 AM - dock status does not match
+01/02/2017 02:35:42 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 02:35:42 AM - dock status does not match
+01/02/2017 02:35:42 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 02:35:42 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:35:42 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:35:42 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 02:35:42 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:35:42 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:35:42 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:35:42 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f2c70
+01/02/2017 02:35:42 AM - workspace visible? fs = 0x16efad0, ws = 0x16efad0
+01/02/2017 02:35:43 AM - _NET_WM_NAME changed to "Inbox – b.gonnella94@gmail.com - Chromium"
+01/02/2017 02:35:43 AM - Checking window 0x01c00002 (class Chromium)
+01/02/2017 02:35:43 AM - Regular expression "Google-chrome" does not match "Chromium"
+01/02/2017 02:35:43 AM - Sending WM_DELETE to the client
+01/02/2017 02:35:43 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:35:43 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:43 AM - expose event for unknown window, ignoring
+01/02/2017 02:35:43 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:43 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:43 AM - Not a managed window, ignoring UnmapNotify event
+[9876:10215:0102/023543:ERROR:get_updates_processor.cc(242)] PostClientToServerMessage() failed during GetUpdates
+01/02/2017 02:35:55 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:35:56 AM - executing: i3-dmenu-desktop --dmenu='rofi -dmenu -i'
+01/02/2017 02:36:01 AM - startup id = i3/i3-sensible-terminal/484-3-powerhaus.bnet_TIME825099
+01/02/2017 02:36:01 AM - executing: i3-sensible-terminal
+01/02/2017 02:36:01 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:36:02 AM - ClientMessage for window 0x01000004
+01/02/2017 02:36:02 AM - WM_CLASS changed to terminator (instance), Terminator (class)
+01/02/2017 02:36:02 AM - WM_NAME changed to "None"
+01/02/2017 02:36:02 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/02/2017 02:36:02 AM - _NET_WM_NAME changed to "None"
+01/02/2017 02:36:02 AM - WM_HINTS.input changed to "1"
+01/02/2017 02:36:02 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:36:02 AM - dock status does not match
+01/02/2017 02:36:02 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:36:02 AM - dock status does not match
+01/02/2017 02:36:02 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:36:02 AM - dock status does not match
+01/02/2017 02:36:02 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:36:02 AM - dock status does not match
+01/02/2017 02:36:02 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:36:02 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:36:02 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:36:02 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:36:02 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:36:02 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:36:02 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:36:02 AM - workspace visible? fs = 0x16f2c70, ws = 0x16f2c70
+01/02/2017 02:36:02 AM - workspace visible? fs = 0x16efad0, ws = 0x16efad0
+01/02/2017 02:36:02 AM - _NET_WM_NAME changed to "None"
+01/02/2017 02:36:02 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:36:02 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:36:02 AM - _NET_WM_NAME changed to "/bin/bash"
+01/02/2017 02:36:02 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:36:02 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:36:02 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:36:02 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:36:02 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:36:12 AM - Not a managed window, ignoring UnmapNotify event
+[515:665:0102/023612:ERROR:socket_stream.cc(210)] Closing stream with result -101
+01/02/2017 02:36:21 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:36:21 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:36:21 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:36:38 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:36:38 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:36:38 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:36:42 AM - Not a managed window, ignoring UnmapNotify event
+
+(google-chrome:515): GConf-WARNING **: Got Disconnected from DBus.
+
+01/02/2017 02:36:43 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/02/2017 02:36:43 AM - Checking window 0x01000004 (class Terminator)
+01/02/2017 02:36:43 AM - Regular expression "Google-chrome" does not match "Terminator"
+01/02/2017 02:36:43 AM - workspace visible? fs = 0x16f8370, ws = 0x16f8370
+01/02/2017 02:36:43 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:36:43 AM - expose event for unknown window, ignoring
+01/02/2017 02:36:43 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:36:43 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:36:43 AM - Not a managed window, ignoring UnmapNotify event
+01/02/2017 02:36:43 AM - Not a managed window, ignoring UnmapNotify event
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 168.165517 DPI

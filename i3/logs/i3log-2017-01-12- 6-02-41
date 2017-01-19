@@ -1,0 +1,277 @@
+01/12/2017 06:02:41 AM - i3 4.13-non-git starting
+01/12/2017 06:02:41 AM - Parsing configfile /home/bryan/.config/i3/config
+01/12/2017 06:02:41 AM - deciding for version 4 due to this line: # i3 config file (v4)
+01/12/2017 06:02:41 AM - [libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 12
+01/12/2017 06:02:41 AM - [libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 96.000000 DPI
+01/12/2017 06:02:41 AM - Initializing first assigned workspace "1" for output "DP-4"
+01/12/2017 06:02:41 AM - Creating new workspace "1"
+01/12/2017 06:02:41 AM - got output 0x8b5200 with content 0x8b6920
+01/12/2017 06:02:41 AM - num = 1
+01/12/2017 06:02:41 AM - focused now = 0x8bb360 / 1
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8b3750, ws = 0x8b3750
+01/12/2017 06:02:41 AM - Initializing first assigned workspace "2" for output "HDMI-0"
+01/12/2017 06:02:41 AM - Creating new workspace "2"
+01/12/2017 06:02:41 AM - got output 0x8b8150 with content 0x8b9a00
+01/12/2017 06:02:41 AM - num = 2
+01/12/2017 06:02:41 AM - focused now = 0x8bbfc0 / 2
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8bbfc0, ws = 0x8bbfc0
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8b3750, ws = 0x8b3750
+01/12/2017 06:02:41 AM - This is not an in-place restart, copying root window contents to a pixmap
+01/12/2017 06:02:41 AM - auto-starting compton -f
+01/12/2017 06:02:41 AM - startup id = i3/compton/32203-0-powerhaus.bnet_TIME0
+01/12/2017 06:02:41 AM - executing: compton -f
+01/12/2017 06:02:41 AM - auto-starting nitrogen --restore
+01/12/2017 06:02:41 AM - executing: nitrogen --restore
+01/12/2017 06:02:41 AM - auto-starting ~/.config/i3/lock/lock.sh
+01/12/2017 06:02:41 AM - startup id = i3/~|.config|i3|lock|lock.sh/32203-1-powerhaus.bnet_TIME0
+01/12/2017 06:02:41 AM - executing: ~/.config/i3/lock/lock.sh
+01/12/2017 06:02:41 AM - auto-starting xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+01/12/2017 06:02:41 AM - startup id = i3/xautolock/32203-2-powerhaus.bnet_TIME0
+01/12/2017 06:02:41 AM - executing: xautolock -time 15 -locker '~/.config/i3/lock/lock.sh' &
+01/12/2017 06:02:41 AM - auto-starting dunst
+01/12/2017 06:02:41 AM - executing: dunst
+01/12/2017 06:02:41 AM - auto-starting spotify &
+01/12/2017 06:02:41 AM - startup id = i3/spotify/32203-3-powerhaus.bnet_TIME0
+01/12/2017 06:02:41 AM - executing: spotify &
+01/12/2017 06:02:41 AM - Starting bar process: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.32203"
+01/12/2017 06:02:41 AM - executing: i3bar --bar_id=bar-0 --socket="/run/user/1000/i3/ipc-socket.32203"
+01/12/2017 06:02:41 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:02:41 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:02:41 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:02:41 AM - Not a managed window, ignoring UnmapNotify event
+/usr/share/spotify/spotify: /usr/lib/libssl.so.1.0.0: no version information available (required by /usr/share/spotify/spotify)
+/usr/share/spotify/spotify: /usr/lib/libcrypto.so.1.0.0: no version information available (required by /usr/share/spotify/spotify)
+/usr/share/spotify/spotify: /usr/lib/libcurl.so.3: no version information available (required by /usr/share/spotify/spotify)
+01/12/2017 06:02:41 AM - IPC: looking for config for bar ID "bar-0"
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8bbfc0, ws = 0x8bbfc0
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:02:41 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+01/12/2017 06:02:41 AM - WM_NAME changed to "i3bar for output HDMI-0"
+01/12/2017 06:02:41 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/12/2017 06:02:41 AM - This window is of type dock
+01/12/2017 06:02:41 AM - Checking window 0x01200006 (class i3bar)
+01/12/2017 06:02:41 AM - dock status does not match
+01/12/2017 06:02:41 AM - Checking window 0x01200006 (class i3bar)
+01/12/2017 06:02:41 AM - dock status matches
+01/12/2017 06:02:41 AM - Checking window 0x01200006 (class i3bar)
+01/12/2017 06:02:41 AM - Regular expression "Spotify" does not match "i3bar"
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8bbfc0, ws = 0x8bbfc0
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8b3750, ws = 0x8b3750
+01/12/2017 06:02:41 AM - ClientMessage for window 0x000001ef
+01/12/2017 06:02:41 AM - WM_CLASS changed to i3bar (instance), i3bar (class)
+01/12/2017 06:02:41 AM - WM_NAME changed to "i3bar for output DP-4"
+01/12/2017 06:02:41 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/12/2017 06:02:41 AM - This window is of type dock
+01/12/2017 06:02:41 AM - Checking window 0x0120000d (class i3bar)
+01/12/2017 06:02:41 AM - dock status does not match
+01/12/2017 06:02:41 AM - Checking window 0x0120000d (class i3bar)
+01/12/2017 06:02:41 AM - dock status matches
+01/12/2017 06:02:41 AM - Checking window 0x0120000d (class i3bar)
+01/12/2017 06:02:41 AM - Regular expression "Spotify" does not match "i3bar"
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8bbfc0, ws = 0x8bbfc0
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8b3750, ws = 0x8b3750
+/usr/share/spotify/spotify: /usr/lib/libssl.so.1.0.0: no version information available (required by /usr/share/spotify/spotify)
+/usr/share/spotify/spotify: /usr/lib/libcrypto.so.1.0.0: no version information available (required by /usr/share/spotify/spotify)
+/usr/share/spotify/spotify: /usr/lib/libcurl.so.3: no version information available (required by /usr/share/spotify/spotify)
+[0112/060241:ERROR:main_delegate.cc(752)] Could not load cef_extensions.pak
+/proc/self/exe: /usr/lib/libssl.so.1.0.0: no version information available (required by /proc/self/exe)
+/proc/self/exe: /usr/lib/libcrypto.so.1.0.0: no version information available (required by /proc/self/exe)
+/proc/self/exe: /usr/lib/libcurl.so.3: no version information available (required by /proc/self/exe)
+[0112/060241:ERROR:main_delegate.cc(752)] Could not load cef_extensions.pak
+01/12/2017 06:02:41 AM - Checking window 0x01600001 (class (null))
+01/12/2017 06:02:41 AM - dock status does not match
+01/12/2017 06:02:41 AM - Checking window 0x01600001 (class (null))
+01/12/2017 06:02:41 AM - dock status does not match
+01/12/2017 06:02:41 AM - Checking window 0x01600001 (class (null))
+01/12/2017 06:02:41 AM - dock status does not match
+01/12/2017 06:02:41 AM - Checking window 0x01600001 (class (null))
+01/12/2017 06:02:41 AM - dock status does not match
+01/12/2017 06:02:41 AM - Checking window 0x01600001 (class (null))
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:02:41 AM - Checking window 0x01600001 (class (null))
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8bbfc0, ws = 0x8bbfc0
+01/12/2017 06:02:41 AM - workspace visible? fs = 0x8b3750, ws = 0x8b3750
+01/12/2017 06:02:41 AM - _NET_WM_NAME changed to "Spotify"
+01/12/2017 06:02:41 AM - Checking window 0x01600001 (class (null))
+01/12/2017 06:02:41 AM - WM_CLASS changed to spotify (instance), Spotify (class)
+01/12/2017 06:02:41 AM - Checking window 0x01600001 (class Spotify)
+01/12/2017 06:02:41 AM - Regular expression "Spotify" matches "Spotify"
+01/12/2017 06:02:41 AM - window class matches (Spotify)
+01/12/2017 06:02:41 AM - dock status matches
+01/12/2017 06:02:42 AM - _NET_WM_NAME changed to "Spotify"
+01/12/2017 06:02:42 AM - Checking window 0x01600001 (class Spotify)
+01/12/2017 06:02:42 AM - Regular expression "Spotify" matches "Spotify"
+01/12/2017 06:02:42 AM - window class matches (Spotify)
+01/12/2017 06:02:42 AM - dock status matches
+done
+01/12/2017 06:02:50 AM - should move window to workspace 10 
+01/12/2017 06:02:50 AM - Creating new workspace "10 "
+01/12/2017 06:02:50 AM - got output 0x8b8150 with content 0x8b9a00
+01/12/2017 06:02:50 AM - num = 10
+01/12/2017 06:02:50 AM - workspace visible? fs = 0x8bbfc0, ws = 0x8c43b0
+01/12/2017 06:02:50 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:02:50 AM - focused now = 0x8bb360 / 1
+01/12/2017 06:02:50 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:02:50 AM - workspace visible? fs = 0x8bbfc0, ws = 0x8bbfc0
+01/12/2017 06:02:50 AM - workspace visible? fs = 0x8b3750, ws = 0x8b3750
+01/12/2017 06:02:50 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:02:50 AM - workspace visible? fs = 0x8bbfc0, ws = 0x8bbfc0
+01/12/2017 06:02:50 AM - workspace visible? fs = 0x8bbfc0, ws = 0x8c43b0
+01/12/2017 06:02:50 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:02:50 AM - workspace visible? fs = 0x8bbfc0, ws = 0x8bbfc0
+01/12/2017 06:02:50 AM - workspace visible? fs = 0x8bbfc0, ws = 0x8c43b0
+01/12/2017 06:02:50 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:02:53 AM - startup id = i3/playerctl/32203-4-powerhaus.bnet_TIME54454112
+01/12/2017 06:02:53 AM - executing: playerctl play
+01/12/2017 06:02:53 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:02:54 AM - _NET_WM_NAME changed to "Jay Park - 몸매 Mommae (Remix) [feat. Crush, Simon Dominic & Honey Cocaine]"
+01/12/2017 06:02:54 AM - Checking window 0x01600001 (class Spotify)
+01/12/2017 06:02:54 AM - Regular expression "Spotify" matches "Spotify"
+01/12/2017 06:02:54 AM - window class matches (Spotify)
+01/12/2017 06:02:54 AM - dock status matches
+01/12/2017 06:03:01 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" +5% && exec pkill -SIGRTMIN+10 i3blocks #increase sound volume
+01/12/2017 06:03:01 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" +5% && exec pkill -SIGRTMIN+10 i3blocks #increase sound volume
+01/12/2017 06:03:01 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" +5% && exec pkill -SIGRTMIN+10 i3blocks #increase sound volume
+01/12/2017 06:03:02 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" -5% && exec pkill -SIGRTMIN+10 i3blocks #decrease sound volume
+01/12/2017 06:03:02 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" -5% && exec pkill -SIGRTMIN+10 i3blocks #decrease sound volume
+01/12/2017 06:03:02 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" -5% && exec pkill -SIGRTMIN+10 i3blocks #decrease sound volume
+01/12/2017 06:03:03 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" +5% && exec pkill -SIGRTMIN+10 i3blocks #increase sound volume
+01/12/2017 06:03:03 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" +5% && exec pkill -SIGRTMIN+10 i3blocks #increase sound volume
+01/12/2017 06:03:04 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" -5% && exec pkill -SIGRTMIN+10 i3blocks #decrease sound volume
+01/12/2017 06:03:04 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" -5% && exec pkill -SIGRTMIN+10 i3blocks #decrease sound volume
+01/12/2017 06:03:05 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" +5% && exec pkill -SIGRTMIN+10 i3blocks #increase sound volume
+01/12/2017 06:03:06 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" +5% && exec pkill -SIGRTMIN+10 i3blocks #increase sound volume
+01/12/2017 06:03:06 AM - executing: pactl set-sink-volume "$(pacmd stat | grep 'Default sink name: ' | awk -F': ' '{print $2}')" -5% && exec pkill -SIGRTMIN+10 i3blocks #decrease sound volume
+01/12/2017 06:03:09 AM - startup id = i3/i3-sensible-terminal/32203-5-powerhaus.bnet_TIME54469374
+01/12/2017 06:03:09 AM - executing: i3-sensible-terminal
+01/12/2017 06:03:09 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:03:09 AM - ClientMessage for window 0x00c00007
+01/12/2017 06:03:09 AM - WM_CLASS changed to terminator (instance), Terminator (class)
+01/12/2017 06:03:09 AM - WM_NAME changed to "None"
+01/12/2017 06:03:09 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/12/2017 06:03:09 AM - _NET_WM_NAME changed to "None"
+01/12/2017 06:03:09 AM - WM_HINTS.input changed to "1"
+01/12/2017 06:03:09 AM - Checking window 0x00c00007 (class Terminator)
+01/12/2017 06:03:09 AM - dock status does not match
+01/12/2017 06:03:09 AM - Checking window 0x00c00007 (class Terminator)
+01/12/2017 06:03:09 AM - dock status does not match
+01/12/2017 06:03:09 AM - Checking window 0x00c00007 (class Terminator)
+01/12/2017 06:03:09 AM - dock status does not match
+01/12/2017 06:03:09 AM - Checking window 0x00c00007 (class Terminator)
+01/12/2017 06:03:09 AM - dock status does not match
+01/12/2017 06:03:09 AM - Checking window 0x00c00007 (class Terminator)
+01/12/2017 06:03:09 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 06:03:09 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:03:09 AM - Checking window 0x00c00007 (class Terminator)
+01/12/2017 06:03:09 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 06:03:09 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:03:09 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:03:09 AM - workspace visible? fs = 0x8bbfc0, ws = 0x8bbfc0
+01/12/2017 06:03:09 AM - workspace visible? fs = 0x8b3750, ws = 0x8b3750
+01/12/2017 06:03:09 AM - _NET_WM_NAME changed to "None"
+01/12/2017 06:03:09 AM - Checking window 0x00c00007 (class Terminator)
+01/12/2017 06:03:09 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 06:03:09 AM - _NET_WM_NAME changed to "/bin/bash"
+01/12/2017 06:03:09 AM - Checking window 0x00c00007 (class Terminator)
+01/12/2017 06:03:09 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 06:03:09 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 06:03:09 AM - Checking window 0x00c00007 (class Terminator)
+01/12/2017 06:03:09 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 06:03:30 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 06:03:30 AM - Checking window 0x00c00007 (class Terminator)
+01/12/2017 06:03:30 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 06:03:36 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 06:03:36 AM - Checking window 0x00c00007 (class Terminator)
+01/12/2017 06:03:36 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 06:03:37 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 06:03:37 AM - Checking window 0x00c00007 (class Terminator)
+01/12/2017 06:03:37 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 06:03:41 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:03:41 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:03:41 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:03:41 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:03:53 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:04:22 AM - _NET_WM_NAME changed to "bryan@powerhaus:~"
+01/12/2017 06:04:22 AM - Checking window 0x00c00007 (class Terminator)
+01/12/2017 06:04:22 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 06:04:24 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:04:24 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:04:24 AM - expose event for unknown window, ignoring
+01/12/2017 06:04:24 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:04:24 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:04:24 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:04:24 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:04:24 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:04:26 AM - startup id = i3/i3-nagbar/32203-6-powerhaus.bnet_TIME54546447
+01/12/2017 06:04:26 AM - executing: i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'
+01/12/2017 06:04:26 AM - Not a managed window, ignoring UnmapNotify event
+01/12/2017 06:04:26 AM - This window is of type dock
+01/12/2017 06:04:26 AM - Checking window 0x00c00006 (class (null))
+01/12/2017 06:04:26 AM - dock status matches
+01/12/2017 06:04:26 AM - Checking window 0x00c00006 (class (null))
+01/12/2017 06:04:26 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:04:26 AM - workspace visible? fs = 0x8bbfc0, ws = 0x8bbfc0
+01/12/2017 06:04:26 AM - workspace visible? fs = 0x8b3750, ws = 0x8b3750
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 96.000000 DPI
+button pressed on x = 3365, y = 0
+button released on x = 3365, y = 0
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.2478.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.2478.nagbar_cmd
+01/12/2017 06:04:28 AM - ClientMessage for window 0x02000007
+01/12/2017 06:04:28 AM - WM_CLASS changed to terminator (instance), Terminator (class)
+01/12/2017 06:04:28 AM - WM_NAME changed to "None"
+01/12/2017 06:04:28 AM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+01/12/2017 06:04:28 AM - _NET_WM_NAME changed to "None"
+01/12/2017 06:04:28 AM - WM_HINTS.input changed to "1"
+01/12/2017 06:04:28 AM - Checking window 0x02000007 (class Terminator)
+01/12/2017 06:04:28 AM - dock status does not match
+01/12/2017 06:04:28 AM - Checking window 0x02000007 (class Terminator)
+01/12/2017 06:04:28 AM - dock status does not match
+01/12/2017 06:04:28 AM - Checking window 0x02000007 (class Terminator)
+01/12/2017 06:04:28 AM - dock status does not match
+01/12/2017 06:04:28 AM - Checking window 0x02000007 (class Terminator)
+01/12/2017 06:04:28 AM - dock status does not match
+01/12/2017 06:04:28 AM - Checking window 0x02000007 (class Terminator)
+01/12/2017 06:04:28 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 06:04:28 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:04:28 AM - Checking window 0x02000007 (class Terminator)
+01/12/2017 06:04:28 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 06:04:28 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:04:28 AM - workspace visible? fs = 0x8bb360, ws = 0x8bb360
+01/12/2017 06:04:28 AM - workspace visible? fs = 0x8bbfc0, ws = 0x8bbfc0
+01/12/2017 06:04:28 AM - workspace visible? fs = 0x8b3750, ws = 0x8b3750
+01/12/2017 06:04:28 AM - _NET_WM_NAME changed to "None"
+01/12/2017 06:04:28 AM - Checking window 0x02000007 (class Terminator)
+01/12/2017 06:04:28 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 06:04:28 AM - _NET_WM_NAME changed to "/bin/bash"
+01/12/2017 06:04:28 AM - Checking window 0x02000007 (class Terminator)
+01/12/2017 06:04:28 AM - Regular expression "Spotify" does not match "Terminator"
+01/12/2017 06:04:28 AM - IPC: received: *exit*
+01/12/2017 06:04:28 AM - Exiting due to user command.
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 12
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 96.000000 DPI
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 30657 requests (30643 known processed) with 0 events remaining.
+button with label *Yes, exit i3* and action *i3-msg exit*
+now 1 buttons
+[libi3] ../../i3-4.13/libi3/font.c Using Pango font monospace, size 8
+[libi3] ../../i3-4.13/libi3/font.c X11 root window dictates 96.000000 DPI
+button pressed on x = 3365, y = 0
+button released on x = 3365, y = 0
+argv0 = i3-nagbar
+terminal_cmd = i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.2478.nagbar_cmd
+executing: i3-sensible-terminal -e /run/user/1000/i3/nagbar-cmd.2478.nagbar_cmd
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 214 requests (214 known processed) with 0 events remaining.
+Error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity - escape ampersand as &amp;
+[0112/060428:ERROR:x11_util.cc(92)] X IO error received (X server probably went away)
